@@ -8796,8 +8796,8 @@
     "stateCode": "CO",
     "association": "NCAA Division II",
     "conference": "Rocky Mountain Athletic Conference",
-    "url": "https://asugrizzlies.comindex.aspx/",
-    "favicon": "https://www.google.com/s2/favicons?domain=asugrizzlies.comindex.aspx&sz=64"
+    "url": "https://asugrizzlies.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=asugrizzlies.com&sz=64"
   },
   {
     "id": 935,
@@ -8820,17 +8820,6 @@
     "conference": "Southern Intercollegiate Athletics Conference",
     "url": "https://asugoldenrams.com/",
     "favicon": "https://www.google.com/s2/favicons?domain=asugoldenrams.com&sz=64"
-  },
-  {
-    "id": 937,
-    "name": "Alderson Broaddus University",
-    "city": "Philippi",
-    "state": "West Virginia",
-    "stateCode": "WV",
-    "association": "NCAA Division II",
-    "conference": "Great Midwest Athletic Conference",
-    "url": "https://gobattlers.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=gobattlers.com&sz=64"
   },
   {
     "id": 938,
@@ -8875,17 +8864,6 @@
     "conference": "Great American Conference",
     "url": "https://arkansastechsports.com/",
     "favicon": "https://www.google.com/s2/favicons?domain=arkansastechsports.com&sz=64"
-  },
-  {
-    "id": 942,
-    "name": "Armstrong State University",
-    "city": "Savannah",
-    "state": "Georgia",
-    "stateCode": "GA",
-    "association": "NCAA Division II",
-    "conference": "Peach Belt Conference",
-    "url": "https://armstrongpirates.comlanding/index",
-    "favicon": "https://www.google.com/s2/favicons?domain=armstrongpirates.comlanding&sz=64"
   },
   {
     "id": 943,
@@ -9192,8 +9170,8 @@
     "stateCode": "CA",
     "association": "NCAA Division II",
     "conference": "California Collegiate Athletic Association",
-    "url": "https://csulaathletics.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=csulaathletics.com&sz=64"
+    "url": "https://lagoldeneagles.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=lagoldeneagles.com&sz=64"
   },
   {
     "id": 971,
@@ -9258,8 +9236,8 @@
     "stateCode": "NC",
     "association": "NCAA Division II",
     "conference": "South Atlantic Conference",
-    "url": "https://gocatawbaindians.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=gocatawbaindians.com&sz=64"
+    "url": "https://catawbaathletics.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=catawbaathletics.com&sz=64"
   },
   {
     "id": 977,
@@ -9415,17 +9393,7 @@
     "url": "https://cokercobras.com/",
     "favicon": "https://www.google.com/s2/favicons?domain=cokercobras.com&sz=64"
   },
-  {
-    "id": 991,
-    "name": "College of Saint Rose",
-    "city": "Albany",
-    "state": "New York",
-    "stateCode": "NY",
-    "association": "NCAA Division II",
-    "conference": "Northeast-10 Conference",
-    "url": "https://www.gogoldenknights.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=www.gogoldenknights.com&sz=64"
-  },
+
   {
     "id": 992,
     "name": "Colorado Christian University",
@@ -9456,8 +9424,8 @@
     "stateCode": "CO",
     "association": "NCAA Division II",
     "conference": "Rocky Mountain Athletic Conference",
-    "url": "https://csmorediggers.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=csmorediggers.com&sz=64"
+    "url": "https://minesathletics.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=minesathletics.com&sz=64"
   },
   {
     "id": 995,
@@ -9515,17 +9483,6 @@
     "favicon": "https://www.google.com/s2/favicons?domain=cuieagles.com&sz=64"
   },
   {
-    "id": 1000,
-    "name": "Concordia University - Portland",
-    "city": "Portland",
-    "state": "Oregon",
-    "stateCode": "OR",
-    "association": "NCAA Division II",
-    "conference": "Great Northwest Athletic Conference",
-    "url": "https://gocugo.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=gocugo.com&sz=64"
-  },
-  {
     "id": 1001,
     "name": "Concordia University - St. Paul",
     "city": "Saint Paul",
@@ -9549,14 +9506,14 @@
   },
   {
     "id": 1003,
-    "name": "Daemen College",
+    "name": "Daemen University",
     "city": "Amherst",
     "state": "New York",
     "stateCode": "NY",
     "association": "NCAA Division II",
     "conference": "East Coast Conference",
-    "url": "https://wildcats.daemen.edu/",
-    "favicon": "https://www.google.com/s2/favicons?domain=wildcats.daemen.edu&sz=64"
+    "url": "https://daemenwildcats.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=daemenwildcats.com&sz=64"
   },
   {
     "id": 1004,
@@ -9593,14 +9550,14 @@
   },
   {
     "id": 1007,
-    "name": "Dixie State University",
+    "name": "Utah Tech University",
     "city": "St. George",
     "state": "Utah",
     "stateCode": "UT",
     "association": "NCAA Division II",
     "conference": "Pacific West Conference",
-    "url": "https://www.dixieathletics.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=www.dixieathletics.com&sz=64"
+    "url": "https://utahtechtrailblazers.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=utahtechtrailblazers.com&sz=64"
   },
   {
     "id": 1008,
@@ -9874,8 +9831,8 @@
     "stateCode": "NH",
     "association": "NCAA Division II",
     "conference": "Northeast-10 Conference",
-    "url": "https://athletics.franklinpierce.edu/",
-    "favicon": "https://www.google.com/s2/favicons?domain=athletics.franklinpierce.edu&sz=64"
+    "url": "https://fpuravens.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=fpuravens.com&sz=64"
   },
   {
     "id": 1033,
@@ -10219,17 +10176,6 @@
     "favicon": "https://www.google.com/s2/favicons?domain=lewisflyers.com&sz=64"
   },
   {
-    "id": 1064,
-    "name": "Limestone College",
-    "city": "Gaffney",
-    "state": "South Carolina",
-    "stateCode": "SC",
-    "association": "NCAA Division II",
-    "conference": "Conference Carolinas",
-    "url": "https://golimestonesaints.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=golimestonesaints.com&sz=64"
-  },
-  {
     "id": 1065,
     "name": "Lincoln Memorial University",
     "city": "Harrogate-Shawanee",
@@ -10468,8 +10414,8 @@
     "stateCode": "PA",
     "association": "NCAA Division II",
     "conference": "Pennsylvania State Athletic Conference",
-    "url": "https://www.millersvilleathletics.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=www.millersvilleathletics.com&sz=64"
+    "url": "https://millersvilleathletics.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=millersvilleathletics.com&sz=64"
   },
   {
     "id": 1087,
@@ -10724,17 +10670,7 @@
     "url": "https://www.notredamefalcons.com/",
     "favicon": "https://www.google.com/s2/favicons?domain=www.notredamefalcons.com&sz=64"
   },
-  {
-    "id": 1110,
-    "name": "Notre Dame De Namur University",
-    "city": "Belmont",
-    "state": "California",
-    "stateCode": "CA",
-    "association": "NCAA Division II",
-    "conference": "Pacific West Conference",
-    "url": "https://www.ndnuargos.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=www.ndnuargos.com&sz=64"
-  },
+
   {
     "id": 1111,
     "name": "Nova Southeastern University",
@@ -10765,8 +10701,8 @@
     "stateCode": "IN",
     "association": "NCAA Division II",
     "conference": "Independent",
-    "url": "https://www.oak.edu/athletics2/",
-    "favicon": "https://www.google.com/s2/favicons?domain=www.oak.edu&sz=64"
+    "url": "https://gomightyoaks.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=gomightyoaks.com&sz=64"
   },
   {
     "id": 1114,
@@ -10779,17 +10715,7 @@
     "url": "https://ohiodominicanpanthers.com/",
     "favicon": "https://www.google.com/s2/favicons?domain=ohiodominicanpanthers.com&sz=64"
   },
-  {
-    "id": 1115,
-    "name": "Ohio Valley University",
-    "city": "Vienna",
-    "state": "West Virginia",
-    "stateCode": "WV",
-    "association": "NCAA Division II",
-    "conference": "Great Midwest Athletic Conference",
-    "url": "https://fightingscots.ovu.edu/",
-    "favicon": "https://www.google.com/s2/favicons?domain=fightingscots.ovu.edu&sz=64"
-  },
+
   {
     "id": 1116,
     "name": "Oklahoma Baptist University",
@@ -11011,17 +10937,6 @@
     "favicon": "https://www.google.com/s2/favicons?domain=www.saintanselmhawks.com&sz=64"
   },
   {
-    "id": 1136,
-    "name": "Saint Augustines University",
-    "city": "Raleigh",
-    "state": "North Carolina",
-    "stateCode": "NC",
-    "association": "NCAA Division II",
-    "conference": "Central Intercollegiate Athletic Association",
-    "url": "https://saintaugfalcons.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=saintaugfalcons.com&sz=64"
-  },
-  {
     "id": 1137,
     "name": "Saint Josephs College",
     "city": "Rensselaer",
@@ -11029,8 +10944,8 @@
     "stateCode": "IN",
     "association": "NCAA Division II",
     "conference": "",
-    "url": "https://athletics.saintjoe.edu/",
-    "favicon": "https://www.google.com/s2/favicons?domain=athletics.saintjoe.edu&sz=64"
+    "url": "https://gomonks.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=gomonks.com&sz=64"
   },
   {
     "id": 1138,
@@ -11205,8 +11120,8 @@
     "stateCode": "SD",
     "association": "NCAA Division II",
     "conference": "Rocky Mountain Athletic Conference",
-    "url": "https://athletics.sdsmt.edu/",
-    "favicon": "https://www.google.com/s2/favicons?domain=athletics.sdsmt.edu&sz=64"
+    "url": "https://gorockers.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=gorockers.com&sz=64"
   },
   {
     "id": 1154,
@@ -11326,8 +11241,8 @@
     "stateCode": "MN",
     "association": "NCAA Division II",
     "conference": "Northern Sun Intercollegiate Conference",
-    "url": "https://www.scsuhuskies.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=www.scsuhuskies.com&sz=64"
+    "url": "https://scsuhuskies.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=scsuhuskies.com&sz=64"
   },
   {
     "id": 1165,
@@ -11337,8 +11252,8 @@
     "stateCode": "TX",
     "association": "NCAA Division II",
     "conference": "Heartland Conference",
-    "url": "https://athletics.stedwards.edu/",
-    "favicon": "https://www.google.com/s2/favicons?domain=athletics.stedwards.edu&sz=64"
+    "url": "https://gohilltoppers.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=gohilltoppers.com&sz=64"
   },
   {
     "id": 1166,
@@ -11522,10 +11437,10 @@
     "city": "San Diego",
     "state": "California",
     "stateCode": "CA",
-    "association": "NCAA Division II",
-    "conference": "California Collegiate Athletic Association",
-    "url": "https://athletics.ucsd.edu/",
-    "favicon": "https://www.google.com/s2/favicons?domain=athletics.ucsd.edu&sz=64"
+    "association": "NCAA Division I",
+    "conference": "Big West Conference",
+    "url": "https://ucsdtritons.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=ucsdtritons.com&sz=64"
   },
   {
     "id": 1183,
@@ -11930,9 +11845,9 @@
     "state": "Georgia",
     "stateCode": "GA",
     "association": "NCAA Division II",
-    "conference": "Gulf South Conference",
-    "url": "https://uwgsports.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=uwgsports.com&sz=64"
+    "conference": "Atlantic Sun Conference",
+    "url": "https://uwgathletics.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=uwgathletics.com&sz=64"
   },
   {
     "id": 1220,
@@ -12239,8 +12154,8 @@
     "stateCode": "KY",
     "association": "NAIA",
     "conference": "Kentucky Intercollegiate Athletic Conference",
-    "url": "https://alc.edu/athletics",
-    "favicon": "https://www.google.com/s2/favicons?domain=alc.edu&sz=64"
+    "url": "https://alicelloydeagles.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=alicelloydeagles.com&sz=64"
   },
   {
     "id": 1248,
@@ -12309,17 +12224,6 @@
     "favicon": "https://www.google.com/s2/favicons?domain=avilaathletics.com&sz=64"
   },
   {
-    "id": 1254,
-    "name": "Bacone College",
-    "city": "Muskogee",
-    "state": "Oklahoma",
-    "stateCode": "OK",
-    "association": "NAIA",
-    "conference": "Sooner Athletic Conference",
-    "url": "https://athletics.bacone.edu/",
-    "favicon": "https://www.google.com/s2/favicons?domain=athletics.bacone.edu&sz=64"
-  },
-  {
     "id": 1255,
     "name": "Baker University",
     "city": "Baldwin City",
@@ -12354,14 +12258,14 @@
   },
   {
     "id": 1258,
-    "name": "Benedictine University at Mesa",
+    "name": "Benedictine University",
     "city": "Mesa",
     "state": "Arizona",
     "stateCode": "AZ",
     "association": "NAIA",
     "conference": "California Pacific Conference",
-    "url": "https://benumesasports.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=benumesasports.com&sz=64"
+    "url": "https://benuredhawks.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=benuredhawks.com&sz=64"
   },
   {
     "id": 1259,
@@ -12409,14 +12313,14 @@
   },
   {
     "id": 1263,
-    "name": "Blue Mountain College",
+    "name": "Blue Mountain Christian University",
     "city": "Blue Mountain",
     "state": "Mississippi",
     "stateCode": "MS",
     "association": "NAIA",
     "conference": "Southern States Athletic Conference",
-    "url": "https://bmcsports.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=bmcsports.com&sz=64"
+    "url": "https://bmcusports.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=bmcusports.com&sz=64"
   },
   {
     "id": 1264,
@@ -12453,14 +12357,14 @@
   },
   {
     "id": 1267,
-    "name": "Brewton-Parker College",
+    "name": "Brewton-Parker Christian University",
     "city": "Mount Vernon",
     "state": "Georgia",
     "stateCode": "GA",
     "association": "NAIA",
     "conference": "Southern States Athletic Conference",
-    "url": "https://gobaronsgo.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=gobaronsgo.com&sz=64"
+    "url": "https://bpcuathletics.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=bpcuathletics.com&sz=64"
   },
   {
     "id": 1268,
@@ -12492,8 +12396,8 @@
     "stateCode": "CA",
     "association": "NAIA",
     "conference": "California Pacific Conference",
-    "url": "https://cmakeelhaulers.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=cmakeelhaulers.com&sz=64"
+    "url": "https://gokeelhaulers.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=gokeelhaulers.com&sz=64"
   },
   {
     "id": 1271,
@@ -12518,17 +12422,6 @@
     "favicon": "https://www.google.com/s2/favicons?domain=campbellsvilletigers.com&sz=64"
   },
   {
-    "id": 1273,
-    "name": "Cardinal Stritch University",
-    "city": "Milwaukee",
-    "state": "Wisconsin",
-    "stateCode": "WI",
-    "association": "NAIA",
-    "conference": "Chicagoland Collegiate Athletic Conference",
-    "url": "https://stritchwolves.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=stritchwolves.com&sz=64"
-  },
-  {
     "id": 1274,
     "name": "Carlow University",
     "city": "Pittsburgh",
@@ -12536,8 +12429,8 @@
     "stateCode": "PA",
     "association": "NAIA",
     "conference": "Kentucky Intercollegiate Athletic Conference",
-    "url": "https://carlow.edu/Athletics.aspx",
-    "favicon": "https://www.google.com/s2/favicons?domain=carlow.edu&sz=64"
+    "url": "https://athletics.carlow.edu/",
+    "favicon": "https://www.google.com/s2/favicons?domain=athletics.carlow.edu&sz=64"
   },
   {
     "id": 1275,
@@ -12583,17 +12476,7 @@
     "url": "https://cmueagles.com/",
     "favicon": "https://www.google.com/s2/favicons?domain=cmueagles.com&sz=64"
   },
-  {
-    "id": 1279,
-    "name": "Cincinnati Christian University",
-    "city": "Cincinnati",
-    "state": "Ohio",
-    "stateCode": "OH",
-    "association": "NAIA",
-    "conference": "Kentucky Intercollegiate Athletic Conference",
-    "url": "https://ccuathletics.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=ccuathletics.com&sz=64"
-  },
+
   {
     "id": 1280,
     "name": "Clarke University",
@@ -12602,8 +12485,8 @@
     "stateCode": "IA",
     "association": "NAIA",
     "conference": "Heart of America Athletic Conference",
-    "url": "https://clarkecrusaders.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=clarkecrusaders.com&sz=64"
+    "url": "https://clarkepride.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=clarkepride.com&sz=64"
   },
   {
     "id": 1281,
@@ -12648,17 +12531,6 @@
     "conference": "Great Plains Athletic Conference",
     "url": "https://csmflames.com/",
     "favicon": "https://www.google.com/s2/favicons?domain=csmflames.com&sz=64"
-  },
-  {
-    "id": 1285,
-    "name": "College of St. Joseph - VT",
-    "city": "Rutland",
-    "state": "Vermont",
-    "stateCode": "VT",
-    "association": "NAIA",
-    "conference": "Independent",
-    "url": "https://www.csjfightingsaints.com/landing/index",
-    "favicon": "https://www.google.com/s2/favicons?domain=www.csjfightingsaints.com&sz=64"
   },
   {
     "id": 1286,
@@ -14222,7 +14094,7 @@
     "stateCode": "AL",
     "association": "NAIA",
     "conference": "Independent",
-    "url": "https://www.gostillman.com/index.php",
+    "url": "https://gostillman.com/",
     "favicon": "https://www.google.com/s2/favicons?domain=www.gostillman.com&sz=64"
   },
   {
