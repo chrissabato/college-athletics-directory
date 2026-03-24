@@ -60,16 +60,22 @@ body {
   flex-wrap: wrap;
 }
 
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
 .ext-link {
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
-  color: rgba(255, 255, 255, 0.85);
+  color: rgba(255, 255, 255, 0.9);
   text-decoration: none;
   font-size: 0.85rem;
   font-weight: 600;
-  background: transparent;
-  border: 1.5px solid rgba(255, 255, 255, 0.4);
+  background: rgba(0, 0, 0, 0.25);
+  border: 1.5px solid rgba(255, 255, 255, 0.3);
   border-radius: var(--radius-sm);
   padding: 0.35rem 0.75rem;
   white-space: nowrap;
@@ -79,7 +85,7 @@ body {
 }
 
 .ext-link:hover {
-  background: rgba(255, 255, 255, 0.15);
+  background: rgba(0, 0, 0, 0.4);
   color: #fff;
 }
 
@@ -448,7 +454,7 @@ body {
 .modal-backdrop {
   position: fixed;
   inset: 0;
-  background: rgba(0,0,0,0.45);
+  background: rgba(0,0,0,0.7);
   z-index: 500;
   display: flex;
   align-items: center;
@@ -602,6 +608,133 @@ body {
   opacity: 1;
   transform: translateX(-50%) translateY(0);
 }
+
+/* ── Extension Modal Content ─────────────────────────────────────────────── */
+.modal--wide {
+  max-width: 600px;
+}
+
+.review-notice {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.65rem;
+  background: #eef4ff;
+  border: 1px solid #b0c8f0;
+  border-radius: var(--radius-sm);
+  padding: 0.9rem 1.1rem;
+  font-size: 0.9rem;
+  color: #1a3a6b;
+  line-height: 1.5;
+  margin-bottom: 1.25rem;
+}
+
+.review-notice svg { flex-shrink: 0; margin-top: 0.1rem; }
+
+.ext-hero {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
+.ext-icon {
+  width: 56px;
+  height: 56px;
+  border-radius: var(--radius-sm);
+  flex-shrink: 0;
+  overflow: hidden;
+}
+
+.ext-hero-text p {
+  color: var(--color-text-muted);
+  font-size: 0.95rem;
+}
+
+.download-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: var(--color-primary);
+  color: #fff;
+  padding: 0.7rem 1.25rem;
+  border-radius: var(--radius-sm);
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 0.9rem;
+  transition: background 0.2s ease;
+  margin-bottom: 1.25rem;
+}
+
+.download-btn:hover { background: var(--color-primary-light); }
+.download-btn svg { width: 16px; height: 16px; }
+
+.steps {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-bottom: 1.25rem;
+}
+
+.step {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  padding: 1rem;
+}
+
+.step-number {
+  width: 28px;
+  height: 28px;
+  background: var(--color-primary);
+  color: #fff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 800;
+  font-size: 0.85rem;
+  flex-shrink: 0;
+}
+
+.step-body h3 {
+  font-size: 0.95rem;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+  color: var(--color-text);
+}
+
+.step-body p {
+  font-size: 0.875rem;
+  color: var(--color-text-muted);
+  line-height: 1.5;
+}
+
+.step-body a { color: var(--color-primary); font-weight: 600; }
+
+.step-body code {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  padding: 0.1rem 0.4rem;
+  font-size: 0.82rem;
+  font-family: 'Courier New', monospace;
+  color: var(--color-text);
+}
+
+.note {
+  background: #fffbf0;
+  border: 1px solid #f0d080;
+  border-radius: var(--radius-sm);
+  padding: 0.9rem 1.1rem;
+  font-size: 0.875rem;
+  color: #7a5c00;
+  line-height: 1.6;
+}
+
+.note a { color: #5a4000; font-weight: 600; }
 
 /* ── Footer ─────────────────────────────────────────────────────────────── */
 .site-footer {

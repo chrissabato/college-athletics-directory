@@ -17,18 +17,20 @@
           <img src="logo.svg" alt="" class="site-logo" aria-hidden="true">
           <h1 class="site-title">College Athletics Website Directory</h1>
         </div>
-        <button id="report-link" class="ext-link" type="button">
-          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
-            <circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>
-          </svg>
-          Report an Issue
-        </button>
-        <a href="/extension.html" class="ext-link">
-          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
-            <circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="22" y2="22"/>
-          </svg>
-          Chrome Extension
-        </a>
+        <div class="header-actions">
+          <button id="report-link" class="ext-link" type="button">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+              <circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>
+            </svg>
+            Report an Issue
+          </button>
+          <button id="extension-link" class="ext-link" type="button">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+              <circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="22" y2="22"/>
+            </svg>
+            Chrome Extension
+          </button>
+        </div>
       </div>
     </div>
   </header>
@@ -130,6 +132,78 @@
   <footer class="site-footer">
     <p>College Athletics Website Directory — Created by <a href="https://www.chrissabato.com/" target="_blank" rel="noopener noreferrer">Chris Sabato</a></p>
   </footer>
+
+  <!-- Extension modal -->
+  <div id="extension-modal" class="modal-backdrop" hidden>
+    <div class="modal modal--wide" role="dialog" aria-modal="true" aria-labelledby="ext-modal-title">
+      <div class="modal-header">
+        <h2 id="ext-modal-title">Chrome Extension</h2>
+        <button id="ext-modal-close" class="modal-close" aria-label="Close">&times;</button>
+      </div>
+      <div class="modal-body">
+
+        <div class="review-notice">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>
+          </svg>
+          <span>This extension is currently under review for publishing on the Chrome Web Store. In the meantime, you can install it manually using the instructions below.</span>
+        </div>
+
+
+        <a href="https://github.com/chrissabato/college-athletics-directory/archive/refs/heads/main.zip" class="download-btn" target="_blank" rel="noopener noreferrer">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+            <polyline points="7 10 12 15 17 10"/>
+            <line x1="12" y1="15" x2="12" y2="3"/>
+          </svg>
+          Download from GitHub
+        </a>
+
+        <div class="steps">
+          <div class="step">
+            <div class="step-number">1</div>
+            <div class="step-body">
+              <h3>Download the repository</h3>
+              <p>Click the button above to download the ZIP file from GitHub. Unzip it somewhere on your computer — you'll need to keep the folder in place.</p>
+            </div>
+          </div>
+          <div class="step">
+            <div class="step-number">2</div>
+            <div class="step-body">
+              <h3>Open Chrome Extensions</h3>
+              <p>In Chrome, navigate to <code>chrome://extensions</code> or open the menu &rarr; <strong>More Tools</strong> &rarr; <strong>Extensions</strong>.</p>
+            </div>
+          </div>
+          <div class="step">
+            <div class="step-number">3</div>
+            <div class="step-body">
+              <h3>Enable Developer Mode</h3>
+              <p>Toggle on <strong>Developer mode</strong> using the switch in the top-right corner of the Extensions page.</p>
+            </div>
+          </div>
+          <div class="step">
+            <div class="step-number">4</div>
+            <div class="step-body">
+              <h3>Load the extension</h3>
+              <p>Click <strong>Load unpacked</strong>, then navigate to the unzipped folder and select the <code>extension</code> subfolder inside it.</p>
+            </div>
+          </div>
+          <div class="step">
+            <div class="step-number">5</div>
+            <div class="step-body">
+              <h3>Pin it to your toolbar</h3>
+              <p>Click the puzzle piece icon &#9928; in Chrome's toolbar, find <strong>College Athletics Website Directory</strong>, and click the pin icon to keep it visible.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="note">
+          <strong>Note:</strong> This is an unpacked extension and requires Developer mode to remain enabled in Chrome. The extension fetches its data from <a href="https://directory.chrissabato.com" target="_blank" rel="noopener noreferrer">directory.chrissabato.com</a> and caches it locally for fast searches.
+        </div>
+
+      </div>
+    </div>
+  </div>
 
   <!-- Correction modal -->
   <div id="correction-modal" class="modal-backdrop" hidden>

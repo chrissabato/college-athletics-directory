@@ -352,9 +352,27 @@ function showToast() {
 
 modalClose.addEventListener("click", closeModal);
 modal.addEventListener("click", e => { if (e.target === modal) closeModal(); });
-document.addEventListener("keydown", e => { if (e.key === "Escape") closeModal(); });
+document.addEventListener("keydown", e => { if (e.key === "Escape") { closeModal(); closeExtModal(); } });
 
 document.getElementById("report-link").addEventListener("click", () => openModal(""));
+
+// ── Extension Modal ─────────────────────────────────────────────────────────
+const extModal      = document.getElementById("extension-modal");
+const extModalClose = document.getElementById("ext-modal-close");
+
+function openExtModal() {
+  extModal.hidden = false;
+  document.body.style.overflow = "hidden";
+}
+
+function closeExtModal() {
+  extModal.hidden = true;
+  document.body.style.overflow = "";
+}
+
+document.getElementById("extension-link").addEventListener("click", openExtModal);
+extModalClose.addEventListener("click", closeExtModal);
+extModal.addEventListener("click", e => { if (e.target === extModal) closeExtModal(); });
 
 corrForm.addEventListener("submit", async e => {
   e.preventDefault();
