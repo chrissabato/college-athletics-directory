@@ -132,6 +132,25 @@
       height: 18px;
     }
 
+    .review-notice {
+      display: flex;
+      align-items: flex-start;
+      gap: 0.65rem;
+      background: #eef4ff;
+      border: 1px solid #b0c8f0;
+      border-radius: var(--radius-sm);
+      padding: 0.9rem 1.1rem;
+      font-size: 0.9rem;
+      color: #1a3a6b;
+      line-height: 1.5;
+      margin-bottom: 2rem;
+    }
+
+    .review-notice svg {
+      flex-shrink: 0;
+      margin-top: 0.1rem;
+    }
+
     .note {
       background: #fffbf0;
       border: 1px solid #f0d080;
@@ -174,6 +193,13 @@
       </svg>
       Back to Directory
     </a>
+
+    <div class="review-notice">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+        <circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>
+      </svg>
+      <span>This extension is currently under review for publishing on the Chrome Web Store. In the meantime, you can install it manually using the instructions below.</span>
+    </div>
 
     <div class="ext-hero">
       <div class="ext-icon">
