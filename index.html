@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>College Athletics Website Directory</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <h1 class="site-title">College Athletics Website Directory</h1>
+    </div>
+  </header>
+
+  <section class="controls" aria-label="Search and filter controls">
+    <div class="controls-inner">
+
+      <!-- Search with autocomplete -->
+      <div class="search-container">
+        <label class="control-label" for="search-input">Search Schools</label>
+        <div class="autocomplete-wrapper">
+          <svg class="search-icon" aria-hidden="true" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="8.5" cy="8.5" r="5.5"/>
+            <line x1="12.5" y1="12.5" x2="17" y2="17"/>
+          </svg>
+          <input
+            type="text"
+            id="search-input"
+            class="search-input"
+            placeholder="Type a school name…"
+            autocomplete="off"
+            aria-autocomplete="list"
+            aria-controls="autocomplete-list"
+            aria-expanded="false"
+          >
+          <ul
+            id="autocomplete-list"
+            class="autocomplete-list"
+            role="listbox"
+            aria-label="School suggestions"
+            hidden
+          ></ul>
+        </div>
+      </div>
+
+      <!-- Filters row -->
+      <div class="filters-row">
+
+        <div class="filter-group">
+          <label class="control-label" for="state-filter">State</label>
+          <div class="select-wrapper">
+            <select id="state-filter" class="filter-select">
+              <option value="">All States</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="filter-group">
+          <label class="control-label" for="association-filter">Association</label>
+          <div class="select-wrapper">
+            <select id="association-filter" class="filter-select">
+              <option value="">All Associations</option>
+              <option value="NCAA Division I">NCAA Division I</option>
+              <option value="NCAA Division II">NCAA Division II</option>
+              <option value="NCAA Division III">NCAA Division III</option>
+              <option value="NAIA">NAIA</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="filter-group">
+          <label class="control-label" for="conference-filter">Conference</label>
+          <div class="select-wrapper">
+            <select id="conference-filter" class="filter-select">
+              <option value="">All Conferences</option>
+            </select>
+          </div>
+        </div>
+
+        <button id="reset-btn" class="reset-btn" type="button">Reset Filters</button>
+
+      </div>
+    </div>
+  </section>
+
+  <main class="main-content">
+
+    <div class="results-meta" role="status" aria-live="polite">
+      <span id="results-count" class="results-count"></span>
+    </div>
+
+    <div id="results-grid" class="results-grid" role="list" aria-label="School results"></div>
+
+    <div id="empty-state" class="empty-state" hidden role="alert">
+      <svg class="empty-icon" aria-hidden="true" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2">
+        <circle cx="24" cy="24" r="20"/>
+        <line x1="15" y1="15" x2="33" y2="33"/>
+        <line x1="33" y1="15" x2="15" y2="33"/>
+      </svg>
+      <p class="empty-title">No schools found</p>
+      <p class="empty-body">Try adjusting your search or filter criteria.</p>
+      <button id="empty-reset-btn" class="reset-btn" type="button">Clear All Filters</button>
+    </div>
+
+  </main>
+
+  <footer class="site-footer">
+    <p>College Athletics Website Directory</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
