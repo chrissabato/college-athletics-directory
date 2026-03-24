@@ -325,6 +325,7 @@ const modalClose   = document.getElementById("modal-close");
 const schoolField  = document.getElementById("field-school");
 const corrForm     = document.getElementById("correction-form");
 const formStatus   = document.getElementById("form-status");
+const toast        = document.getElementById("toast");
 
 function openModal(schoolName) {
   schoolField.value = schoolName;
@@ -338,6 +339,15 @@ function openModal(schoolName) {
 function closeModal() {
   modal.hidden = true;
   document.body.style.overflow = "";
+}
+
+function showToast() {
+  toast.hidden = false;
+  toast.classList.add("toast--visible");
+  setTimeout(() => {
+    toast.classList.remove("toast--visible");
+    toast.addEventListener("transitionend", () => { toast.hidden = true; }, { once: true });
+  }, 3000);
 }
 
 modalClose.addEventListener("click", closeModal);
@@ -368,9 +378,8 @@ corrForm.addEventListener("submit", async e => {
     const json = await res.json();
     formStatus.hidden = false;
     if (res.ok) {
-      formStatus.className = "form-status form-status--success";
-      formStatus.textContent = "Thanks! Your report has been submitted.";
-      corrForm.reset();
+      closeModal();
+      showToast();
     } else {
       throw new Error(json.error || "Unknown error");
     }
