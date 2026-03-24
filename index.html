@@ -4,6 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>College Athletics Website Directory</title>
+  <link rel="icon" type="image/svg+xml" href="logo.svg">
+  <link rel="icon" type="image/png" href="favicon.png">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -11,7 +13,10 @@
   <header class="site-header">
     <div class="header-inner">
       <div class="header-top">
-        <h1 class="site-title">College Athletics Website Directory</h1>
+        <div class="header-brand">
+          <img src="logo.svg" alt="" class="site-logo" aria-hidden="true">
+          <h1 class="site-title">College Athletics Website Directory</h1>
+        </div>
         <button id="report-link" class="ext-link" type="button">
           <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
             <circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>
@@ -123,7 +128,7 @@
   <div id="toast" class="toast" hidden>Thanks! Your report has been submitted.</div>
 
   <footer class="site-footer">
-    <p>College Athletics Website Directory</p>
+    <p>College Athletics Website Directory — Created by <a href="https://www.chrissabato.com/" target="_blank" rel="noopener noreferrer">Chris Sabato</a></p>
   </footer>
 
   <!-- Correction modal -->
