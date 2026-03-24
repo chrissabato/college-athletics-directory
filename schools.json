@@ -834,7 +834,7 @@
     "state": "Georgia",
     "stateCode": "GA",
     "association": "NCAA Division III",
-    "conference": "USA South",
+    "conference": "Collegiate Conference of the South",
     "url": "https://athletics.covenant.edu/",
     "city": "Lookout Mountain",
     "favicon": "https://www.google.com/s2/favicons?domain=athletics.covenant.edu&sz=64"
@@ -1754,7 +1754,7 @@
     "state": "Georgia",
     "stateCode": "GA",
     "association": "NCAA Division III",
-    "conference": "USA South",
+    "conference": "Collegiate Conference of the South",
     "url": "https://lagrangepanthers.com/",
     "city": "LaGrange",
     "favicon": "https://www.google.com/s2/favicons?domain=lagrangepanthers.com&sz=64"
@@ -2044,7 +2044,7 @@
     "state": "Tennessee",
     "stateCode": "TN",
     "association": "NCAA Division III",
-    "conference": "USA South",
+    "conference": "Collegiate Conference of the South",
     "url": "https://mcscots.com/",
     "city": "Maryville",
     "favicon": "https://www.google.com/s2/favicons?domain=mcscots.com&sz=64"
@@ -4104,7 +4104,7 @@
     "state": "Georgia",
     "stateCode": "GA",
     "association": "NCAA Division III",
-    "conference": "Great South Athletic Conference",
+    "conference": "Collegiate Conference of the South",
     "url": "https://wesleyanathletics.com/",
     "city": "Macon",
     "favicon": "https://www.google.com/s2/favicons?domain=wesleyanathletics.com&sz=64"
@@ -8385,7 +8385,7 @@
     "state": "North Carolina",
     "stateCode": "NC",
     "association": "NCAA Division II",
-    "conference": "Central Intercollegiate Athletic Association",
+    "conference": "Conference Carolinas",
     "url": "https://gocuhawks.com/",
     "favicon": "https://www.google.com/s2/favicons?domain=gocuhawks.com&sz=64"
   },
@@ -10995,7 +10995,7 @@
     "state": "Kentucky",
     "stateCode": "KY",
     "association": "NAIA",
-    "conference": "Kentucky Intercollegiate Athletic Conference",
+    "conference": "Collegiate Conference of the South",
     "url": "https://asburyeagles.com/",
     "favicon": "https://www.google.com/s2/favicons?domain=asburyeagles.com&sz=64"
   },
@@ -11715,7 +11715,7 @@
     "state": "Indiana",
     "stateCode": "IN",
     "association": "NAIA",
-    "conference": "Crossroads League",
+    "conference": "Collegiate Conference of the South",
     "url": "https://huntington.edu/athletics/",
     "favicon": "https://www.google.com/s2/favicons?domain=huntington.edu&sz=64"
   },
@@ -13298,5 +13298,15 @@
     "conference": "Independent",
     "url": "https://ycpanthers.com/",
     "favicon": "https://www.google.com/s2/favicons?domain=ycpanthers.com&sz=64"
+  },
+  {
+    "name": "Belhaven University",
+    "city": "Jackson",
+    "state": "Mississippi",
+    "stateCode": "MS",
+    "association": "NAIA",
+    "conference": "Collegiate Conference of the South",
+    "url": "https://blazers.belhaven.edu/",
+    "favicon": "https://www.google.com/s2/favicons?domain=blazers.belhaven.edu&sz=64"
   }
 ]
