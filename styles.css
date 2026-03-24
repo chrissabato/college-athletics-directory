@@ -52,6 +52,34 @@ body {
   margin: 0 auto;
 }
 
+.header-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.ext-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  color: rgba(255, 255, 255, 0.85);
+  text-decoration: none;
+  font-size: 0.85rem;
+  font-weight: 600;
+  border: 1.5px solid rgba(255, 255, 255, 0.4);
+  border-radius: var(--radius-sm);
+  padding: 0.35rem 0.75rem;
+  white-space: nowrap;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.ext-link:hover {
+  background: rgba(255, 255, 255, 0.15);
+  color: #fff;
+}
+
 .site-title {
   font-size: clamp(1.6rem, 4vw, 2.4rem);
   font-weight: 800;

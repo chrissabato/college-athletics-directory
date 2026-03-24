@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chrome Extension — College Athletics Website Directory</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    .ext-page {
+      max-width: 720px;
+      margin: 3rem auto;
+      padding: 0 1.5rem 4rem;
+    }
+
+    .ext-hero {
+      display: flex;
+      align-items: center;
+      gap: 1.5rem;
+      margin-bottom: 2.5rem;
+    }
+
+    .ext-icon {
+      width: 72px;
+      height: 72px;
+      background: var(--color-primary);
+      border-radius: 16px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+
+    .ext-icon svg {
+      width: 38px;
+      height: 38px;
+      color: #fff;
+    }
+
+    .ext-hero-text h2 {
+      font-size: 1.6rem;
+      font-weight: 800;
+      color: var(--color-text);
+      margin-bottom: 0.3rem;
+    }
+
+    .ext-hero-text p {
+      color: var(--color-text-muted);
+      font-size: 1rem;
+    }
+
+    .steps {
+      display: flex;
+      flex-direction: column;
+      gap: 1.25rem;
+      margin-bottom: 2.5rem;
+    }
+
+    .step {
+      display: flex;
+      gap: 1.25rem;
+      align-items: flex-start;
+      background: var(--color-surface);
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius-md);
+      padding: 1.25rem;
+      box-shadow: var(--shadow-card);
+    }
+
+    .step-number {
+      width: 32px;
+      height: 32px;
+      background: var(--color-primary);
+      color: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 800;
+      font-size: 0.95rem;
+      flex-shrink: 0;
+    }
+
+    .step-body h3 {
+      font-size: 1rem;
+      font-weight: 700;
+      margin-bottom: 0.3rem;
+      color: var(--color-text);
+    }
+
+    .step-body p {
+      font-size: 0.9rem;
+      color: var(--color-text-muted);
+      line-height: 1.6;
+    }
+
+    .step-body a {
+      color: var(--color-primary);
+      font-weight: 600;
+    }
+
+    .step-body code {
+      background: var(--color-bg);
+      border: 1px solid var(--color-border);
+      border-radius: 4px;
+      padding: 0.1rem 0.4rem;
+      font-size: 0.85rem;
+      font-family: 'Courier New', monospace;
+      color: var(--color-text);
+    }
+
+    .download-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      background: var(--color-primary);
+      color: #fff;
+      padding: 0.75rem 1.5rem;
+      border-radius: var(--radius-sm);
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 0.95rem;
+      transition: background 0.2s ease;
+      margin-bottom: 2.5rem;
+    }
+
+    .download-btn:hover {
+      background: var(--color-primary-light);
+    }
+
+    .download-btn svg {
+      width: 18px;
+      height: 18px;
+    }
+
+    .note {
+      background: #fffbf0;
+      border: 1px solid #f0d080;
+      border-radius: var(--radius-sm);
+      padding: 1rem 1.25rem;
+      font-size: 0.88rem;
+      color: #7a5c00;
+      line-height: 1.6;
+    }
+
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      color: var(--color-primary);
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 600;
+      margin-bottom: 2rem;
+    }
+
+    .back-link:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <h1 class="site-title">College Athletics Website Directory</h1>
+    </div>
+  </header>
+
+  <div class="ext-page">
+
+    <a href="/" class="back-link">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+        <polyline points="15 18 9 12 15 6"/>
+      </svg>
+      Back to Directory
+    </a>
+
+    <div class="ext-hero">
+      <div class="ext-icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <circle cx="11" cy="11" r="7"/>
+          <line x1="16.5" y1="16.5" x2="22" y2="22"/>
+        </svg>
+      </div>
+      <div class="ext-hero-text">
+        <h2>Chrome Extension</h2>
+        <p>Search 1,300+ college athletics websites directly from your browser toolbar.</p>
+      </div>
+    </div>
+
+    <a
+      href="https://github.com/chrissabato/college-athletics-directory/archive/refs/heads/main.zip"
+      class="download-btn"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+        <polyline points="7 10 12 15 17 10"/>
+        <line x1="12" y1="15" x2="12" y2="3"/>
+      </svg>
+      Download from GitHub
+    </a>
+
+    <div class="steps">
+
+      <div class="step">
+        <div class="step-number">1</div>
+        <div class="step-body">
+          <h3>Download the repository</h3>
+          <p>Click the button above to download the ZIP file from GitHub. Unzip it somewhere on your computer — you'll need to keep the folder in place.</p>
+        </div>
+      </div>
+
+      <div class="step">
+        <div class="step-number">2</div>
+        <div class="step-body">
+          <h3>Open Chrome Extensions</h3>
+          <p>In Chrome, navigate to <code>chrome://extensions</code> or open the menu &rarr; <strong>More Tools</strong> &rarr; <strong>Extensions</strong>.</p>
+        </div>
+      </div>
+
+      <div class="step">
+        <div class="step-number">3</div>
+        <div class="step-body">
+          <h3>Enable Developer Mode</h3>
+          <p>Toggle on <strong>Developer mode</strong> using the switch in the top-right corner of the Extensions page.</p>
+        </div>
+      </div>
+
+      <div class="step">
+        <div class="step-number">4</div>
+        <div class="step-body">
+          <h3>Load the extension</h3>
+          <p>Click <strong>Load unpacked</strong>, then navigate to the unzipped folder and select the <code>extension</code> subfolder inside it.</p>
+        </div>
+      </div>
+
+      <div class="step">
+        <div class="step-number">5</div>
+        <div class="step-body">
+          <h3>Pin it to your toolbar</h3>
+          <p>Click the puzzle piece icon <strong>&#9928;</strong> in Chrome's toolbar, find <strong>College Athletics Website Directory</strong>, and click the pin icon to keep it visible.</p>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="note">
+      <strong>Note:</strong> This is an unpacked extension and requires Developer mode to remain enabled in Chrome. The extension fetches its data from <a href="https://directory.chrissabato.com" target="_blank" rel="noopener noreferrer">directory.chrissabato.com</a> and caches it locally for fast searches.
+    </div>
+
+  </div>
+
+  <footer class="site-footer">
+    <p>College Athletics Website Directory</p>
+  </footer>
+
+</body>
+</html>
