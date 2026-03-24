@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "College Athletics Website Directory",
+  "description": "Search 1,300+ college athletics websites instantly.",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "College Athletics Website Directory"
+  },
+  "host_permissions": [
+    "https://directory.chrissabato.com/*"
+  ]
+}

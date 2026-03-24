@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>College Athletics Website Directory</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="header">
+    <span class="header-title">College Athletics Website Directory</span>
+  </div>
+
+  <div class="search-container">
+    <svg class="search-icon" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+      <circle cx="8.5" cy="8.5" r="5.5"/>
+      <line x1="12.5" y1="12.5" x2="17" y2="17"/>
+    </svg>
+    <input
+      type="text"
+      id="search-input"
+      placeholder="Search schools…"
+      autocomplete="off"
+      aria-autocomplete="list"
+      aria-controls="results-list"
+      aria-expanded="false"
+    >
+  </div>
+
+  <ul id="results-list" role="listbox" aria-label="School results"></ul>
+
+  <div id="empty-state" class="empty-state" hidden>No schools found.</div>
+  <div id="initial-state" class="empty-state">Start typing to search schools.</div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
