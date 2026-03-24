@@ -211,6 +211,7 @@ function renderResults(schools) {
           </p>
           <span class="card-association">${escapeHtml(school.association)}</span>
         </div>
+        <button class="report-btn" data-school="${escapeHtml(school.name)}" type="button">Report an issue</button>
       </article>
     `)
     .join("");
@@ -316,3 +317,73 @@ async function init() {
 }
 
 document.addEventListener("DOMContentLoaded", init);
+
+// ── Correction Modal ───────────────────────────────────────────────────────
+const WORKER_URL = "https://athletics-issues.chris-sabato.workers.dev";
+
+const modal        = document.getElementById("correction-modal");
+const modalClose   = document.getElementById("modal-close");
+const schoolField  = document.getElementById("field-school");
+const corrForm     = document.getElementById("correction-form");
+const formStatus   = document.getElementById("form-status");
+
+function openModal(schoolName) {
+  schoolField.value = schoolName;
+  formStatus.hidden = true;
+  corrForm.reset();
+  schoolField.value = schoolName;
+  modal.hidden = false;
+  document.body.style.overflow = "hidden";
+}
+
+function closeModal() {
+  modal.hidden = true;
+  document.body.style.overflow = "";
+}
+
+modalClose.addEventListener("click", closeModal);
+modal.addEventListener("click", e => { if (e.target === modal) closeModal(); });
+document.addEventListener("keydown", e => { if (e.key === "Escape") closeModal(); });
+
+document.addEventListener("click", e => {
+  const btn = e.target.closest(".report-btn");
+  if (btn) openModal(btn.dataset.school);
+});
+
+corrForm.addEventListener("submit", async e => {
+  e.preventDefault();
+  const submitBtn = corrForm.querySelector(".submit-btn");
+  submitBtn.disabled = true;
+  submitBtn.textContent = "Submitting…";
+
+  const data = {
+    school:      document.getElementById("field-school").value,
+    issue_type:  document.getElementById("field-type").value,
+    correct_url: document.getElementById("field-url").value,
+    details:     document.getElementById("field-details").value,
+  };
+
+  try {
+    const res = await fetch(WORKER_URL, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(data),
+    });
+    const json = await res.json();
+    formStatus.hidden = false;
+    if (res.ok) {
+      formStatus.className = "form-status form-status--success";
+      formStatus.textContent = "Thanks! Your report has been submitted.";
+      corrForm.reset();
+    } else {
+      throw new Error(json.error || "Unknown error");
+    }
+  } catch (err) {
+    formStatus.hidden = false;
+    formStatus.className = "form-status form-status--error";
+    formStatus.textContent = "Something went wrong. Please try again.";
+  } finally {
+    submitBtn.disabled = false;
+    submitBtn.textContent = "Submit";
+  }
+});

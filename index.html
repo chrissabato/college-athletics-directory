@@ -118,6 +118,45 @@
     <p>College Athletics Website Directory</p>
   </footer>
 
+  <!-- Correction modal -->
+  <div id="correction-modal" class="modal-backdrop" hidden>
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <div class="modal-header">
+        <h2 id="modal-title">Report an Issue</h2>
+        <button id="modal-close" class="modal-close" aria-label="Close">&times;</button>
+      </div>
+      <form id="correction-form" class="modal-body">
+        <div class="form-group">
+          <label for="field-school">School</label>
+          <input type="text" id="field-school" name="school" required>
+        </div>
+        <div class="form-group">
+          <label for="field-type">Issue type</label>
+          <select id="field-type" name="issue_type" required>
+            <option value="">Select…</option>
+            <option value="Incorrect website URL">Incorrect website URL</option>
+            <option value="Incorrect conference">Incorrect conference</option>
+            <option value="Incorrect location">Incorrect location</option>
+            <option value="School missing from directory">School missing from directory</option>
+            <option value="Other">Other</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="field-url">Correct URL <span class="optional">(if applicable)</span></label>
+          <input type="url" id="field-url" name="correct_url" placeholder="https://…">
+        </div>
+        <div class="form-group">
+          <label for="field-details">Additional details <span class="optional">(optional)</span></label>
+          <textarea id="field-details" name="details" rows="3" placeholder="Any other info that would help…"></textarea>
+        </div>
+        <div id="form-status" class="form-status" hidden></div>
+        <div class="modal-footer">
+          <button type="submit" class="submit-btn">Submit</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
   <script src="app.js"></script>
 </body>
 </html>
