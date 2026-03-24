@@ -1,4 +1,7 @@
-const DATA_URL = "https://directory.chrissabato.com/schools.json";
+const DATA_URLS = [
+  "https://directory.chrissabato.com/schools.json",
+  "https://chrissabato.github.io/college-athletics-directory/schools.json"
+];
 
 const searchInput  = document.getElementById("search-input");
 const resultsList  = document.getElementById("results-list");
@@ -15,9 +18,19 @@ async function loadSchools() {
     SCHOOLS = cached.schools;
     return;
   }
-  const res = await fetch(DATA_URL);
-  SCHOOLS = await res.json();
-  chrome.storage.local.set({ schools: SCHOOLS });
+  let lastError;
+  for (const url of DATA_URLS) {
+    try {
+      const res = await fetch(url);
+      if (!res.ok) throw new Error(res.status);
+      SCHOOLS = await res.json();
+      chrome.storage.local.set({ schools: SCHOOLS });
+      return;
+    } catch (err) {
+      lastError = err;
+    }
+  }
+  throw lastError;
 }
 
 // ── Utilities ─────────────────────────────────────────────────────────────

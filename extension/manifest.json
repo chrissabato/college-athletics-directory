@@ -7,7 +7,9 @@
     "default_popup": "popup.html",
     "default_title": "College Athletics Website Directory"
   },
+  "permissions": ["storage"],
   "host_permissions": [
-    "https://directory.chrissabato.com/*"
+    "https://directory.chrissabato.com/*",
+    "https://chrissabato.github.io/*"
   ]
 }
