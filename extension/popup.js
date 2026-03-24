@@ -141,6 +141,6 @@ searchInput.addEventListener("keydown", e => {
 // ── Init ──────────────────────────────────────────────────────────────────
 loadSchools().then(() => {
   searchInput.focus();
-}).catch(() => {
-  initialState.textContent = "Failed to load data. Check your connection.";
+}).catch((err) => {
+  initialState.textContent = "Error: " + (err && err.message ? err.message : String(err));
 });
