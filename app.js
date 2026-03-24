@@ -211,7 +211,6 @@ function renderResults(schools) {
           </p>
           <span class="card-association">${escapeHtml(school.association)}</span>
         </div>
-        <button class="report-btn" data-school="${escapeHtml(school.name)}" type="button">Report an issue</button>
       </article>
     `)
     .join("");
@@ -345,10 +344,7 @@ modalClose.addEventListener("click", closeModal);
 modal.addEventListener("click", e => { if (e.target === modal) closeModal(); });
 document.addEventListener("keydown", e => { if (e.key === "Escape") closeModal(); });
 
-document.addEventListener("click", e => {
-  const btn = e.target.closest(".report-btn");
-  if (btn) openModal(btn.dataset.school);
-});
+document.getElementById("report-link").addEventListener("click", () => openModal(""));
 
 corrForm.addEventListener("submit", async e => {
   e.preventDefault();
