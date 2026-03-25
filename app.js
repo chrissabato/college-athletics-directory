@@ -35,6 +35,15 @@ function escapeHtml(str) {
     .replace(/"/g, "&quot;");
 }
 
+function getFaviconUrl(url) {
+  try {
+    const domain = new URL(url).hostname;
+    return `https://www.google.com/s2/favicons?domain=${domain}&sz=64`;
+  } catch {
+    return '';
+  }
+}
+
 function getBadgeClass(association) {
   const map = {
     "NCAA Division I":   "ncaa1",
@@ -197,7 +206,7 @@ function renderResults(schools) {
     .map(school => `
       <article class="school-card" role="listitem">
         <h3 class="card-name">
-          ${school.favicon ? `<img class="card-favicon" src="${escapeHtml(school.favicon)}" alt="" aria-hidden="true">` : ''}
+          ${school.url ? `<img class="card-favicon" src="${escapeHtml(getFaviconUrl(school.url))}" alt="" aria-hidden="true">` : ''}
           <a href="${escapeHtml(school.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(school.name)}</a>
         </h3>
         <p class="card-conference">${escapeHtml(school.conference)}</p>
