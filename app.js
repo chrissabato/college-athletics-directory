@@ -96,9 +96,11 @@ function updateAutocomplete(rawQuery) {
     .map((school, i) => {
       const location = [school.city, school.state].filter(Boolean).join(', ');
       const meta = [school.association, school.conference, location].filter(Boolean).join(' &mdash; ');
+      const favicon = school.url ? `<img class="ac-favicon" src="${escapeHtml(getFaviconUrl(school.url))}" alt="" aria-hidden="true">` : '';
       return `<li role="option" data-value="${escapeHtml(school.name)}" data-url="${escapeHtml(school.url)}" data-index="${i}">` +
-        `<span class="ac-name">${highlightMatch(school.name, query)}</span>` +
-        `<span class="ac-meta">${meta}</span>` +
+        favicon +
+        `<span class="ac-text"><span class="ac-name">${highlightMatch(school.name, query)}</span>` +
+        `<span class="ac-meta">${meta}</span></span>` +
         `</li>`;
     })
     .join("");
