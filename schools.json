@@ -8390,8 +8390,8 @@
   {
     "name": "Mississippi College",
     "city": "Clinton",
-    "state": "",
-    "stateCode": "",
+    "state": "Mississippi",
+    "stateCode": "MS",
     "association": "NCAA DII",
     "conference": "Gulf South Conference",
     "url": "https://gochoctaws.com/"
