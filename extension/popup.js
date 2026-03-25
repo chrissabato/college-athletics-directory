@@ -7,17 +7,13 @@ const searchInput  = document.getElementById("search-input");
 const resultsList  = document.getElementById("results-list");
 const emptyState   = document.getElementById("empty-state");
 const initialState = document.getElementById("initial-state");
+const refreshBtn   = document.getElementById("refresh-btn");
 
 let SCHOOLS = [];
 let activeIndex = -1;
 
 // ── Data loading ──────────────────────────────────────────────────────────
-async function loadSchools() {
-  const cached = await chrome.storage.local.get("schools");
-  if (cached.schools) {
-    SCHOOLS = cached.schools;
-    return;
-  }
+async function fetchSchools() {
   let lastError;
   for (const url of DATA_URLS) {
     try {
@@ -31,6 +27,15 @@ async function loadSchools() {
     }
   }
   throw lastError;
+}
+
+async function loadSchools() {
+  const cached = await chrome.storage.local.get("schools");
+  if (cached.schools) {
+    SCHOOLS = cached.schools;
+    return;
+  }
+  await fetchSchools();
 }
 
 // ── Utilities ─────────────────────────────────────────────────────────────
@@ -66,7 +71,7 @@ function renderResults(matches, query) {
     const meta = [school.association, school.conference, location].filter(Boolean).join(" — ");
     return `
       <li role="option" data-url="${escapeHtml(school.url)}" data-index="${i}">
-        ${school.favicon ? `<img class="favicon" src="${escapeHtml(school.favicon)}" alt="">` : ''}
+        ${school.url ? `<img class="favicon" src="https://www.google.com/s2/favicons?domain=${new URL(school.url).hostname}&sz=64" alt="">` : ''}
         <div class="info">
           <span class="name">${highlightMatch(school.name, query)}</span>
           <span class="meta">${escapeHtml(meta)}</span>
@@ -135,6 +140,22 @@ searchInput.addEventListener("keydown", e => {
     if (activeIndex >= 0 && items[activeIndex]) {
       openSchool(items[activeIndex].dataset.url);
     }
+  }
+});
+
+// ── Refresh ───────────────────────────────────────────────────────────────
+refreshBtn.addEventListener("click", async () => {
+  refreshBtn.classList.add("spinning");
+  refreshBtn.disabled = true;
+  try {
+    await chrome.storage.local.remove("schools");
+    await fetchSchools();
+    search(searchInput.value);
+  } catch {
+    // silently fail — data stays as-is
+  } finally {
+    refreshBtn.classList.remove("spinning");
+    refreshBtn.disabled = false;
   }
 });
 
