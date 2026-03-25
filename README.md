@@ -53,12 +53,7 @@ School favicons are generated at render time from each school's URL using the Go
 
 ## Chrome Extension
 
-The extension lets you search the directory from your browser toolbar. Install it manually while it awaits Chrome Web Store review:
-
-1. Download the repo ZIP from GitHub
-2. Go to `chrome://extensions` and enable **Developer mode**
-3. Click **Load unpacked** and select the `extension/` folder
-4. Pin the extension to your toolbar
+The extension lets you search the directory from your browser toolbar. Install it from the [Chrome Web Store](https://chromewebstore.google.com/detail/daegngbppoekohefhkmbmndhajekcpdi).
 
 ## URL Checker
 
