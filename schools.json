@@ -150,7 +150,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=athletics.arcadia.edu&sz=64"
   },
   {
-    "name": "Augsburg College",
+    "name": "Augsburg University",
     "state": "Minnesota",
     "stateCode": "MN",
     "association": "NCAA Division III",
@@ -258,16 +258,6 @@
     "url": "https://athletics.baypath.edu/",
     "city": "Longmeadow",
     "favicon": "https://www.google.com/s2/favicons?domain=athletics.baypath.edu&sz=64"
-  },
-  {
-    "name": "Becker College",
-    "state": "Massachusetts",
-    "stateCode": "MA",
-    "association": "NCAA Division III",
-    "conference": "New England Collegiate Conference",
-    "url": "https://beckerhawks.com/",
-    "city": "Worcester",
-    "favicon": "https://www.google.com/s2/favicons?domain=beckerhawks.com&sz=64"
   },
   {
     "name": "Beloit College",
@@ -480,7 +470,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=clusports.com&sz=64"
   },
   {
-    "name": "Calvin College",
+    "name": "Calvin University",
     "state": "Michigan",
     "stateCode": "MI",
     "association": "NCAA Division III",
@@ -570,7 +560,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=cedarcrestathletics.com&sz=64"
   },
   {
-    "name": "Centenary College",
+    "name": "Centenary University",
     "state": "New Jersey",
     "stateCode": "NJ",
     "association": "NCAA Division III",
@@ -710,14 +700,14 @@
     "favicon": "https://www.google.com/s2/favicons?domain=colby-sawyerathletics.com&sz=64"
   },
   {
-    "name": "College Of Mount Saint Vincent",
+    "name": "University of Mount Saint Vincent",
     "state": "New York",
     "stateCode": "NY",
     "association": "NCAA Division III",
     "conference": "Skyline Conference",
-    "url": "https://cmsvathletics.com/",
+    "url": "https://umsvathletics.com/",
     "city": "New York City",
-    "favicon": "https://www.google.com/s2/favicons?domain=cmsvathletics.com&sz=64"
+    "favicon": "https://www.google.com/s2/favicons?domain=umsvathletics.com&sz=64"
   },
   {
     "name": "College of Saint Benedict",
@@ -990,16 +980,6 @@
     "favicon": "https://www.google.com/s2/favicons?domain=emuroyals.com&sz=64"
   },
   {
-    "name": "Eastern Nazarene College",
-    "state": "Massachusetts",
-    "stateCode": "MA",
-    "association": "NCAA Division III",
-    "conference": "Commonwealth Coast Conference",
-    "url": "https://athletics.enc.edu/",
-    "city": "Quincy",
-    "favicon": "https://www.google.com/s2/favicons?domain=athletics.enc.edu&sz=64"
-  },
-  {
     "name": "Eastern University",
     "state": "Pennsylvania",
     "stateCode": "PA",
@@ -1010,14 +990,14 @@
     "favicon": "https://www.google.com/s2/favicons?domain=goeasterneagles.com&sz=64"
   },
   {
-    "name": "Edgewood College",
+    "name": "Edgewood University",
     "state": "Wisconsin",
     "stateCode": "WI",
     "association": "NCAA Division III",
     "conference": "Northern Athletics Collegiate Conference",
-    "url": "https://edgewoodcollegeeagles.com/",
+    "url": "https://edgewoodeagles.com/",
     "city": "Madison",
-    "favicon": "https://www.google.com/s2/favicons?domain=edgewoodcollegeeagles.com&sz=64"
+    "favicon": "https://www.google.com/s2/favicons?domain=edgewoodeagles.com&sz=64"
   },
   {
     "name": "Elizabethtown College",
@@ -1030,7 +1010,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=etownbluejays.com&sz=64"
   },
   {
-    "name": "Elmhurst College",
+    "name": "Elmhurst University",
     "state": "Illinois",
     "stateCode": "IL",
     "association": "NCAA Division III",
@@ -1080,7 +1060,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=goecsaints.com&sz=64"
   },
   {
-    "name": "Emory & Henry College",
+    "name": "Emory & Henry University",
     "state": "Virginia",
     "stateCode": "VA",
     "association": "NCAA Division III",
@@ -1300,7 +1280,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=greensborocollegesports.com&sz=64"
   },
   {
-    "name": "Greenville College",
+    "name": "Greenville University",
     "state": "Illinois",
     "stateCode": "IL",
     "association": "NCAA Division III",
@@ -1510,7 +1490,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=athletics.hope.edu&sz=64"
   },
   {
-    "name": "Houghton College",
+    "name": "Houghton University",
     "state": "New York",
     "stateCode": "NY",
     "association": "NCAA Division III",
@@ -1740,7 +1720,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=prairiefire.knox.edu&sz=64"
   },
   {
-    "name": "La Roche College",
+    "name": "La Roche University",
     "state": "Pennsylvania",
     "stateCode": "PA",
     "association": "NCAA Division III",
@@ -1770,7 +1750,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=goforesters.com&sz=64"
   },
   {
-    "name": "Lakeland College",
+    "name": "Lakeland University",
     "state": "Wisconsin",
     "stateCode": "WI",
     "association": "NCAA Division III",
@@ -1790,7 +1770,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=lbcchargers.com&sz=64"
   },
   {
-    "name": "Lasell College",
+    "name": "Lasell University",
     "state": "Massachusetts",
     "stateCode": "MA",
     "association": "NCAA Division III",
@@ -1860,7 +1840,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=lcpioneers.com&sz=64"
   },
   {
-    "name": "Linfield College",
+    "name": "Linfield University",
     "state": "Oregon",
     "stateCode": "OR",
     "association": "NCAA Division III",
@@ -1910,7 +1890,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=lycomingathletics.com&sz=64"
   },
   {
-    "name": "Lynchburg College",
+    "name": "University of Lynchburg",
     "state": "Virginia",
     "stateCode": "VA",
     "association": "NCAA Division III",
@@ -1960,7 +1940,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=muspartans.com&sz=64"
   },
   {
-    "name": "Manhattanville College",
+    "name": "Manhattanville University",
     "state": "New York",
     "stateCode": "NY",
     "association": "NCAA Division III",
@@ -2010,7 +1990,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=mlcknights.com&sz=64"
   },
   {
-    "name": "Mary Baldwin College",
+    "name": "Mary Baldwin University",
     "state": "Virginia",
     "stateCode": "VA",
     "association": "NCAA Division III",
@@ -2100,16 +2080,6 @@
     "favicon": "https://www.google.com/s2/favicons?domain=mcmurrysports.com&sz=64"
   },
   {
-    "name": "Medaille College",
-    "state": "New York",
-    "stateCode": "NY",
-    "association": "NCAA Division III",
-    "conference": "Allegheny Mountain Collegiate Conference",
-    "url": "https://medaillesports.com/",
-    "city": "Buffalo",
-    "favicon": "https://www.google.com/s2/favicons?domain=medaillesports.com&sz=64"
-  },
-  {
     "name": "Medgar Evers College",
     "state": "New York",
     "stateCode": "NY",
@@ -2130,7 +2100,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=goavengingangels.com&sz=64"
   },
   {
-    "name": "Messiah College",
+    "name": "Messiah University",
     "state": "Pennsylvania",
     "stateCode": "PA",
     "association": "NCAA Division III",
@@ -2168,16 +2138,6 @@
     "url": "https://athletics.millikin.edu/",
     "city": "Decatur",
     "favicon": "https://www.google.com/s2/favicons?domain=athletics.millikin.edu&sz=64"
-  },
-  {
-    "name": "Mills College",
-    "state": "California",
-    "stateCode": "CA",
-    "association": "NCAA Division III",
-    "conference": "American Collegiate Athletic Association",
-    "url": "https://millscyclones.com/",
-    "city": "Oakland",
-    "favicon": "https://www.google.com/s2/favicons?domain=millscyclones.com&sz=64"
   },
   {
     "name": "Millsaps College",
@@ -2240,7 +2200,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=montclairathletics.com&sz=64"
   },
   {
-    "name": "Moravian College",
+    "name": "Moravian University",
     "state": "Pennsylvania",
     "stateCode": "PA",
     "association": "NCAA Division III",
@@ -2330,7 +2290,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=fightingmuskies.com&sz=64"
   },
   {
-    "name": "Nazareth College",
+    "name": "Nazareth University",
     "state": "New York",
     "stateCode": "NY",
     "association": "NCAA Division III",
@@ -2400,12 +2360,12 @@
     "favicon": "https://www.google.com/s2/favicons?domain=nicholsathletics.com&sz=64"
   },
   {
-    "name": "North Carolina Wesleyan College",
+    "name": "North Carolina Wesleyan University",
     "state": "North Carolina",
     "stateCode": "NC",
     "association": "NCAA Division III",
     "conference": "USA South",
-    "url": "https://ncwcsports.com/",
+    "url": "https://ncwsports.com/",
     "city": "Rocky Mount",
     "favicon": "https://www.google.com/s2/favicons?domain=ncwcsports.com&sz=64"
   },
@@ -2520,7 +2480,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=battlingbishops.com&sz=64"
   },
   {
-    "name": "Olivet College",
+    "name": "University of Olivet",
     "state": "Michigan",
     "stateCode": "MI",
     "association": "NCAA Division III",
@@ -2760,7 +2720,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=rhodeslynx.com&sz=64"
   },
   {
-    "name": "Richard Stockton College of New Jersey",
+    "name": "Stockton University",
     "state": "New Jersey",
     "stateCode": "NJ",
     "association": "NCAA Division III",
@@ -3010,7 +2970,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=suhornets.com&sz=64"
   },
   {
-    "name": "Simmons College",
+    "name": "Simmons University",
     "state": "Massachusetts",
     "stateCode": "MA",
     "association": "NCAA Division III",
@@ -3048,16 +3008,6 @@
     "url": "https://smithpioneers.com/",
     "city": "Northampton",
     "favicon": "https://www.google.com/s2/favicons?domain=smithpioneers.com&sz=64"
-  },
-  {
-    "name": "Southern Vermont College",
-    "state": "Vermont",
-    "stateCode": "VT",
-    "association": "NCAA Division III",
-    "conference": "New England Collegiate Conference",
-    "url": "https://svcathletics.com/",
-    "city": "Bennington",
-    "favicon": "https://www.google.com/s2/favicons?domain=svcathletics.com&sz=64"
   },
   {
     "name": "Southern Virginia University",
@@ -3110,7 +3060,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=stkatesathletics.com&sz=64"
   },
   {
-    "name": "St. John Fisher College",
+    "name": "St. John Fisher University",
     "state": "New York",
     "stateCode": "NY",
     "association": "NCAA Division III",
@@ -3120,24 +3070,24 @@
     "favicon": "https://www.google.com/s2/favicons?domain=sjfathletics.com&sz=64"
   },
   {
-    "name": "St. Joseph's College - Brooklyn",
+    "name": "St. Joseph's University, New York - Brooklyn",
     "state": "New York",
     "stateCode": "NY",
     "association": "NCAA Division III",
     "conference": "Skyline Conference",
-    "url": "https://sjcbears.com/",
+    "url": "hhttps://sjbkathletics.com/",
     "city": "Brooklyn",
     "favicon": "https://www.google.com/s2/favicons?domain=sjcbears.com&sz=64"
   },
   {
-    "name": "St. Joseph's College - Long Island",
+    "name": "St. Joseph's University, New York - Long Island",
     "state": "New York",
     "stateCode": "NY",
     "association": "NCAA Division III",
     "conference": "Skyline Conference",
-    "url": "https://sjceagles.com/",
+    "url": "https://sjliathletics.com/",
     "city": "Patchogue",
-    "favicon": "https://www.google.com/s2/favicons?domain=sjceagles.com&sz=64"
+    "favicon": "https://www.google.com/s2/favicons?domain=sjliathletics.com&sz=64"
   },
   {
     "name": "St. Lawrence University",
@@ -3460,14 +3410,14 @@
     "favicon": "https://www.google.com/s2/favicons?domain=athletics.thomas.edu&sz=64"
   },
   {
-    "name": "Thomas More College",
+    "name": "Thomas More University",
     "state": "Kentucky",
     "stateCode": "KY",
     "association": "NCAA Division III",
     "conference": "Presidents' Athletic Conference",
-    "url": "https://tmcsaints.com/",
+    "url": "https://thomasmoresaints.com/",
     "city": "Crestview Hills",
-    "favicon": "https://www.google.com/s2/favicons?domain=tmcsaints.com&sz=64"
+    "favicon": "https://www.google.com/s2/favicons?domain=thomasmoresaints.com&sz=64"
   },
   {
     "name": "Transylvania University",
@@ -3930,14 +3880,14 @@
     "favicon": "https://www.google.com/s2/favicons?domain=ursinusathletics.com&sz=64"
   },
   {
-    "name": "Utica College",
+    "name": "Utica University",
     "state": "New York",
     "stateCode": "NY",
     "association": "NCAA Division III",
     "conference": "Empire 8 Athletic Conference",
-    "url": "https://ucpioneers/",
+    "url": "https://uticapioneers.com/",
     "city": "Utica",
-    "favicon": "https://www.google.com/s2/favicons?domain=ucpioneers&sz=64"
+    "favicon": "https://www.google.com/s2/favicons?domain=uticapioneers.com&sz=64"
   },
   {
     "name": "Valley Forge Christian College",
@@ -4080,16 +4030,6 @@
     "favicon": "https://www.google.com/s2/favicons?domain=wentworthathletics.com&sz=64"
   },
   {
-    "name": "Wesley College",
-    "state": "Delaware",
-    "stateCode": "DE",
-    "association": "NCAA Division III",
-    "conference": "Capital Athletic Conference",
-    "url": "https://gowesleyathletics.com/",
-    "city": "Dover",
-    "favicon": "https://www.google.com/s2/favicons?domain=gowesleyathletics.com&sz=64"
-  },
-  {
     "name": "Wesleyan College",
     "state": "Georgia",
     "stateCode": "GA",
@@ -4178,16 +4118,6 @@
     "url": "https://athletics.wheatoncollege.edu/",
     "city": "Norton",
     "favicon": "https://www.google.com/s2/favicons?domain=athletics.wheatoncollege.edu&sz=64"
-  },
-  {
-    "name": "Wheelock College",
-    "state": "Massachusetts",
-    "stateCode": "MA",
-    "association": "NCAA Division III",
-    "conference": "New England Collegiate Conference",
-    "url": "https://wheelockwildcats.com/",
-    "city": "Boston",
-    "favicon": "https://www.google.com/s2/favicons?domain=wheelockwildcats.com&sz=64"
   },
   {
     "name": "Whitman College",
@@ -7970,7 +7900,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=goashlandeagles.com&sz=64"
   },
   {
-    "name": "Assumption College",
+    "name": "Assumption University",
     "city": "Worcester",
     "state": "Massachusetts",
     "stateCode": "MA",
@@ -8000,7 +7930,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=jaguarsroar.com&sz=64"
   },
   {
-    "name": "Augustana College",
+    "name": "Augustana University",
     "city": "Sioux Falls",
     "state": "South Dakota",
     "stateCode": "SD",
@@ -8098,16 +8028,6 @@
     "conference": "Rocky Mountain Athletic Conference",
     "url": "https://bhsuathletics.com/",
     "favicon": "https://www.google.com/s2/favicons?domain=bhsuathletics.com&sz=64"
-  },
-  {
-    "name": "Bloomfield College",
-    "city": "Bloomfield",
-    "state": "New Jersey",
-    "stateCode": "NJ",
-    "association": "NCAA Division II",
-    "conference": "Central Atlantic Collegiate Conference",
-    "url": "https://bcdeacons.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=bcdeacons.com&sz=64"
   },
   {
     "name": "Bloomsburg University of Pennsylvania",
@@ -8332,8 +8252,8 @@
   {
     "name": "Chadron State College",
     "city": "Chadron",
-    "state": "nebraska",
-    "stateCode": "",
+    "state": "Nebraska",
+    "stateCode": "NE",
     "association": "NCAA Division II",
     "conference": "Rocky Mountain Athletic Conference",
     "url": "https://chadroneagles.com/",
@@ -8430,7 +8350,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=claytonstatesports.com&sz=64"
   },
   {
-    "name": "Coker College",
+    "name": "Coker University",
     "city": "Hartsville",
     "state": "South Carolina",
     "stateCode": "SC",
@@ -8530,14 +8450,14 @@
     "favicon": "https://www.google.com/s2/favicons?domain=cugoldenbears.com&sz=64"
   },
   {
-    "name": "Converse College",
+    "name": "Converse University",
     "city": "Spartanburg",
     "state": "South Carolina",
     "stateCode": "SC",
     "association": "NCAA Division II",
     "conference": "Conference Carolinas",
-    "url": "https://converse.edu/athletics",
-    "favicon": "https://www.google.com/s2/favicons?domain=converse.edu&sz=64"
+    "url": "https://govalkyries.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=govalkyries.com&sz=64"
   },
   {
     "name": "Daemen University",
@@ -8590,7 +8510,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=utahtechtrailblazers.com&sz=64"
   },
   {
-    "name": "Dominican College",
+    "name": "Dominican University New York",
     "city": "Orangeburg",
     "state": "New York",
     "stateCode": "NY",
@@ -8690,14 +8610,14 @@
     "favicon": "https://www.google.com/s2/favicons?domain=erauathletics.com&sz=64"
   },
   {
-    "name": "Emmanuel College",
+    "name": "Emmanuel University",
     "city": "Franklin Springs",
     "state": "Georgia",
     "stateCode": "GA",
     "association": "NCAA Division II",
     "conference": "Conference Carolinas",
-    "url": "https://goeclions.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=goeclions.com&sz=64"
+    "url": "https://goeulions.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=goeulions.com&sz=64"
   },
   {
     "name": "Emporia State University",
@@ -8740,7 +8660,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=fsubroncos.com&sz=64"
   },
   {
-    "name": "Felician College",
+    "name": "Felician University",
     "city": "Lodi",
     "state": "New Jersey",
     "stateCode": "NJ",
@@ -9590,16 +9510,6 @@
     "favicon": "https://www.google.com/s2/favicons?domain=timberwolves.gonorthwood.com&sz=64"
   },
   {
-    "name": "Notre Dame College",
-    "city": "South Euclid",
-    "state": "Ohio",
-    "stateCode": "OH",
-    "association": "NCAA Division II",
-    "conference": "Mountain East Conference",
-    "url": "https://www.notredamefalcons.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=www.notredamefalcons.com&sz=64"
-  },
-  {
     "name": "Nova Southeastern University",
     "city": "Davie",
     "state": "Florida",
@@ -10150,16 +10060,6 @@
     "favicon": "https://www.google.com/s2/favicons?domain=warriorathletics.com&sz=64"
   },
   {
-    "name": "Stillman College",
-    "city": "Tuscaloosa",
-    "state": "Alabama",
-    "stateCode": "AL",
-    "association": "NCAA Division II",
-    "conference": "Southern Intercollegiate Athletics Conference",
-    "url": "https://stillmanathletics.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=stillmanathletics.com&sz=64"
-  },
-  {
     "name": "Stonehill College",
     "city": "Easton",
     "state": "Massachusetts",
@@ -10270,7 +10170,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=trumanbulldogs.com&sz=64"
   },
   {
-    "name": "Tusculum College",
+    "name": "Tusculum University",
     "city": "Greeneville",
     "state": "Tennessee",
     "stateCode": "TN",
@@ -11060,14 +10960,14 @@
     "favicon": "https://www.google.com/s2/favicons?domain=bethanyswedes.com&sz=64"
   },
   {
-    "name": "Bethel College (Ind.)",
+    "name": "Bethel University",
     "city": "Mishawaka",
     "state": "Indiana",
     "stateCode": "IN",
     "association": "NAIA",
     "conference": "Crossroads League",
-    "url": "https://bethelcollegepilots.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=bethelcollegepilots.com&sz=64"
+    "url": "https://bupilots.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=bupilots.com&sz=64"
   },
   {
     "name": "Bethel College (Kan.)",
@@ -11100,14 +11000,14 @@
     "favicon": "https://www.google.com/s2/favicons?domain=bmcusports.com&sz=64"
   },
   {
-    "name": "Bluefield College",
+    "name": "Bluefield University",
     "city": "Bluefield",
     "state": "Virginia",
     "stateCode": "VA",
     "association": "NAIA",
     "conference": "Appalachian Athletic Conference",
-    "url": "https://bcrams.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=bcrams.com&sz=64"
+    "url": "https://burams.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=burams.com&sz=64"
   },
   {
     "name": "Brenau University",
@@ -11200,7 +11100,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=athletics.carlow.edu&sz=64"
   },
   {
-    "name": "Carroll College",
+    "name": "Carroll University",
     "city": "Helena",
     "state": "Montana",
     "stateCode": "MT",
@@ -11450,7 +11350,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=doaneathletics.com&sz=64"
   },
   {
-    "name": "Dordt College",
+    "name": "Dordt University",
     "city": "Sioux Center",
     "state": "Iowa",
     "stateCode": "IA",
@@ -12100,7 +12000,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=gomidwayeagles.com&sz=64"
   },
   {
-    "name": "Milligan College",
+    "name": "Milligan University",
     "city": "Elizabethton",
     "state": "Tennessee",
     "stateCode": "TN",
@@ -12160,14 +12060,14 @@
     "favicon": "https://www.google.com/s2/favicons?domain=montreatcavaliers.com&sz=64"
   },
   {
-    "name": "Morningside College",
+    "name": "Morningside University",
     "city": "Sioux City",
     "state": "Iowa",
     "stateCode": "IA",
     "association": "NAIA",
     "conference": "Great Plains Athletic Conference",
-    "url": "https://morningside.edu/athletics/",
-    "favicon": "https://www.google.com/s2/favicons?domain=morningside.edu&sz=64"
+    "url": "https://msidemustangs.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=msidemustangs.com&sz=64"
   },
   {
     "name": "Morris College",
@@ -12410,16 +12310,6 @@
     "favicon": "https://www.google.com/s2/favicons?domain=skyhawkathletics.com&sz=64"
   },
   {
-    "name": "Presentation College",
-    "city": "Aberdeen",
-    "state": "South Dakota",
-    "stateCode": "SD",
-    "association": "NAIA",
-    "conference": "North Star Athletic Association",
-    "url": "https://pcsaints.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=pcsaints.com&sz=64"
-  },
-  {
     "name": "Providence Christian College",
     "city": "Pasadena",
     "state": "California",
@@ -12450,7 +12340,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=rmueagles.com&sz=64"
   },
   {
-    "name": "Rochester College",
+    "name": "Rochester Christian University",
     "city": "Rochester",
     "state": "Michigan",
     "stateCode": "MI",
@@ -12860,7 +12750,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=tmcbears.com&sz=64"
   },
   {
-    "name": "Union Commonwealth College",
+    "name": "Union Commonwealth University",
     "city": "Barbourville",
     "state": "Kentucky",
     "stateCode": "KY",
@@ -13100,7 +12990,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=viterboathletics.com&sz=64"
   },
   {
-    "name": "Voorhees College",
+    "name": "Voorhees University",
     "city": "Denmark",
     "state": "South Carolina",
     "stateCode": "SC",
@@ -13110,7 +13000,7 @@
     "favicon": "https://www.google.com/s2/favicons?domain=voorhees.edu&sz=64"
   },
   {
-    "name": "Waldorf College",
+    "name": "Waldorf University",
     "city": "Forest City",
     "state": "Iowa",
     "stateCode": "IA",
@@ -13130,14 +13020,14 @@
     "favicon": "https://www.google.com/s2/favicons?domain=uwolves.com&sz=64"
   },
   {
-    "name": "Warner Pacific College",
+    "name": "Warner Pacific University",
     "city": "Portland",
     "state": "Oregon",
     "stateCode": "OR",
     "association": "NAIA",
     "conference": "Cascade Collegiate Conference",
-    "url": "https://wpcknights.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=wpcknights.com&sz=64"
+    "url": "https://wpuknights.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=wpuknights.com&sz=64"
   },
   {
     "name": "Warner University",
