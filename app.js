@@ -314,6 +314,15 @@ async function init() {
   // Populate conference dropdown with all conferences
   updateConferenceDropdown("");
 
+  // Populate association dropdown from data
+  const associations = [...new Set(SCHOOLS.map(s => s.association))].sort();
+  associations.forEach(assoc => {
+    const opt = document.createElement("option");
+    opt.value = assoc;
+    opt.textContent = assoc;
+    associationFilter.appendChild(opt);
+  });
+
   // Populate state dropdown (only states present in dataset)
   const states = [...new Set(SCHOOLS.map(s => s.state))].sort();
   states.forEach(state => {
