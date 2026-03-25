@@ -55,12 +55,11 @@ School favicons are generated at render time from each school's URL using the Go
 
 The extension lets you search the directory from your browser toolbar. Install it manually while it awaits Chrome Web Store review:
 
-1. Download the repo ZIP from GitHub
+1. Download `college-athletics-extension.crx` from this repo
 2. Go to `chrome://extensions` and enable **Developer mode**
-3. Click **Load unpacked** and select the `extension/` folder
-4. Pin the extension to your toolbar
-
-Or download the pre-packaged `college-athletics-extension.zip` from this repo.
+3. Drag and drop the `.crx` file onto the Extensions page
+4. Click **Add extension** when prompted
+5. Pin the extension to your toolbar
 
 ## URL Checker
 
