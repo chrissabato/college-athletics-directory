@@ -359,25 +359,127 @@ document.addEventListener("DOMContentLoaded", init);
 // ── Correction Modal ───────────────────────────────────────────────────────
 const WORKER_URL = "https://athletics-issues.chris-sabato.workers.dev";
 
-const modal        = document.getElementById("correction-modal");
-const modalClose   = document.getElementById("modal-close");
-const schoolField  = document.getElementById("field-school");
-const corrForm     = document.getElementById("correction-form");
-const formStatus   = document.getElementById("form-status");
-const toast        = document.getElementById("toast");
+const modal          = document.getElementById("correction-modal");
+const modalClose     = document.getElementById("modal-close");
+const schoolField    = document.getElementById("field-school");
+const corrForm       = document.getElementById("correction-form");
+const formStatus     = document.getElementById("form-status");
+const toast          = document.getElementById("toast");
+const schoolDataFields = document.getElementById("school-data-fields");
+const macList        = document.getElementById("modal-ac-list");
 
+// ── Modal school autocomplete ──────────────────────────────────────────────
+let macIndex = -1;
+
+function populateSchoolFields(school) {
+  document.getElementById("field-association").value = school.association || "";
+  document.getElementById("field-conference").value  = school.conference  || "";
+  document.getElementById("field-city").value        = school.city        || "";
+  document.getElementById("field-state").value       = school.state       || "";
+  document.getElementById("field-url").value         = school.url         || "";
+  // Store originals for diffing
+  document.getElementById("orig-association").value  = school.association || "";
+  document.getElementById("orig-conference").value   = school.conference  || "";
+  document.getElementById("orig-city").value         = school.city        || "";
+  document.getElementById("orig-state").value        = school.state       || "";
+  document.getElementById("orig-url").value          = school.url         || "";
+  schoolDataFields.hidden = false;
+}
+
+function clearSchoolFields() {
+  schoolDataFields.hidden = true;
+  ["field-association","field-conference","field-city","field-state","field-url"]
+    .forEach(id => document.getElementById(id).value = "");
+}
+
+function closeMacList() {
+  macList.hidden = true;
+  macList.innerHTML = "";
+  macIndex = -1;
+}
+
+schoolField.addEventListener("input", () => {
+  const q = schoolField.value.trim().toLowerCase();
+  clearSchoolFields();
+  if (q.length < 1) { closeMacList(); return; }
+
+  const matches = SCHOOLS
+    .filter(s => s.name.toLowerCase().includes(q))
+    .sort((a, b) => {
+      const aS = a.name.toLowerCase().startsWith(q);
+      const bS = b.name.toLowerCase().startsWith(q);
+      return (aS === bS) ? a.name.localeCompare(b.name) : aS ? -1 : 1;
+    })
+    .slice(0, 8);
+
+  if (!matches.length) { closeMacList(); return; }
+
+  macList.innerHTML = matches.map((s, i) => {
+    const loc = [s.city, s.state].filter(Boolean).join(", ");
+    return `<li data-index="${i}">
+      <span>${escapeHtml(s.name)}</span>
+      <span class="mac-meta">${escapeHtml([s.association, loc].filter(Boolean).join(" — "))}</span>
+    </li>`;
+  }).join("");
+
+  macList.hidden = false;
+  macIndex = -1;
+
+  macList.querySelectorAll("li").forEach((li, i) => {
+    li.addEventListener("mousedown", e => {
+      e.preventDefault();
+      schoolField.value = matches[i].name;
+      populateSchoolFields(matches[i]);
+      closeMacList();
+    });
+  });
+});
+
+schoolField.addEventListener("keydown", e => {
+  const items = macList.querySelectorAll("li");
+  if (macList.hidden || !items.length) return;
+  if (e.key === "ArrowDown") {
+    e.preventDefault();
+    items.forEach(li => li.classList.remove("modal-ac-active"));
+    macIndex = macIndex < items.length - 1 ? macIndex + 1 : 0;
+    items[macIndex].classList.add("modal-ac-active");
+  } else if (e.key === "ArrowUp") {
+    e.preventDefault();
+    items.forEach(li => li.classList.remove("modal-ac-active"));
+    macIndex = macIndex > 0 ? macIndex - 1 : items.length - 1;
+    items[macIndex].classList.add("modal-ac-active");
+  } else if (e.key === "Enter") {
+    e.preventDefault();
+    if (macIndex >= 0) items[macIndex].dispatchEvent(new MouseEvent("mousedown"));
+  } else if (e.key === "Escape") {
+    closeMacList();
+  }
+});
+
+document.addEventListener("click", e => {
+  if (!e.target.closest(".modal-ac-wrapper")) closeMacList();
+});
+
+// ── Modal open/close ───────────────────────────────────────────────────────
 function openModal(schoolName) {
-  schoolField.value = schoolName;
-  formStatus.hidden = true;
   corrForm.reset();
-  schoolField.value = schoolName;
+  clearSchoolFields();
+  closeMacList();
+  formStatus.hidden = true;
+  if (schoolName) {
+    schoolField.value = schoolName;
+    const school = SCHOOLS.find(s => s.name === schoolName);
+    if (school) populateSchoolFields(school);
+  }
   modal.hidden = false;
   document.body.style.overflow = "hidden";
+  setTimeout(() => schoolField.focus(), 50);
 }
 
 function closeModal() {
   modal.hidden = true;
   document.body.style.overflow = "";
+  closeMacList();
 }
 
 function showToast() {
@@ -413,6 +515,7 @@ document.getElementById("extension-link").addEventListener("click", openExtModal
 extModalClose.addEventListener("click", closeExtModal);
 extModal.addEventListener("click", e => { if (e.target === extModal) closeExtModal(); });
 
+// ── Form submission ────────────────────────────────────────────────────────
 corrForm.addEventListener("submit", async e => {
   e.preventDefault();
   const submitBtn = corrForm.querySelector(".submit-btn");
@@ -420,10 +523,18 @@ corrForm.addEventListener("submit", async e => {
   submitBtn.textContent = "Submitting…";
 
   const data = {
-    school:      document.getElementById("field-school").value,
-    issue_type:  document.getElementById("field-type").value,
-    correct_url: document.getElementById("field-url").value,
-    details:     document.getElementById("field-details").value,
+    school:           schoolField.value,
+    association:      document.getElementById("field-association").value,
+    conference:       document.getElementById("field-conference").value,
+    city:             document.getElementById("field-city").value,
+    state:            document.getElementById("field-state").value,
+    url:              document.getElementById("field-url").value,
+    orig_association: document.getElementById("orig-association").value,
+    orig_conference:  document.getElementById("orig-conference").value,
+    orig_city:        document.getElementById("orig-city").value,
+    orig_state:       document.getElementById("orig-state").value,
+    orig_url:         document.getElementById("orig-url").value,
+    details:          document.getElementById("field-details").value,
   };
 
   try {
@@ -433,7 +544,6 @@ corrForm.addEventListener("submit", async e => {
       body: JSON.stringify(data),
     });
     const json = await res.json();
-    formStatus.hidden = false;
     if (res.ok) {
       closeModal();
       showToast();

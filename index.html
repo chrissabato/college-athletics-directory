@@ -181,35 +181,62 @@
 
   <!-- Correction modal -->
   <div id="correction-modal" class="modal-backdrop" hidden>
-    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal modal--wide" role="dialog" aria-modal="true" aria-labelledby="modal-title">
       <div class="modal-header">
         <h2 id="modal-title">Report an Issue</h2>
         <button id="modal-close" class="modal-close" aria-label="Close">&times;</button>
       </div>
       <form id="correction-form" class="modal-body">
+
+        <!-- School search -->
         <div class="form-group">
           <label for="field-school">School</label>
-          <input type="text" id="field-school" name="school" required>
+          <div class="modal-ac-wrapper">
+            <input type="text" id="field-school" name="school" required autocomplete="off" placeholder="Search or enter school name…">
+            <ul id="modal-ac-list" class="modal-ac-list" hidden></ul>
+          </div>
         </div>
+
+        <!-- Current data (populated when school selected) -->
+        <div id="school-data-fields" class="school-data-fields" hidden>
+          <p class="school-data-label">Edit any field that is incorrect:</p>
+          <div class="form-row">
+            <div class="form-group">
+              <label for="field-association">Association</label>
+              <input type="text" id="field-association" name="association" autocomplete="off">
+            </div>
+            <div class="form-group">
+              <label for="field-conference">Conference</label>
+              <input type="text" id="field-conference" name="conference" autocomplete="off">
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="form-group">
+              <label for="field-city">City</label>
+              <input type="text" id="field-city" name="city" autocomplete="off">
+            </div>
+            <div class="form-group">
+              <label for="field-state">State</label>
+              <input type="text" id="field-state" name="state" autocomplete="off">
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="field-url">Website URL</label>
+            <input type="url" id="field-url" name="url" placeholder="https://…">
+          </div>
+          <!-- Hidden original values for diffing -->
+          <input type="hidden" id="orig-association" name="orig_association">
+          <input type="hidden" id="orig-conference"  name="orig_conference">
+          <input type="hidden" id="orig-city"        name="orig_city">
+          <input type="hidden" id="orig-state"       name="orig_state">
+          <input type="hidden" id="orig-url"         name="orig_url">
+        </div>
+
         <div class="form-group">
-          <label for="field-type">Issue type</label>
-          <select id="field-type" name="issue_type" required>
-            <option value="">Select…</option>
-            <option value="Incorrect website URL">Incorrect website URL</option>
-            <option value="Incorrect conference">Incorrect conference</option>
-            <option value="Incorrect location">Incorrect location</option>
-            <option value="School missing from directory">School missing from directory</option>
-            <option value="Other">Other</option>
-          </select>
+          <label for="field-details">Details <span class="optional">(optional)</span></label>
+          <textarea id="field-details" name="details" rows="2" placeholder="Any other info that would help…"></textarea>
         </div>
-        <div class="form-group">
-          <label for="field-url">Correct URL <span class="optional">(if applicable)</span></label>
-          <input type="url" id="field-url" name="correct_url" placeholder="https://…">
-        </div>
-        <div class="form-group">
-          <label for="field-details">Additional details <span class="optional">(optional)</span></label>
-          <textarea id="field-details" name="details" rows="3" placeholder="Any other info that would help…"></textarea>
-        </div>
+
         <div id="form-status" class="form-status" hidden></div>
         <div class="modal-footer">
           <button type="submit" class="submit-btn">Submit</button>

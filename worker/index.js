@@ -19,18 +19,43 @@ export default {
       return cors(new Response("Invalid JSON", { status: 400 }));
     }
 
-    const { school, issue_type, details, correct_url } = data;
+    const { school, association, conference, city, state, url,
+            orig_association, orig_conference, orig_city, orig_state, orig_url,
+            details } = data;
 
-    if (!school || !issue_type) {
+    if (!school) {
       return cors(new Response("Missing required fields", { status: 400 }));
     }
 
-    const body = [
-      `**School:** ${school}`,
-      `**Issue type:** ${issue_type}`,
-      details ? `**Details:** ${details}` : null,
-      correct_url ? `**Correct URL:** ${correct_url}` : null,
-    ].filter(Boolean).join("\n");
+    const fields = [
+      { label: "Association", orig: orig_association, val: association },
+      { label: "Conference",  orig: orig_conference,  val: conference  },
+      { label: "City",        orig: orig_city,        val: city        },
+      { label: "State",       orig: orig_state,       val: state       },
+      { label: "URL",         orig: orig_url,         val: url         },
+    ];
+
+    const changed = fields.filter(f => f.orig && f.val && f.orig !== f.val);
+    const unchanged = fields.filter(f => f.val && (!f.orig || f.orig === f.val));
+
+    const lines = [`**School:** ${school}`, ""];
+
+    if (changed.length) {
+      lines.push("**Changes:**");
+      changed.forEach(f => lines.push(`- **${f.label}:** ~~${f.orig}~~ → ${f.val}`));
+      lines.push("");
+    }
+
+    if (unchanged.length) {
+      lines.push("**Unchanged data:**");
+      unchanged.forEach(f => lines.push(`- **${f.label}:** ${f.val}`));
+      lines.push("");
+    }
+
+    if (details) lines.push(`**Details:** ${details}`);
+
+    const body = lines.join("\n");
+    const issue_type = changed.length ? "Update" : "Report";
 
     const response = await fetch(`https://api.github.com/repos/${REPO}/issues`, {
       method: "POST",
