@@ -21,7 +21,8 @@
     "association": "NCAA DIII",
     "conference": "Great Northeast Athletic Conference",
     "url": "https://albertusfalcons.com/",
-    "city": "New Haven"
+    "city": "New Haven",
+    "favicon_url": "https://albertusfalcons.com/favicon.ico"
   },
   {
     "name": "Albion College",
@@ -149,7 +150,8 @@
     "association": "NCAA DIII",
     "conference": "Southern Collegiate Athletic Conference",
     "url": "https://acroos.com/",
-    "city": "Sherman"
+    "city": "Sherman",
+    "favicon_url": "https://acroos.com/favicon.ico"
   },
   {
     "name": "Averett University",
@@ -205,7 +207,8 @@
     "association": "NCAA DIII",
     "conference": "New England Collegiate Conference",
     "url": "https://athletics.baypath.edu/",
-    "city": "Longmeadow"
+    "city": "Longmeadow",
+    "favicon_url": "https://athletics.baypath.edu/favicon.ico"
   },
   {
     "name": "Beloit College",
@@ -261,7 +264,8 @@
     "association": "NCAA DIII",
     "conference": "St. Louis Intercollegiate Athletic Conference",
     "url": "https://blackburnbeavers.com/",
-    "city": "Carlinville"
+    "city": "Carlinville",
+    "favicon_url": "https://blackburnbeavers.com/favicon.ico"
   },
   {
     "name": "Bluffton University",
@@ -301,7 +305,8 @@
     "association": "NCAA DIII",
     "conference": "Massachusetts State Collegiate Athletic Conference",
     "url": "https://bsubears.com/",
-    "city": "Bridgewater"
+    "city": "Bridgewater",
+    "favicon_url": "https://bsubears.com/favicon.ico"
   },
   {
     "name": "Brooklyn College",
@@ -405,7 +410,8 @@
     "association": "NCAA DIII",
     "conference": "University Athletic Association",
     "url": "https://athletics.cmu.edu/",
-    "city": "Pittsburgh"
+    "city": "Pittsburgh",
+    "favicon_url": "https://athletics.cmu.edu/favicon.ico"
   },
   {
     "name": "Carroll University",
@@ -613,7 +619,8 @@
     "association": "NCAA DIII",
     "conference": "Minnesota Intercollegiate Athletic Conference",
     "url": "https://gocobbers.com/",
-    "city": "Moorhead"
+    "city": "Moorhead",
+    "favicon_url": "https://gocobbers.com/favicon.ico"
   },
   {
     "name": "Concordia University Chicago",
@@ -853,7 +860,8 @@
     "association": "NCAA DIII",
     "conference": "South Atlantic Conference",
     "url": "https://gowasps.com/",
-    "city": "Emory"
+    "city": "Emory",
+    "favicon_url": "https://gowasps.com/favicon.ico"
   },
   {
     "name": "Emory University",
@@ -869,7 +877,8 @@
     "association": "NCAA DIII",
     "conference": "Conference of New England",
     "url": "https://ecgulls.com/",
-    "city": "Beverly"
+    "city": "Beverly",
+    "favicon_url": "https://ecgulls.com/assets/favicons/favicon-48x48.png"
   },
   {
     "name": "Eureka College",
@@ -917,7 +926,8 @@
     "association": "NCAA DIII",
     "conference": "St Louis Intercollegiate Athletic Conference",
     "url": "https://fontbonnegriffins.com/",
-    "city": "Saint Louis"
+    "city": "Saint Louis",
+    "favicon_url": "https://fontbonnegriffins.com/favicon.ico"
   },
   {
     "name": "Framingham State University",
@@ -1173,7 +1183,8 @@
     "association": "NCAA DIII",
     "conference": "Old Dominion Athletic Conf.",
     "url": "https://hollins.edu/athletics",
-    "city": "Roanoke"
+    "city": "Roanoke",
+    "favicon_url": "https://hollins.edu/favicon.ico"
   },
   {
     "name": "Hood College",
@@ -1453,7 +1464,8 @@
     "association": "NCAA DIII",
     "conference": "North Atlantic Conference",
     "url": "https://lesleyathletics.com/",
-    "city": "Cambridge"
+    "city": "Cambridge",
+    "favicon_url": "https://lesleyathletics.com/favicon.ico"
   },
   {
     "name": "LeTourneau University",
@@ -2053,7 +2065,8 @@
     "association": "NCAA DIII",
     "conference": "Allegheny Mountain Collegiate Conference",
     "url": "https://psblions.com/",
-    "city": "Erie"
+    "city": "Erie",
+    "favicon_url": "https://psblions.com/favicon.ico"
   },
   {
     "name": "Penn State Harrisburg",
@@ -2525,7 +2538,8 @@
     "association": "NCAA DIII",
     "conference": "Conference of New England",
     "url": "https://gosuffolkrams.com/",
-    "city": "Boston"
+    "city": "Boston",
+    "favicon_url": "https://gosuffolkrams.com/favicon.ico"
   },
   {
     "name": "Sul Ross State University",
@@ -2701,7 +2715,8 @@
     "association": "NCAA DIII",
     "conference": "Skyline Conference",
     "url": "https://sagegators.com/",
-    "city": "Troy"
+    "city": "Troy",
+    "favicon_url": "https://sagegators.com/favicon.ico"
   },
   {
     "name": "Thiel College",
@@ -2781,7 +2796,8 @@
     "association": "NCAA DIII",
     "conference": "New England Women's and Men's Athletic Conference",
     "url": "https://uscgasports.com/",
-    "city": "New London"
+    "city": "New London",
+    "favicon_url": "https://uscgasports.com/favicon.ico"
   },
   {
     "name": "Union College",
@@ -2933,7 +2949,8 @@
     "association": "NCAA DIII",
     "conference": "Allegheny Mountain Collegiate Conference",
     "url": "https://athletics.pittbradford.org/",
-    "city": "Bradford"
+    "city": "Bradford",
+    "favicon_url": "https://athletics.pittbradford.org/favicons/favicon-32x32.png"
   },
   {
     "name": "University of Puget Sound",
@@ -3205,7 +3222,8 @@
     "association": "NCAA DIII",
     "conference": "Conference of New England",
     "url": "https://wentworthathletics.com/",
-    "city": "Boston"
+    "city": "Boston",
+    "favicon_url": "https://wentworthathletics.com/favicon.ico"
   },
   {
     "name": "Wesleyan College",
@@ -5709,7 +5727,8 @@
     "state": "Florida",
     "association": "NCAA DI",
     "conference": "Atlantic Sun Conference",
-    "url": "https://unfospreys.com/"
+    "url": "https://unfospreys.com/",
+    "favicon_url": "https://unfospreys.com/favicon.ico"
   },
   {
     "name": "University of North Texas",
@@ -5837,7 +5856,8 @@
     "state": "South Carolina",
     "association": "NCAA DI",
     "conference": "Big South Conference",
-    "url": "https://upstatespartans.com/"
+    "url": "https://upstatespartans.com/",
+    "favicon_url": "https://upstatespartans.com/favicon.ico"
   },
   {
     "name": "University of South Dakota",
@@ -6653,7 +6673,8 @@
     "state": "South Carolina",
     "association": "NCAA DII",
     "conference": "South Atlantic Conference",
-    "url": "https://cokercobras.com/"
+    "url": "https://cokercobras.com/",
+    "favicon_url": "https://cokercobras.com/favicon.ico"
   },
   {
     "name": "Colorado Christian University",
@@ -7277,7 +7298,8 @@
     "state": "New York",
     "association": "NCAA DII",
     "conference": "East Coast Conference",
-    "url": "https://liupostpioneers.com/"
+    "url": "https://liupostpioneers.com/",
+    "favicon_url": "https://liupostpioneers.com/favicon.ico"
   },
   {
     "name": "Lubbock Christian University",
@@ -7317,7 +7339,8 @@
     "state": "North Carolina",
     "association": "NCAA DII",
     "conference": "South Atlantic Conference",
-    "url": "https://www.marshilllions.com/"
+    "url": "https://www.marshilllions.com/",
+    "favicon_url": "https://www.marshilllions.com/favicon.ico"
   },
   {
     "name": "Maryville University",
@@ -8093,7 +8116,8 @@
     "state": "Tennessee",
     "association": "NCAA DII",
     "conference": "South Atlantic Conference",
-    "url": "https://tusculumpioneers.com/"
+    "url": "https://tusculumpioneers.com/",
+    "favicon_url": "https://tusculumpioneers.com/favicons/favicon-32x32.png"
   },
   {
     "name": "Tuskegee University",
@@ -8357,7 +8381,8 @@
     "state": "Florida",
     "association": "NCAA DII",
     "conference": "Sunshine State Conference",
-    "url": "https://tampaspartans.com/"
+    "url": "https://tampaspartans.com/",
+    "favicon_url": "https://tampaspartans.com/favicon.ico"
   },
   {
     "name": "University Of Texas Of The Permian Basin",
@@ -8373,7 +8398,8 @@
     "state": "District of Columbia",
     "association": "NCAA DII",
     "conference": "East Coast Conference",
-    "url": "https://www.udcfirebirds.com/"
+    "url": "https://www.udcfirebirds.com/",
+    "favicon_url": "https://www.udcfirebirds.com/favicon.ico"
   },
   {
     "name": "University Of West Alabama",
@@ -8621,7 +8647,8 @@
     "state": "Kentucky",
     "association": "NAIA",
     "conference": "Kentucky Intercollegiate Athletic Conference",
-    "url": "https://alicelloydeagles.com/"
+    "url": "https://alicelloydeagles.com/",
+    "favicon_url": "https://alicelloydeagles.com/assets/favicons/favicon-32x32.png"
   },
   {
     "name": "Allen University",
@@ -8669,7 +8696,8 @@
     "state": "Missouri",
     "association": "NAIA",
     "conference": "Heart of America Athletic Conference",
-    "url": "https://avilaathletics.com/"
+    "url": "https://avilaathletics.com/",
+    "favicon_url": "https://avilaathletics.com/assets/favicons/favicon-32x32.png"
   },
   {
     "name": "Baker University",
@@ -8709,7 +8737,8 @@
     "state": "Kansas",
     "association": "NAIA",
     "conference": "Kansas Collegiate Athletic Conference",
-    "url": "https://bethanyswedes.com/"
+    "url": "https://bethanyswedes.com/",
+    "favicon_url": "https://bethanyswedes.com/assets/favicons/favicon-32x32.png"
   },
   {
     "name": "Bethel University",
@@ -8765,7 +8794,8 @@
     "state": "Kentucky",
     "association": "NAIA",
     "conference": "Kentucky Intercollegiate Athletic Conference",
-    "url": "https://bresciabearcats.com/"
+    "url": "https://bresciabearcats.com/",
+    "favicon_url": "https://bresciabearcats.com/assets/favicons/favicon-48x48.png"
   },
   {
     "name": "Brewton-Parker Christian University",
@@ -8837,7 +8867,8 @@
     "state": "Arkansas",
     "association": "NAIA",
     "conference": "American Midwest Conference",
-    "url": "https://cbcmustangs.com/"
+    "url": "https://cbcmustangs.com/",
+    "favicon_url": "https://cbcmustangs.com/assets/favicons/favicon-32x32.png"
   },
   {
     "name": "Central Christian College of Kansas",
@@ -8981,7 +9012,8 @@
     "state": "South Dakota",
     "association": "NAIA",
     "conference": "Great Plains Athletic Conference",
-    "url": "https://dwuathletics.com/"
+    "url": "https://dwuathletics.com/",
+    "favicon_url": "https://dwuathletics.com/favicon.ico"
   },
   {
     "name": "Dalton State College",
@@ -9069,7 +9101,8 @@
     "state": "Massachusetts",
     "association": "NAIA",
     "conference": "Continental Athletic Conference",
-    "url": "https://fisherfalcons.com/"
+    "url": "https://fisherfalcons.com/",
+    "favicon_url": "https://fisherfalcons.com/favicon.ico"
   },
   {
     "name": "Fisk University",
@@ -9077,7 +9110,8 @@
     "state": "Tennessee",
     "association": "NAIA",
     "conference": "Independent",
-    "url": "https://www.fiskathletics.com/"
+    "url": "https://www.fiskathletics.com/",
+    "favicon_url": "https://www.fiskathletics.com/favicon.ico"
   },
   {
     "name": "Florida College",
@@ -9141,7 +9175,8 @@
     "state": "Illinois",
     "association": "NAIA",
     "conference": "Independent",
-    "url": "https://gsujaguars.com/"
+    "url": "https://gsujaguars.com/",
+    "favicon_url": "https://gsujaguars.com/assets/favicons/favicon-32x32.png"
   },
   {
     "name": "Grace College",
@@ -9245,7 +9280,8 @@
     "state": "Indiana",
     "association": "NAIA",
     "conference": "Kentucky Intercollegiate Athletic Conference",
-    "url": "https://iueredwolves.com/"
+    "url": "https://iueredwolves.com/",
+    "favicon_url": "https://iueredwolves.com/assets/favicons/favicon-32x32.png"
   },
   {
     "name": "Indiana University Kokomo",
@@ -9309,7 +9345,8 @@
     "state": "Illinois",
     "association": "NAIA",
     "conference": "Chicagoland Collegiate Athletic Conference",
-    "url": "https://judsoneagles.com/"
+    "url": "https://judsoneagles.com/",
+    "favicon_url": "https://judsoneagles.com/assets/favicons/favicon-48x48.png"
   },
   {
     "name": "Kansas Wesleyan University",
@@ -9333,7 +9370,8 @@
     "state": "Kentucky",
     "association": "NAIA",
     "conference": "Mid-South Conference",
-    "url": "https://kcuknights.com/"
+    "url": "https://kcuknights.com/",
+    "favicon_url": "https://kcuknights.com/assets/favicons/favicon-48x48.png"
   },
   {
     "name": "La Sierra University",
@@ -9549,7 +9587,8 @@
     "state": "Missouri",
     "association": "NAIA",
     "conference": "Heart of America Athletic Conference",
-    "url": "https://valleywillroll.com/"
+    "url": "https://valleywillroll.com/",
+    "favicon_url": "https://valleywillroll.com/assets/favicons/favicon-32x32.png"
   },
   {
     "name": "Montana State University - Northern",
@@ -9613,7 +9652,8 @@
     "state": "Ohio",
     "association": "NAIA",
     "conference": "Crossroads League",
-    "url": "https://mvnucougars.com/"
+    "url": "https://mvnucougars.com/",
+    "favicon_url": "https://mvnucougars.com/assets/favicons/favicon-32x32.png"
   },
   {
     "name": "Multnomah University",
@@ -9717,7 +9757,8 @@
     "state": "Texas",
     "association": "NAIA",
     "conference": "Red River Athletic Conference",
-    "url": "https://ollusaintsathletics.com/"
+    "url": "https://ollusaintsathletics.com/",
+    "favicon_url": "https://ollusaintsathletics.com/assets/favicons/favicon-32x32.png"
   },
   {
     "name": "Pacific Union College",
@@ -9773,7 +9814,8 @@
     "state": "Georgia",
     "association": "NAIA",
     "conference": "Appalachian Athletic Conference",
-    "url": "https://skyhawkathletics.com/"
+    "url": "https://skyhawkathletics.com/",
+    "favicon_url": "https://skyhawkathletics.com/assets/favicons/favicon-32x32.png"
   },
   {
     "name": "Providence Christian College",
@@ -9869,7 +9911,8 @@
     "state": "Michigan",
     "association": "NAIA",
     "conference": "Wolverine-Hoosier Athletic Conference",
-    "url": "https://shusaints.com/"
+    "url": "https://shusaints.com/",
+    "favicon_url": "https://shusaints.com/favicons/favicon-32x32.png"
   },
   {
     "name": "Sierra Nevada College",
@@ -9917,7 +9960,8 @@
     "state": "Louisiana",
     "association": "NAIA",
     "conference": "Gulf Coast Athletic Conference",
-    "url": "https://sunoathletics.com/"
+    "url": "https://sunoathletics.com/",
+    "favicon_url": "https://sunoathletics.com/assets/favicons/favicon-48x48.png"
   },
   {
     "name": "Nelson University",
@@ -9957,7 +10001,8 @@
     "state": "Iowa",
     "association": "NAIA",
     "conference": "Chicagoland Collegiate Athletic Conference",
-    "url": "https://saubees.com/"
+    "url": "https://saubees.com/",
+    "favicon_url": "https://saubees.com/assets/favicons/favicon-32x32.png"
   },
   {
     "name": "Carolina University",
@@ -9973,7 +10018,8 @@
     "state": "Missouri",
     "association": "NAIA",
     "conference": "American Midwest Conference",
-    "url": "https://eutecticsports.com/"
+    "url": "https://eutecticsports.com/",
+    "favicon_url": "https://eutecticsports.com/assets/favicons/favicon-32x32.png"
   },
   {
     "name": "St. Thomas University",
@@ -10045,7 +10091,8 @@
     "state": "Tennessee",
     "association": "NAIA",
     "conference": "Appalachian Athletic Conference",
-    "url": "https://twbulldogs.com/"
+    "url": "https://twbulldogs.com/",
+    "favicon_url": "https://twbulldogs.com/assets/favicons/favicon-32x32.png"
   },
   {
     "name": "Texas A&M University-Texarkana",
@@ -10101,7 +10148,8 @@
     "state": "Mississippi",
     "association": "NAIA",
     "conference": "Gulf Coast Athletic Conference",
-    "url": "https://tougaloobulldogs.com/"
+    "url": "https://tougaloobulldogs.com/",
+    "favicon_url": "https://tougaloobulldogs.com/favicon.ico"
   },
   {
     "name": "Trinity Christian College",
@@ -10109,7 +10157,8 @@
     "state": "Illinois",
     "association": "NAIA",
     "conference": "Chicagoland Collegiate Athletic Conference",
-    "url": "https://athletics.trnty.edu/"
+    "url": "https://athletics.trnty.edu/",
+    "favicon_url": "https://athletics.trnty.edu/favicon.ico"
   },
   {
     "name": "Trinity International University",
@@ -10157,7 +10206,8 @@
     "state": "Texas",
     "association": "NAIA",
     "conference": "Red River Athletic Conference",
-    "url": "https://uhvjaguars.com/"
+    "url": "https://uhvjaguars.com/",
+    "favicon_url": "https://uhvjaguars.com/assets/favicons/favicon-48x48.png"
   },
   {
     "name": "University of Jamestown",
@@ -10197,7 +10247,8 @@
     "state": "Ohio",
     "association": "NAIA",
     "conference": "Wolverine-Hoosier Athletic Conference",
-    "url": "https://unohracers.com/"
+    "url": "https://unohracers.com/",
+    "favicon_url": "https://unohracers.com/assets/favicons/favicon-32x32.png"
   },
   {
     "name": "University of Pikeville",
@@ -10221,7 +10272,8 @@
     "state": "Ohio",
     "association": "NAIA",
     "conference": "Kentucky Intercollegiate Athletic Conference",
-    "url": "https://rioredstorm.com/"
+    "url": "https://rioredstorm.com/",
+    "favicon_url": "https://rioredstorm.com/assets/favicons/favicon-32x32.png"
   },
   {
     "name": "University of Saint Francis",
@@ -10245,7 +10297,8 @@
     "state": "Oklahoma",
     "association": "NAIA",
     "conference": "Sooner Athletic Conference",
-    "url": "https://www.usaoathletics.com/"
+    "url": "https://www.usaoathletics.com/",
+    "favicon_url": "https://www.usaoathletics.com/assets/favicons/favicon-32x32.png"
   },
   {
     "name": "University of South Carolina Beaufort",
@@ -10333,7 +10386,8 @@
     "state": "Iowa",
     "association": "NAIA",
     "conference": "North Star Athletic Association",
-    "url": "https://waldorfwarriors.com/"
+    "url": "https://waldorfwarriors.com/",
+    "favicon_url": "https://waldorfwarriors.com/assets/favicons/favicon-32x32.png"
   },
   {
     "name": "Walla Walla University",
@@ -10413,7 +10467,8 @@
     "state": "Texas",
     "association": "NAIA",
     "conference": "Red River Athletic Conference",
-    "url": "https://wileyathletics.com/"
+    "url": "https://wileyathletics.com/",
+    "favicon_url": "https://wileyathletics.com/assets/favicons/favicon-32x32.png"
   },
   {
     "name": "William Carey University",
@@ -10453,7 +10508,8 @@
     "state": "Arkansas",
     "association": "NAIA",
     "conference": "American Midwest Conference",
-    "url": "https://wbueagles.com/"
+    "url": "https://wbueagles.com/",
+    "favicon_url": "https://wbueagles.com/assets/favicons/favicon-32x32.png"
   },
   {
     "name": "Xavier University of Louisiana",
