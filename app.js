@@ -54,7 +54,8 @@ function escapeHtml(str) {
     .replace(/"/g, "&quot;");
 }
 
-function getFaviconUrl(url) {
+function getFaviconUrl(url, faviconUrl) {
+  if (faviconUrl) return faviconUrl;
   try {
     const domain = new URL(url).hostname;
     return `https://www.google.com/s2/favicons?domain=${domain}&sz=64`;
@@ -115,7 +116,7 @@ function updateAutocomplete(rawQuery) {
     .map((school, i) => {
       const location = [school.city, school.state].filter(Boolean).join(', ');
       const meta = [school.association, school.conference, location].filter(Boolean).join(' &mdash; ');
-      const favicon = school.url ? `<img class="ac-favicon" src="${escapeHtml(getFaviconUrl(school.url))}" alt="" aria-hidden="true">` : '';
+      const favicon = school.url ? `<img class="ac-favicon" src="${escapeHtml(getFaviconUrl(school.url, school.favicon_url))}" alt="" aria-hidden="true">` : '';
       return `<li role="option" data-value="${escapeHtml(school.name)}" data-url="${escapeHtml(school.url)}" data-index="${i}">` +
         favicon +
         `<span class="ac-text"><span class="ac-name">${highlightMatch(school.name, query)}</span>` +
@@ -227,7 +228,7 @@ function renderResults(schools) {
     .map(school => `
       <article class="school-card" role="listitem">
         <h3 class="card-name">
-          ${school.url ? `<img class="card-favicon" src="${escapeHtml(getFaviconUrl(school.url))}" alt="" aria-hidden="true">` : ''}
+          ${school.url ? `<img class="card-favicon" src="${escapeHtml(getFaviconUrl(school.url, school.favicon_url))}" alt="" aria-hidden="true">` : ''}
           <a href="${escapeHtml(school.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(school.name)}</a>
         </h3>
         <p class="card-conference">${escapeHtml(school.conference)}</p>

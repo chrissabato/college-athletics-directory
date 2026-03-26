@@ -71,7 +71,7 @@ function renderResults(matches, query) {
     const meta = [school.association, school.conference, location].filter(Boolean).join(" — ");
     return `
       <li role="option" data-url="${escapeHtml(school.url)}" data-index="${i}">
-        ${school.url ? `<img class="favicon" src="https://www.google.com/s2/favicons?domain=${new URL(school.url).hostname}&sz=64" alt="">` : ''}
+        ${school.url ? `<img class="favicon" src="${school.favicon_url || `https://www.google.com/s2/favicons?domain=${new URL(school.url).hostname}&sz=64`}" alt="">` : ''}
         <div class="info">
           <span class="name">${highlightMatch(school.name, query)}</span>
           <span class="meta">${escapeHtml(meta)}</span>
