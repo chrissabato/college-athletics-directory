@@ -11,7 +11,7 @@
     "name": "Agnes Scott College",
     "state": "Georgia",
     "association": "NCAA DIII",
-    "conference": "USA South",
+    "conference": "Collegiate Conference of the South",
     "url": "https://ascscotties.com/",
     "city": "Decatur"
   },
@@ -35,7 +35,7 @@
     "name": "Albright College",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conference",
+    "conference": "Middle Atlantic Conferences",
     "url": "https://albrightathletics.com/",
     "city": "Reading"
   },
@@ -43,7 +43,7 @@
     "name": "Alfred State College",
     "state": "New York",
     "association": "NCAA DIII",
-    "conference": "American Collegiate Athletic Association",
+    "conference": "Allegheny Mountain Collegiate Conference",
     "url": "https://alfredstateathletics.com/",
     "city": "Alfred"
   },
@@ -51,7 +51,7 @@
     "name": "Alfred University",
     "state": "New York",
     "association": "NCAA DIII",
-    "conference": "Empire 8 Athletic Conference",
+    "conference": "Empire 8",
     "url": "https://gosaxons.com/",
     "city": "Alfred"
   },
@@ -59,7 +59,7 @@
     "name": "Allegheny College",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "North Coast Athletic Conference",
+    "conference": "Presidents' Athletic Conference",
     "url": "https://alleghenygators.com/",
     "city": "Meadville"
   },
@@ -75,7 +75,7 @@
     "name": "Alvernia University",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conference",
+    "conference": "Middle Atlantic Conferences",
     "url": "https://athletics.alvernia.edu/",
     "city": "Reading"
   },
@@ -107,7 +107,7 @@
     "name": "Anna Maria College",
     "state": "Massachusetts",
     "association": "NCAA DIII",
-    "conference": "Great Northeast Athletic Conference",
+    "conference": "Massachusetts State Collegiate Athletic Conference",
     "url": "https://goamcats.com/",
     "city": "Paxton"
   },
@@ -115,7 +115,7 @@
     "name": "Arcadia University",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conference",
+    "conference": "Middle Atlantic Conferences",
     "url": "https://athletics.arcadia.edu/",
     "city": "Glenside"
   },
@@ -155,7 +155,7 @@
     "name": "Averett University",
     "state": "Virginia",
     "association": "NCAA DIII",
-    "conference": "USA South",
+    "conference": "Old Dominion Athletic Conf.",
     "url": "https://averettcougars.com/",
     "city": "Danville"
   },
@@ -236,7 +236,7 @@
     "state": "West Virginia",
     "association": "NCAA DIII",
     "conference": "Presidents' Athletic Conference",
-    "url": "https://bethanywv.edu/athletics",
+    "url": "https://bethanybison.com/",
     "city": "Bethany"
   },
   {
@@ -259,7 +259,7 @@
     "name": "Blackburn College",
     "state": "Illinois",
     "association": "NCAA DIII",
-    "conference": "St Louis Intercollegiate Athletic Conference",
+    "conference": "St. Louis Intercollegiate Athletic Conference",
     "url": "https://blackburnbeavers.com/",
     "city": "Carlinville"
   },
@@ -331,7 +331,7 @@
     "name": "Buena Vista University",
     "state": "Iowa",
     "association": "NCAA DIII",
-    "conference": "Iowa Intercollegiate Athletic Conference",
+    "conference": "American Rivers Conference",
     "url": "https://bvuathletics.com/",
     "city": "Storm Lake"
   },
@@ -355,7 +355,7 @@
     "name": "Cairn University",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Colonial States Athletic Conference",
+    "conference": "United East Conference",
     "url": "https://cairnhighlanders.com/",
     "city": "Langhorne"
   },
@@ -363,7 +363,7 @@
     "name": "California Institute of Technology",
     "state": "California",
     "association": "NCAA DIII",
-    "conference": "Southern California Intercollegiate Athletic Conference",
+    "conference": "Southern California Intercollegiate Athletic Conf.",
     "url": "https://gocaltech.com/",
     "city": "Pasadena"
   },
@@ -371,7 +371,7 @@
     "name": "California Lutheran University",
     "state": "California",
     "association": "NCAA DIII",
-    "conference": "Southern California Intercollegiate Athletic Conference",
+    "conference": "Southern California Intercollegiate Athletic Conf.",
     "url": "https://clusports.com/",
     "city": "Thousand Oaks"
   },
@@ -419,7 +419,7 @@
     "name": "Carthage College",
     "state": "Wisconsin",
     "association": "NCAA DIII",
-    "conference": "College Conference of Illinois and Wisconsin",
+    "conference": "College Conference of Illinois & Wisconsin",
     "url": "https://athletics.carthage.edu/",
     "city": "Kenosha"
   },
@@ -443,7 +443,7 @@
     "name": "Cedar Crest College",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Colonial States Athletic Conference",
+    "conference": "United East Conference",
     "url": "https://cedarcrestathletics.com/",
     "city": "Allentown"
   },
@@ -483,7 +483,7 @@
     "name": "Chapman University",
     "state": "California",
     "association": "NCAA DIII",
-    "conference": "Southern California Intercollegiate Athletic Conference",
+    "conference": "Southern California Intercollegiate Athletic Conf.",
     "url": "https://chapmanathletics.com/",
     "city": "Orange"
   },
@@ -499,7 +499,7 @@
     "name": "Christopher Newport University",
     "state": "Virginia",
     "association": "NCAA DIII",
-    "conference": "Capital Athletic Conference",
+    "conference": "Coast-To-Coast Athletic Conference",
     "url": "https://cnusports.com/",
     "city": "Newport News"
   },
@@ -539,8 +539,8 @@
     "name": "Coe College",
     "state": "Iowa",
     "association": "NCAA DIII",
-    "conference": "Iowa Intercollegiate Athletic Conference",
-    "url": "https://coeathletics.com/",
+    "conference": "American Rivers Conference",
+    "url": "https://kohawkathletics.com",
     "city": "Cedar Rapids"
   },
   {
@@ -555,7 +555,7 @@
     "name": "Colby-Sawyer College",
     "state": "New Hampshire",
     "association": "NCAA DIII",
-    "conference": "North Atlantic Conference",
+    "conference": "Great Northeast Athletic Conference",
     "url": "https://colby-sawyerathletics.com/",
     "city": "New London"
   },
@@ -587,7 +587,7 @@
     "name": "College of Staten Island",
     "state": "New York",
     "association": "NCAA DIII",
-    "conference": "City University of New York Athletic Conference",
+    "conference": "East Coast Conference",
     "url": "https://csidolphins.com/",
     "city": "New York City"
   },
@@ -627,7 +627,7 @@
     "name": "Concordia University Texas",
     "state": "Texas",
     "association": "NCAA DIII",
-    "conference": "American Southwest Conference",
+    "conference": "Southern Collegiate Athletic Conference",
     "url": "https://athletics.concordia.edu/",
     "city": "Austin"
   },
@@ -675,7 +675,7 @@
     "name": "Curry College",
     "state": "Massachusetts",
     "association": "NCAA DIII",
-    "conference": "Commonwealth Coast Conference",
+    "conference": "Conference of New England",
     "url": "https://curryathletics.com/",
     "city": "Milton"
   },
@@ -683,7 +683,7 @@
     "name": "D'Youville University",
     "state": "New York",
     "association": "NCAA DIII",
-    "conference": "Allegheny Mountain Collegiate Conference",
+    "conference": "East Coast Conference",
     "url": "https://athletics.dyc.edu/",
     "city": "Buffalo"
   },
@@ -699,7 +699,7 @@
     "name": "Delaware Valley University",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conference",
+    "conference": "Middle Atlantic Conferences",
     "url": "https://athletics.delval.edu/",
     "city": "Doylestown"
   },
@@ -723,7 +723,7 @@
     "name": "DeSales University",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conference",
+    "conference": "Middle Atlantic Conferences",
     "url": "https://athletics.desales.edu/",
     "city": "Center Valley"
   },
@@ -764,7 +764,7 @@
     "state": "Texas",
     "association": "NCAA DIII",
     "conference": "American Southwest Conference",
-    "url": "https://etbusports.com/",
+    "url": "https://goetbutigers.com",
     "city": "Marshall"
   },
   {
@@ -779,7 +779,7 @@
     "name": "Eastern Mennonite University",
     "state": "Virginia",
     "association": "NCAA DIII",
-    "conference": "Old Dominion Athletic Conference",
+    "conference": "Old Dominion Athletic Conf.",
     "url": "https://emuroyals.com/",
     "city": "Harrisonburg"
   },
@@ -787,7 +787,7 @@
     "name": "Eastern University",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conference",
+    "conference": "Middle Atlantic Conferences",
     "url": "https://goeasterneagles.com/",
     "city": "King of Prussia"
   },
@@ -811,7 +811,7 @@
     "name": "Elmhurst University",
     "state": "Illinois",
     "association": "NCAA DIII",
-    "conference": "College Conference of Illinois and Wisconsin",
+    "conference": "College Conference of Illinois & Wisconsin",
     "url": "https://elmhurstbluejays.com/",
     "city": "Elmhurst"
   },
@@ -819,7 +819,7 @@
     "name": "Elmira College",
     "state": "New York",
     "association": "NCAA DIII",
-    "conference": "Empire 8 Athletic Conference",
+    "conference": "Empire 8",
     "url": "https://athletics.elmira.edu/",
     "city": "Elmira"
   },
@@ -827,7 +827,7 @@
     "name": "Elms College",
     "state": "Massachusetts",
     "association": "NCAA DIII",
-    "conference": "New England Collegiate Conference",
+    "conference": "Great Northeast Athletic Conference",
     "url": "https://athletics.elms.edu/",
     "city": "Chicopee"
   },
@@ -851,7 +851,7 @@
     "name": "Emory & Henry University",
     "state": "Virginia",
     "association": "NCAA DIII",
-    "conference": "Old Dominion Athletic Conference",
+    "conference": "South Atlantic Conference",
     "url": "https://gowasps.com/",
     "city": "Emory"
   },
@@ -867,7 +867,7 @@
     "name": "Endicott College",
     "state": "Massachusetts",
     "association": "NCAA DIII",
-    "conference": "Commonwealth Coast Conference",
+    "conference": "Conference of New England",
     "url": "https://ecgulls.com/",
     "city": "Beverly"
   },
@@ -875,7 +875,7 @@
     "name": "Eureka College",
     "state": "Illinois",
     "association": "NCAA DIII",
-    "conference": "St Louis Intercollegiate Athletic Conference",
+    "conference": "St. Louis Intercollegiate Athletic Conference",
     "url": "https://eurekareddevils.com/",
     "city": "Eureka"
   },
@@ -883,7 +883,7 @@
     "name": "Fairleigh Dickinson University-Florham",
     "state": "New Jersey",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conference",
+    "conference": "Middle Atlantic Conferences",
     "url": "https://fdudevils.com/",
     "city": "Madison"
   },
@@ -899,7 +899,7 @@
     "name": "Ferrum College",
     "state": "Virginia",
     "association": "NCAA DIII",
-    "conference": "USA South",
+    "conference": "Conference Carolinas",
     "url": "https://ferrumpanthers.com/",
     "city": "Ferrum"
   },
@@ -931,7 +931,7 @@
     "name": "Franciscan University of Steubenville",
     "state": "Ohio",
     "association": "NCAA DIII",
-    "conference": "Allegheny Mountain Collegiate Conference",
+    "conference": "Presidents' Athletic Conference",
     "url": "https://franciscanathletics.com/",
     "city": "Steubenville"
   },
@@ -963,7 +963,7 @@
     "name": "Frostburg State University",
     "state": "Maryland",
     "association": "NCAA DIII",
-    "conference": "Capital Athletic Conference",
+    "conference": "Mountain East Conference",
     "url": "https://frostburgsports.com/",
     "city": "Frostburg"
   },
@@ -971,8 +971,8 @@
     "name": "Gallaudet University",
     "state": "District of Columbia",
     "association": "NCAA DIII",
-    "conference": "North Eastern Athletic Conference",
-    "url": "https://gallaudetathletics.com/",
+    "conference": "United East Conference",
+    "url": "https://gallaudetbison.com",
     "city": "Washington"
   },
   {
@@ -980,7 +980,7 @@
     "state": "Pennsylvania",
     "association": "NCAA DIII",
     "conference": "Presidents' Athletic Conference",
-    "url": "https://geneva.edu/page/athletics",
+    "url": "https://athletics.geneva.edu",
     "city": "Beaver Falls"
   },
   {
@@ -1003,7 +1003,7 @@
     "name": "Gordon College",
     "state": "Massachusetts",
     "association": "NCAA DIII",
-    "conference": "Commonwealth Coast Conference",
+    "conference": "Conference of New England",
     "url": "https://athletics.gordon.edu/",
     "city": "Wenham"
   },
@@ -1019,7 +1019,7 @@
     "name": "Greensboro College",
     "state": "North Carolina",
     "association": "NCAA DIII",
-    "conference": "USA South",
+    "conference": "USA South Athletic Conference",
     "url": "https://greensborocollegesports.com/",
     "city": "Greensboro"
   },
@@ -1027,7 +1027,7 @@
     "name": "Greenville University",
     "state": "Illinois",
     "association": "NCAA DIII",
-    "conference": "St Louis Intercollegiate Athletic Conference",
+    "conference": "St. Louis Intercollegiate Athletic Conference",
     "url": "https://greenville.edu/athletics/",
     "city": "Greenville"
   },
@@ -1051,7 +1051,7 @@
     "name": "Guilford College",
     "state": "North Carolina",
     "association": "NCAA DIII",
-    "conference": "Old Dominion Athletic Conference",
+    "conference": "Old Dominion Athletic Conf.",
     "url": "https://guilfordquakers.com/",
     "city": "Greensboro"
   },
@@ -1067,7 +1067,7 @@
     "name": "Gwynedd Mercy University",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Colonial States Athletic Conference",
+    "conference": "Atlantic East Conference",
     "url": "https://gwyneddathletics.com/",
     "city": "Gwynedd Valley"
   },
@@ -1091,7 +1091,7 @@
     "name": "Hampden-Sydney College",
     "state": "Virginia",
     "association": "NCAA DIII",
-    "conference": "Old Dominion Athletic Conference",
+    "conference": "Old Dominion Athletic Conf.",
     "url": "https://hscathletics.com/",
     "city": "Hampden Sydney"
   },
@@ -1115,7 +1115,7 @@
     "name": "Hartwick College",
     "state": "New York",
     "association": "NCAA DIII",
-    "conference": "Empire 8 Athletic Conference",
+    "conference": "Empire 8",
     "url": "https://hartwick.edu/athletics",
     "city": "Oneonta"
   },
@@ -1139,7 +1139,7 @@
     "name": "Hendrix College",
     "state": "Arkansas",
     "association": "NCAA DIII",
-    "conference": "Southern Athletic Association",
+    "conference": "Southern Collegiate Athletic Conference",
     "url": "https://hendrixwarriors.com/",
     "city": "Conway"
   },
@@ -1155,7 +1155,7 @@
     "name": "Hiram College",
     "state": "Ohio",
     "association": "NCAA DIII",
-    "conference": "North Coast Athletic Conference",
+    "conference": "Presidents' Athletic Conference",
     "url": "https://hiramterriers.com/",
     "city": "Hiram"
   },
@@ -1171,7 +1171,7 @@
     "name": "Hollins University",
     "state": "Virginia",
     "association": "NCAA DIII",
-    "conference": "Old Dominion Athletic Conference",
+    "conference": "Old Dominion Athletic Conf.",
     "url": "https://hollins.edu/athletics",
     "city": "Roanoke"
   },
@@ -1179,7 +1179,7 @@
     "name": "Hood College",
     "state": "Maryland",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conference",
+    "conference": "Middle Atlantic Conferences",
     "url": "https://hoodathletics.com/",
     "city": "Frederick"
   },
@@ -1195,7 +1195,7 @@
     "name": "Houghton University",
     "state": "New York",
     "association": "NCAA DIII",
-    "conference": "Empire 8 Athletic Conference",
+    "conference": "Empire 8",
     "url": "https://athletics.houghton.edu/",
     "city": "Houghton"
   },
@@ -1219,7 +1219,7 @@
     "name": "Huntingdon College",
     "state": "Alabama",
     "association": "NCAA DIII",
-    "conference": "USA South",
+    "conference": "Collegiate Conference of the South",
     "url": "https://huntingdonhawks.com/",
     "city": "Montgomery"
   },
@@ -1243,7 +1243,7 @@
     "name": "Illinois Institute Of Technology",
     "state": "Illinois",
     "association": "NCAA DIII",
-    "conference": "United States Collegiate Athletic Association",
+    "conference": "Northern Athletics Collegiate Conference",
     "url": "https://illinoistechathletics.com/",
     "city": "Chicago"
   },
@@ -1251,7 +1251,7 @@
     "name": "Illinois Wesleyan University",
     "state": "Illinois",
     "association": "NCAA DIII",
-    "conference": "College Conference of Illinois and Wisconsin",
+    "conference": "College Conference of Illinois & Wisconsin",
     "url": "https://iwusports.com/",
     "city": "Bloomington"
   },
@@ -1259,7 +1259,7 @@
     "name": "Immaculata University",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Colonial States Athletic Conference",
+    "conference": "Atlantic East Conference",
     "url": "https://gomightymacs.com/",
     "city": "Malvern"
   },
@@ -1267,7 +1267,7 @@
     "name": "Ithaca College",
     "state": "New York",
     "association": "NCAA DIII",
-    "conference": "Empire 8 Athletic Conference",
+    "conference": "Liberty League",
     "url": "https://bombers.ithaca.edu/",
     "city": "Ithaca"
   },
@@ -1275,7 +1275,7 @@
     "name": "John Carroll University",
     "state": "Ohio",
     "association": "NCAA DIII",
-    "conference": "Ohio Athletic Conference",
+    "conference": "North Coast Athletic Conference",
     "url": "https://jcusports.com/",
     "city": "Cleveland"
   },
@@ -1307,7 +1307,7 @@
     "name": "Juniata College",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Landmark",
+    "conference": "Landmark Conference",
     "url": "https://juniatasports.net/",
     "city": "Huntingdon"
   },
@@ -1347,15 +1347,15 @@
     "name": "Keuka College",
     "state": "New York",
     "association": "NCAA DIII",
-    "conference": "North Eastern Athletic Conference",
-    "url": "https://kcwolfpack.com/",
+    "conference": "Empire 8",
+    "url": "https://keukaathletics.com",
     "city": "Keuka Park"
   },
   {
     "name": "Keystone College",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Colonial States Athletic Conference",
+    "conference": "United East Conference",
     "url": "https://gokcgiants.com/",
     "city": "La Plume"
   },
@@ -1411,7 +1411,7 @@
     "name": "Lancaster Bible College",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "North Eastern Athletic Conference",
+    "conference": "United East Conference",
     "url": "https://lbcchargers.com/",
     "city": "Lancaster"
   },
@@ -1451,7 +1451,7 @@
     "name": "Lesley University",
     "state": "Massachusetts",
     "association": "NCAA DIII",
-    "conference": "New England Collegiate Conference",
+    "conference": "North Atlantic Conference",
     "url": "https://lesleyathletics.com/",
     "city": "Cambridge"
   },
@@ -1459,7 +1459,7 @@
     "name": "LeTourneau University",
     "state": "Texas",
     "association": "NCAA DIII",
-    "conference": "American Southwest Conference",
+    "conference": "Southern Collegiate Athletic Conference",
     "url": "https://letuathletics.com/",
     "city": "Longview"
   },
@@ -1483,7 +1483,7 @@
     "name": "Loras College",
     "state": "Iowa",
     "association": "NCAA DIII",
-    "conference": "Iowa Intercollegiate Athletic Conference",
+    "conference": "American Rivers Conference",
     "url": "https://duhawks.com/",
     "city": "Dubuque"
   },
@@ -1499,7 +1499,7 @@
     "name": "Luther College",
     "state": "Iowa",
     "association": "NCAA DIII",
-    "conference": "Iowa Intercollegiate Athletic Conference",
+    "conference": "American Rivers Conference",
     "url": "https://luthernorse.com/",
     "city": "Decorah"
   },
@@ -1507,7 +1507,7 @@
     "name": "Lycoming College",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conference",
+    "conference": "Landmark Conference",
     "url": "https://lycomingathletics.com/",
     "city": "Williamsport"
   },
@@ -1515,7 +1515,7 @@
     "name": "University of Lynchburg",
     "state": "Virginia",
     "association": "NCAA DIII",
-    "conference": "Old Dominion Athletic Conference",
+    "conference": "Old Dominion Athletic Conf.",
     "url": "https://lynchburgsports.com/",
     "city": "Lynchburg"
   },
@@ -1555,7 +1555,7 @@
     "name": "Manhattanville University",
     "state": "New York",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conference",
+    "conference": "Skyline Conference",
     "url": "https://govaliants.com/",
     "city": "Harrison"
   },
@@ -1563,7 +1563,7 @@
     "name": "Maranatha Baptist University",
     "state": "Wisconsin",
     "association": "NCAA DIII",
-    "conference": "Association of DIII Independents",
+    "conference": "Independent",
     "url": "https://mbusabercats.com/",
     "city": "Watertown"
   },
@@ -1595,7 +1595,7 @@
     "name": "Mary Baldwin University",
     "state": "Virginia",
     "association": "NCAA DIII",
-    "conference": "USA South",
+    "conference": "USA South Athletic Conference",
     "url": "https://marybaldwinathletics.com/",
     "city": "Staunton"
   },
@@ -1619,7 +1619,7 @@
     "name": "Marywood University",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Colonial States Athletic Conference",
+    "conference": "Atlantic East Conference",
     "url": "https://marywoodpacers.com/",
     "city": "Scranton"
   },
@@ -1659,7 +1659,7 @@
     "name": "McMurry University",
     "state": "Texas",
     "association": "NCAA DIII",
-    "conference": "American Southwest Conference",
+    "conference": "Southern Collegiate Athletic Conference",
     "url": "https://mcmurrysports.com/",
     "city": "Abilene"
   },
@@ -1675,7 +1675,7 @@
     "name": "Meredith College",
     "state": "North Carolina",
     "association": "NCAA DIII",
-    "conference": "USA South",
+    "conference": "USA South Athletic Conference",
     "url": "https://goavengingangels.com/",
     "city": "Raleigh"
   },
@@ -1683,7 +1683,7 @@
     "name": "Messiah University",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conference",
+    "conference": "Middle Atlantic Conferences",
     "url": "https://gomessiah.com/",
     "city": "Mechanicsburg"
   },
@@ -1691,7 +1691,7 @@
     "name": "Methodist University",
     "state": "North Carolina",
     "association": "NCAA DIII",
-    "conference": "USA South",
+    "conference": "USA South Athletic Conference",
     "url": "https://mumonarchs.com/",
     "city": "Fayetteville"
   },
@@ -1707,7 +1707,7 @@
     "name": "Millikin University",
     "state": "Illinois",
     "association": "NCAA DIII",
-    "conference": "College Conference of Illinois and Wisconsin",
+    "conference": "College Conference of Illinois & Wisconsin",
     "url": "https://athletics.millikin.edu/",
     "city": "Decatur"
   },
@@ -1731,7 +1731,7 @@
     "name": "Misericordia University",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conference",
+    "conference": "Middle Atlantic Conferences",
     "url": "https://athletics.misericordia.edu/",
     "city": "Dallas"
   },
@@ -1739,7 +1739,7 @@
     "name": "Mitchell College",
     "state": "Connecticut",
     "association": "NCAA DIII",
-    "conference": "New England Collegiate Conference",
+    "conference": "Great Northeast Athletic Conference",
     "url": "https://mitchellathletics.com/",
     "city": "New London"
   },
@@ -1763,7 +1763,7 @@
     "name": "Moravian University",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Landmark",
+    "conference": "Landmark Conference",
     "url": "https://moraviansports.com/",
     "city": "Bethlehem"
   },
@@ -1835,7 +1835,7 @@
     "name": "Nazareth University",
     "state": "New York",
     "association": "NCAA DIII",
-    "conference": "Empire 8 Athletic Conference",
+    "conference": "Empire 8",
     "url": "https://nazathletics.com/",
     "city": "Rochester"
   },
@@ -1843,7 +1843,7 @@
     "name": "Nebraska Wesleyan University",
     "state": "Nebraska",
     "association": "NCAA DIII",
-    "conference": "Great Plains Athletic Conference",
+    "conference": "American Rivers Conference",
     "url": "https://nwusports.com/",
     "city": "Lincoln"
   },
@@ -1851,7 +1851,7 @@
     "name": "Neumann University",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Colonial States Athletic Conference",
+    "conference": "Atlantic East Conference",
     "url": "https://neumannathletics.com/",
     "city": "Philadelphia"
   },
@@ -1859,7 +1859,7 @@
     "name": "New England College",
     "state": "New Hampshire",
     "association": "NCAA DIII",
-    "conference": "North Atlantic Conference",
+    "conference": "Great Northeast Athletic Conference",
     "url": "https://athletics.nec.edu/",
     "city": "Henniker"
   },
@@ -1883,7 +1883,7 @@
     "name": "Nichols College",
     "state": "Massachusetts",
     "association": "NCAA DIII",
-    "conference": "Commonwealth Coast Conference",
+    "conference": "Conference of New England",
     "url": "https://nicholsathletics.com/",
     "city": "Dudley"
   },
@@ -1891,7 +1891,7 @@
     "name": "North Carolina Wesleyan University",
     "state": "North Carolina",
     "association": "NCAA DIII",
-    "conference": "USA South",
+    "conference": "USA South Athletic Conference",
     "url": "https://ncwsports.com/",
     "city": "Rocky Mount"
   },
@@ -1899,7 +1899,7 @@
     "name": "North Central College",
     "state": "Illinois",
     "association": "NCAA DIII",
-    "conference": "College Conference of Illinois and Wisconsin",
+    "conference": "College Conference of Illinois & Wisconsin",
     "url": "https://northcentralcardinals.com/",
     "city": "Naperville"
   },
@@ -1915,7 +1915,7 @@
     "name": "North Park University",
     "state": "Illinois",
     "association": "NCAA DIII",
-    "conference": "College Conference of Illinois and Wisconsin",
+    "conference": "College Conference of Illinois & Wisconsin",
     "url": "https://athletics.northpark.edu/",
     "city": "Chicago"
   },
@@ -1939,7 +1939,7 @@
     "name": "Notre Dame of Maryland University",
     "state": "Maryland",
     "association": "NCAA DIII",
-    "conference": "Colonial States Athletic Conference",
+    "conference": "United East Conference",
     "url": "https://notredamegators.com/",
     "city": "Baltimore"
   },
@@ -1955,7 +1955,7 @@
     "name": "Occidental College",
     "state": "California",
     "association": "NCAA DIII",
-    "conference": "Southern California Intercollegiate Athletic Conference",
+    "conference": "Southern California Intercollegiate Athletic Conf.",
     "url": "https://oxyathletics.com/",
     "city": "Los Angeles"
   },
@@ -2059,7 +2059,7 @@
     "name": "Penn State Harrisburg",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Capital Athletic Conference",
+    "conference": "United East Conference",
     "url": "https://psuharrisburgsports.com/",
     "city": "Middletown"
   },
@@ -2067,7 +2067,7 @@
     "name": "Pennsylvania College of Technology",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "North Eastern Athletic Conference",
+    "conference": "United East Conference",
     "url": "https://pctwildcats.com/",
     "city": "Williamsport"
   },
@@ -2075,7 +2075,7 @@
     "name": "Pfeiffer University",
     "state": "North Carolina",
     "association": "NCAA DIII",
-    "conference": "USA South",
+    "conference": "USA South Athletic Conference",
     "url": "https://gofalconsports.com/",
     "city": "Misenheimer"
   },
@@ -2099,7 +2099,7 @@
     "name": "Pomona-Pitzer Colleges",
     "state": "California",
     "association": "NCAA DIII",
-    "conference": "Southern California Intercollegiate Athletic Conference",
+    "conference": "Southern California Intercollegiate Athletic Conf.",
     "url": "https://sagehens.com/",
     "city": "Claremont"
   },
@@ -2107,7 +2107,7 @@
     "name": "Principia College",
     "state": "Illinois",
     "association": "NCAA DIII",
-    "conference": "St Louis Intercollegiate Athletic Conference",
+    "conference": "St. Louis Intercollegiate Athletic Conference",
     "url": "https://principiaathletics.com/",
     "city": "Elsah"
   },
@@ -2131,7 +2131,7 @@
     "name": "Randolph College",
     "state": "Virginia",
     "association": "NCAA DIII",
-    "conference": "Old Dominion Athletic Conference",
+    "conference": "Old Dominion Athletic Conf.",
     "url": "https://randolphwildcats.com/",
     "city": "Lynchburg"
   },
@@ -2139,7 +2139,7 @@
     "name": "Randolph-Macon College",
     "state": "Virginia",
     "association": "NCAA DIII",
-    "conference": "Old Dominion Athletic Conference",
+    "conference": "Old Dominion Athletic Conf.",
     "url": "https://rmcathletics.com/",
     "city": "Ashland"
   },
@@ -2203,7 +2203,7 @@
     "name": "Roanoke College",
     "state": "Virginia",
     "association": "NCAA DIII",
-    "conference": "Old Dominion Athletic Conference",
+    "conference": "Old Dominion Athletic Conf.",
     "url": "https://roanokemaroons.com/",
     "city": "Salem"
   },
@@ -2227,7 +2227,7 @@
     "name": "Roger Williams University",
     "state": "Rhode Island",
     "association": "NCAA DIII",
-    "conference": "Commonwealth Coast Conference",
+    "conference": "Conference of New England",
     "url": "https://rwuhawks.com/",
     "city": "Bristol"
   },
@@ -2243,7 +2243,7 @@
     "name": "Rosemont College",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Colonial States Athletic Conference",
+    "conference": "Independent",
     "url": "https://rosemont-ravens.com/",
     "city": "Rosemont"
   },
@@ -2331,7 +2331,7 @@
     "name": "Salisbury University",
     "state": "Maryland",
     "association": "NCAA DIII",
-    "conference": "Capital Athletic Conference",
+    "conference": "Coast-To-Coast Athletic Conference",
     "url": "https://suseagulls.com/",
     "city": "Salisbury"
   },
@@ -2339,7 +2339,7 @@
     "name": "Salve Regina University",
     "state": "Rhode Island",
     "association": "NCAA DIII",
-    "conference": "Commonwealth Coast Conference",
+    "conference": "New England Women's and Men's Athletic Conference",
     "url": "https://salveathletics.com/",
     "city": "Newport"
   },
@@ -2347,7 +2347,7 @@
     "name": "Sarah Lawrence College",
     "state": "New York",
     "association": "NCAA DIII",
-    "conference": "Skyline",
+    "conference": "Skyline Conference",
     "url": "https://gogryphons.com/",
     "city": "Bronxville"
   },
@@ -2371,7 +2371,7 @@
     "name": "Shenandoah University",
     "state": "Virginia",
     "association": "NCAA DIII",
-    "conference": "Old Dominion Athletic Conference",
+    "conference": "Old Dominion Athletic Conf.",
     "url": "https://suhornets.com/",
     "city": "WInchester"
   },
@@ -2380,14 +2380,14 @@
     "state": "Massachusetts",
     "association": "NCAA DIII",
     "conference": "Great Northeast Athletic Conference",
-    "url": "https://simmons.prestosports.com/",
+    "url": "https://athletics.simmons.edu",
     "city": "Boston"
   },
   {
     "name": "Simpson College",
     "state": "Iowa",
     "association": "NCAA DIII",
-    "conference": "Iowa Intercollegiate Athletic Conference",
+    "conference": "American Rivers Conference",
     "url": "https://simpsonathletics.com/",
     "city": "Indianola"
   },
@@ -2411,7 +2411,7 @@
     "name": "Southern Virginia University",
     "state": "Virginia",
     "association": "NCAA DIII",
-    "conference": "Capital Athletic Conference",
+    "conference": "USA South Athletic Conference",
     "url": "https://knightathletics.com/",
     "city": "Buena Vista"
   },
@@ -2427,7 +2427,7 @@
     "name": "Spalding University",
     "state": "Kentucky",
     "association": "NCAA DIII",
-    "conference": "St Louis Intercollegiate Athletic Conference",
+    "conference": "St. Louis Intercollegiate Athletic Conference",
     "url": "https://spaldingathletics.com/",
     "city": "Louisville"
   },
@@ -2451,7 +2451,7 @@
     "name": "St. John Fisher University",
     "state": "New York",
     "association": "NCAA DIII",
-    "conference": "Empire 8 Athletic Conference",
+    "conference": "Empire 8",
     "url": "https://sjfathletics.com/",
     "city": "Rochester"
   },
@@ -2483,7 +2483,7 @@
     "name": "St. Mary's College of Maryland",
     "state": "Maryland",
     "association": "NCAA DIII",
-    "conference": "Capital Athletic Conference",
+    "conference": "United East Conference",
     "url": "https://smcmathletics.com/",
     "city": "St. Mary"
   },
@@ -2491,7 +2491,7 @@
     "name": "St. Norbert College",
     "state": "Wisconsin",
     "association": "NCAA DIII",
-    "conference": "Midwest Conference",
+    "conference": "Northern Athletics Collegiate Conference",
     "url": "https://snc.edu/athletics/",
     "city": "De Pere"
   },
@@ -2507,7 +2507,7 @@
     "name": "Stevens Institute Of Technology",
     "state": "New Jersey",
     "association": "NCAA DIII",
-    "conference": "Empire 8 Athletic Conference",
+    "conference": "Middle Atlantic Conferences",
     "url": "https://stevensducks.com/",
     "city": "Hoboken"
   },
@@ -2515,7 +2515,7 @@
     "name": "Stevenson University",
     "state": "Maryland",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conference",
+    "conference": "Middle Atlantic Conferences",
     "url": "https://gomustangsports.com/",
     "city": "Owings Mills"
   },
@@ -2523,7 +2523,7 @@
     "name": "Suffolk University",
     "state": "Massachusetts",
     "association": "NCAA DIII",
-    "conference": "Great Northeast Athletic Conference",
+    "conference": "Conference of New England",
     "url": "https://gosuffolkrams.com/",
     "city": "Boston"
   },
@@ -2531,7 +2531,7 @@
     "name": "Sul Ross State University",
     "state": "Texas",
     "association": "NCAA DIII",
-    "conference": "American Southwest Conference",
+    "conference": "Lone Star Conference",
     "url": "https://srlobos.com/",
     "city": "Alpine"
   },
@@ -2627,7 +2627,7 @@
     "name": "Susquehanna University",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Landmark",
+    "conference": "Landmark Conference",
     "url": "https://gosusqu.com/",
     "city": "Selinsgrove"
   },
@@ -2643,7 +2643,7 @@
     "name": "Sweet Briar College",
     "state": "Virginia",
     "association": "NCAA DIII",
-    "conference": "Old Dominion Athletic Conference",
+    "conference": "Old Dominion Athletic Conf.",
     "url": "https://vixenathletics.com/",
     "city": "Sweet Briar"
   },
@@ -2699,7 +2699,7 @@
     "name": "The College of St. Scholastica",
     "state": "Minnesota",
     "association": "NCAA DIII",
-    "conference": "Upper Midwest Athletic Conference",
+    "conference": "Minnesota Intercollegiate Athletic Conference",
     "url": "https://csssaints.com/",
     "city": "Duluth"
   },
@@ -2731,7 +2731,7 @@
     "name": "Thomas More University",
     "state": "Kentucky",
     "association": "NCAA DIII",
-    "conference": "Presidents' Athletic Conference",
+    "conference": "Great Midwest Athletic Conference",
     "url": "https://thomasmoresaints.com/",
     "city": "Crestview Hills"
   },
@@ -2771,7 +2771,7 @@
     "name": "Trinity Washington University",
     "state": "District of Columbia",
     "association": "NCAA DIII",
-    "conference": "Great South Athletic Conference",
+    "conference": "Independent",
     "url": "https://athletics.trinitydc.edu/",
     "city": "Washington"
   },
@@ -2811,7 +2811,7 @@
     "name": "University Of California Santa Cruz",
     "state": "California",
     "association": "NCAA DIII",
-    "conference": "Association of DIII Independents",
+    "conference": "Coast-To-Coast Athletic Conference",
     "url": "https://goslugs.com/",
     "city": "Santa Cruz"
   },
@@ -2835,7 +2835,7 @@
     "name": "University of Dubuque",
     "state": "Iowa",
     "association": "NCAA DIII",
-    "conference": "Iowa Intercollegiate Athletic Conference",
+    "conference": "American Rivers Conference",
     "url": "https://udspartans.com/",
     "city": "Dubuque"
   },
@@ -2843,7 +2843,7 @@
     "name": "University of La Verne",
     "state": "California",
     "association": "NCAA DIII",
-    "conference": "Southern California Intercollegiate Athletic Conference",
+    "conference": "Southern California Intercollegiate Athletic Conf.",
     "url": "https://leopardathletics.com/",
     "city": "La Verne"
   },
@@ -2875,7 +2875,7 @@
     "name": "University of Mary Washington",
     "state": "Virginia",
     "association": "NCAA DIII",
-    "conference": "Capital Athletic Conference",
+    "conference": "Coast-To-Coast Athletic Conference",
     "url": "https://umweagles.com/",
     "city": "Fredericksburg"
   },
@@ -2915,7 +2915,7 @@
     "name": "University of New England",
     "state": "Maine",
     "association": "NCAA DIII",
-    "conference": "Commonwealth Coast Conference",
+    "conference": "Conference of New England",
     "url": "https://athletics.une.edu/",
     "city": "Biddeford"
   },
@@ -2955,7 +2955,7 @@
     "name": "University of Redlands",
     "state": "California",
     "association": "NCAA DIII",
-    "conference": "Southern California Intercollegiate Athletic Conference",
+    "conference": "Southern California Intercollegiate Athletic Conf.",
     "url": "https://goredlands.com/",
     "city": "Redlands"
   },
@@ -2963,7 +2963,7 @@
     "name": "University of Rochester",
     "state": "New York",
     "association": "NCAA DIII",
-    "conference": "Liberty League",
+    "conference": "University Athletic Association",
     "url": "https://uofrathletics.com/",
     "city": "Rochester"
   },
@@ -3003,7 +3003,7 @@
     "name": "University of Texas at Dallas",
     "state": "Texas",
     "association": "NCAA DIII",
-    "conference": "American Southwest Conference",
+    "conference": "Lone Star Conference",
     "url": "https://cometsports.utdallas.edu/",
     "city": "Richardson"
   },
@@ -3011,7 +3011,7 @@
     "name": "University of Texas at Tyler",
     "state": "Texas",
     "association": "NCAA DIII",
-    "conference": "American Southwest Conference",
+    "conference": "Lone Star Conference",
     "url": "https://uttylerpatriots.com/",
     "city": "Tyler"
   },
@@ -3107,7 +3107,7 @@
     "name": "Utica University",
     "state": "New York",
     "association": "NCAA DIII",
-    "conference": "Empire 8 Athletic Conference",
+    "conference": "Empire 8",
     "url": "https://uticapioneers.com/",
     "city": "Utica"
   },
@@ -3131,7 +3131,7 @@
     "name": "Virginia Wesleyan University",
     "state": "Virginia",
     "association": "NCAA DIII",
-    "conference": "Old Dominion Athletic Conference",
+    "conference": "Old Dominion Athletic Conf.",
     "url": "https://vwuathletics.com/",
     "city": "Virginia Beach"
   },
@@ -3147,7 +3147,7 @@
     "name": "Wartburg College",
     "state": "Iowa",
     "association": "NCAA DIII",
-    "conference": "Iowa Intercollegiate Athletic Conference",
+    "conference": "American Rivers Conference",
     "url": "https://go-knights.net/",
     "city": "Waverly"
   },
@@ -3163,7 +3163,7 @@
     "name": "Washington and Lee University",
     "state": "Virginia",
     "association": "NCAA DIII",
-    "conference": "Old Dominion Athletic Conference",
+    "conference": "Old Dominion Athletic Conf.",
     "url": "https://generalssports.com/",
     "city": "Lexington"
   },
@@ -3195,7 +3195,7 @@
     "name": "Webster University",
     "state": "Missouri",
     "association": "NCAA DIII",
-    "conference": "St Louis Intercollegiate Athletic Conference",
+    "conference": "St. Louis Intercollegiate Athletic Conference",
     "url": "https://websterathletics.com/",
     "city": "Saint Louis"
   },
@@ -3219,7 +3219,7 @@
     "name": "Wentworth Institute of Technology",
     "state": "Massachusetts",
     "association": "NCAA DIII",
-    "conference": "Commonwealth Coast Conference",
+    "conference": "Conference of New England",
     "url": "https://wentworthathletics.com/",
     "city": "Boston"
   },
@@ -3251,7 +3251,7 @@
     "name": "Western New England University",
     "state": "Massachusetts",
     "association": "NCAA DIII",
-    "conference": "Commonwealth Coast Conference",
+    "conference": "Conference of New England",
     "url": "https://wnegoldenbears.com/",
     "city": "Springfield"
   },
@@ -3292,7 +3292,7 @@
     "state": "Massachusetts",
     "association": "NCAA DIII",
     "conference": "New England Women's and Men's Athletic Conference",
-    "url": "https://athletics.wheatoncollege.edu/",
+    "url": "https://wheatoncollegelyons.com/",
     "city": "Norton"
   },
   {
@@ -3307,7 +3307,7 @@
     "name": "Whittier College",
     "state": "California",
     "association": "NCAA DIII",
-    "conference": "Southern California Intercollegiate Athletic Conference",
+    "conference": "Southern California Intercollegiate Athletic Conf.",
     "url": "https://wcpoets.com/",
     "city": "Whittier"
   },
@@ -3323,7 +3323,7 @@
     "name": "Widener University",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conference",
+    "conference": "Middle Atlantic Conferences",
     "url": "https://widenerpride.com/",
     "city": "Chester"
   },
@@ -3331,7 +3331,7 @@
     "name": "Wilkes University",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conference",
+    "conference": "Landmark Conference",
     "url": "https://gowilkesu.com/",
     "city": "Wilkes-Barre"
   },
@@ -3355,8 +3355,8 @@
     "name": "William Peace University",
     "state": "North Carolina",
     "association": "NCAA DIII",
-    "conference": "USA South",
-    "url": "https://gopeacepacers.org/",
+    "conference": "USA South Athletic Conference",
+    "url": "https://gopeacepacers.com",
     "city": "Raleigh"
   },
   {
@@ -3379,7 +3379,7 @@
     "name": "Wilson College",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "North Eastern Athletic Conference",
+    "conference": "United East Conference",
     "url": "https://wilsonphoenix.com/",
     "city": "Chambersburg"
   },
@@ -3404,7 +3404,7 @@
     "state": "Massachusetts",
     "association": "NCAA DIII",
     "conference": "New England Women's and Men's Athletic Conference",
-    "url": "https://wpi.prestosports.com/",
+    "url": "https://athletics.wpi.edu",
     "city": "Worcester"
   },
   {
@@ -3444,7 +3444,7 @@
     "city": "Abilene",
     "state": "Texas",
     "association": "NCAA DI",
-    "conference": "Southland Conference",
+    "conference": "Western Athletic Conference",
     "url": "https://acusports.com/"
   },
   {
@@ -3460,7 +3460,7 @@
     "city": "Montgomery",
     "state": "Alabama",
     "association": "NCAA DI",
-    "conference": "Southwestern Athletic Conference",
+    "conference": "Southwestern Athletic Conf.",
     "url": "https://bamastatesports.com/"
   },
   {
@@ -3468,7 +3468,7 @@
     "city": "Lorman",
     "state": "Mississippi",
     "association": "NCAA DI",
-    "conference": "Southwestern Athletic Conference",
+    "conference": "Southwestern Athletic Conf.",
     "url": "https://alcornsports.com/"
   },
   {
@@ -3492,7 +3492,7 @@
     "city": "Tempe",
     "state": "Arizona",
     "association": "NCAA DI",
-    "conference": "PAC-12 Conference",
+    "conference": "Big 12 Conference",
     "url": "https://thesundevils.com/"
   },
   {
@@ -3516,7 +3516,7 @@
     "city": "Clarksville",
     "state": "Tennessee",
     "association": "NCAA DI",
-    "conference": "Ohio Valley Conference",
+    "conference": "Atlantic Sun Conference",
     "url": "https://letsgopeay.com/"
   },
   {
@@ -3540,7 +3540,7 @@
     "city": "Nashville",
     "state": "Tennessee",
     "association": "NCAA DI",
-    "conference": "Ohio Valley Conference",
+    "conference": "Missouri Valley Conference",
     "url": "https://belmontbruins.com/"
   },
   {
@@ -3548,7 +3548,7 @@
     "city": "Daytona Beach",
     "state": "Florida",
     "association": "NCAA DI",
-    "conference": "Mid-Eastern Athletic Conference",
+    "conference": "Southwestern Athletic Conf.",
     "url": "https://bcuathletics.com/"
   },
   {
@@ -3604,7 +3604,7 @@
     "city": "Provo",
     "state": "Utah",
     "association": "NCAA DI",
-    "conference": "West Coast Conference",
+    "conference": "Big 12 Conference",
     "url": "https://byucougars.com/"
   },
   {
@@ -3612,7 +3612,7 @@
     "city": "Providence",
     "state": "Rhode Island",
     "association": "NCAA DI",
-    "conference": "Ivy League",
+    "conference": "The Ivy League",
     "url": "https://brownbears.com/"
   },
   {
@@ -3620,7 +3620,7 @@
     "city": "Smithfield",
     "state": "Rhode Island",
     "association": "NCAA DI",
-    "conference": "Northeast Conference",
+    "conference": "America East Conference",
     "url": "https://bryantbulldogs.com/"
   },
   {
@@ -3652,7 +3652,7 @@
     "city": "Bakersfield",
     "state": "California",
     "association": "NCAA DI",
-    "conference": "Western Athletic Conference",
+    "conference": "Big West Conference",
     "url": "https://gorunners.com/"
   },
   {
@@ -3700,7 +3700,7 @@
     "city": "Buies Creek",
     "state": "North Carolina",
     "association": "NCAA DI",
-    "conference": "Big South Conference",
+    "conference": "Coastal Athletic Association",
     "url": "https://gocamels.com/"
   },
   {
@@ -3740,7 +3740,7 @@
     "city": "Chicago",
     "state": "Illinois",
     "association": "NCAA DI",
-    "conference": "Western Athletic Conference",
+    "conference": "Northeast Conference",
     "url": "https://gocsucougars.com/"
   },
   {
@@ -3820,7 +3820,7 @@
     "city": "Baltimore",
     "state": "Maryland",
     "association": "NCAA DI",
-    "conference": "Mid-Eastern Athletic Conference",
+    "conference": "Mid-Eastern Athletic Conf.",
     "url": "https://coppinstatesports.com/"
   },
   {
@@ -3828,7 +3828,7 @@
     "city": "Ithaca",
     "state": "New York",
     "association": "NCAA DI",
-    "conference": "Ivy League",
+    "conference": "The Ivy League",
     "url": "https://cornellbigred.com/"
   },
   {
@@ -3844,7 +3844,7 @@
     "city": "Hanover",
     "state": "New Hampshire",
     "association": "NCAA DI",
-    "conference": "Ivy League",
+    "conference": "The Ivy League",
     "url": "https://dartmouthsports.com/"
   },
   {
@@ -3860,7 +3860,7 @@
     "city": "Dover",
     "state": "Delaware",
     "association": "NCAA DI",
-    "conference": "Mid-Eastern Athletic Conference",
+    "conference": "Mid-Eastern Athletic Conf.",
     "url": "https://dsuhornets.com/"
   },
   {
@@ -3884,7 +3884,7 @@
     "city": "Philadelphia",
     "state": "Pennsylvania",
     "association": "NCAA DI",
-    "conference": "Colonial Athletic Association",
+    "conference": "Coastal Athletic Association",
     "url": "https://drexeldragons.com/"
   },
   {
@@ -3908,7 +3908,7 @@
     "city": "Greenville",
     "state": "North Carolina",
     "association": "NCAA DI",
-    "conference": "American Athletic Conference",
+    "conference": "American Conference",
     "url": "https://ecupirates.com/"
   },
   {
@@ -3932,7 +3932,7 @@
     "city": "Richmond",
     "state": "Kentucky",
     "association": "NCAA DI",
-    "conference": "Ohio Valley Conference",
+    "conference": "Atlantic Sun Conference",
     "url": "https://ekusports.com/"
   },
   {
@@ -3956,7 +3956,7 @@
     "city": "Elon",
     "state": "North Carolina",
     "association": "NCAA DI",
-    "conference": "Colonial Athletic Association",
+    "conference": "Coastal Athletic Association",
     "url": "https://elonphoenix.com/"
   },
   {
@@ -3980,7 +3980,7 @@
     "city": "Tallahassee",
     "state": "Florida",
     "association": "NCAA DI",
-    "conference": "Mid-Eastern Athletic Conference",
+    "conference": "Southwestern Athletic Conf.",
     "url": "https://famuathletics.com/"
   },
   {
@@ -3988,7 +3988,7 @@
     "city": "Boca Raton",
     "state": "Florida",
     "association": "NCAA DI",
-    "conference": "Conference USA",
+    "conference": "American Conference",
     "url": "https://fausports.com/"
   },
   {
@@ -4100,7 +4100,7 @@
     "city": "Grambling",
     "state": "Louisiana",
     "association": "NCAA DI",
-    "conference": "Southwestern Athletic Conference",
+    "conference": "Southwestern Athletic Conf.",
     "url": "https://gsutigers.com/"
   },
   {
@@ -4108,7 +4108,7 @@
     "city": "Phoenix",
     "state": "Arizona",
     "association": "NCAA DI",
-    "conference": "Western Athletic Conference",
+    "conference": "Mountain West Conference",
     "url": "https://gculopes.com/"
   },
   {
@@ -4124,7 +4124,7 @@
     "city": "Cambridge",
     "state": "Massachusetts",
     "association": "NCAA DI",
-    "conference": "Ivy League",
+    "conference": "The Ivy League",
     "url": "https://gocrimson.com/"
   },
   {
@@ -4140,7 +4140,7 @@
     "city": "Hempstead",
     "state": "New York",
     "association": "NCAA DI",
-    "conference": "Colonial Athletic Association",
+    "conference": "Coastal Athletic Association",
     "url": "https://gohofstra.com/"
   },
   {
@@ -4156,7 +4156,7 @@
     "city": "Washington",
     "state": "District of Columbia",
     "association": "NCAA DI",
-    "conference": "Mid-Eastern Athletic Conference",
+    "conference": "Mid-Eastern Athletic Conf.",
     "url": "https://hubison.com/"
   },
   {
@@ -4228,7 +4228,7 @@
     "city": "Jackson",
     "state": "Mississippi",
     "association": "NCAA DI",
-    "conference": "Southwestern Athletic Conference",
+    "conference": "Southwestern Athletic Conf.",
     "url": "https://gojsutigers.com/"
   },
   {
@@ -4236,7 +4236,7 @@
     "city": "Jacksonville",
     "state": "Alabama",
     "association": "NCAA DI",
-    "conference": "Ohio Valley Conference",
+    "conference": "Conference USA",
     "url": "https://jsugamecocksports.com/"
   },
   {
@@ -4268,7 +4268,7 @@
     "city": "Kennesaw",
     "state": "Georgia",
     "association": "NCAA DI",
-    "conference": "Atlantic Sun Conference",
+    "conference": "Conference USA",
     "url": "https://ksuowls.com/"
   },
   {
@@ -4316,7 +4316,7 @@
     "city": "Lynchburg",
     "state": "Virginia",
     "association": "NCAA DI",
-    "conference": "Big South Conference",
+    "conference": "Conference USA",
     "url": "https://liberty.edu/flames"
   },
   {
@@ -4372,7 +4372,7 @@
     "city": "Chicago",
     "state": "Illinois",
     "association": "NCAA DI",
-    "conference": "Missouri Valley Conference",
+    "conference": "Atlantic 10 Conference",
     "url": "https://loyolaramblers.com/"
   },
   {
@@ -4412,7 +4412,7 @@
     "city": "Huntington",
     "state": "West Virginia",
     "association": "NCAA DI",
-    "conference": "Conference USA",
+    "conference": "Sun Belt Conference",
     "url": "https://herdzone.com/"
   },
   {
@@ -4468,7 +4468,7 @@
     "city": "Itta Bena",
     "state": "Mississippi",
     "association": "NCAA DI",
-    "conference": "Southwestern Athletic Conference",
+    "conference": "Southwestern Athletic Conf.",
     "url": "https://mvsusports.com/"
   },
   {
@@ -4476,7 +4476,7 @@
     "city": "Springfield",
     "state": "Missouri",
     "association": "NCAA DI",
-    "conference": "Missouri Valley Conference",
+    "conference": "Conference USA",
     "url": "https://missouristatebears.com/"
   },
   {
@@ -4484,7 +4484,7 @@
     "city": "West Long Branch",
     "state": "New Jersey",
     "association": "NCAA DI",
-    "conference": "Metro Atlantic Athletic Conference",
+    "conference": "Coastal Athletic Association",
     "url": "https://monmouthhawks.com/"
   },
   {
@@ -4508,7 +4508,7 @@
     "city": "Baltimore",
     "state": "Maryland",
     "association": "NCAA DI",
-    "conference": "Mid-Eastern Athletic Conference",
+    "conference": "Mid-Eastern Athletic Conf.",
     "url": "https://morganstatebears.com/"
   },
   {
@@ -4516,7 +4516,7 @@
     "city": "Emmitsburg",
     "state": "Maryland",
     "association": "NCAA DI",
-    "conference": "Northeast Conference",
+    "conference": "Metro Atlantic Athletic Conference",
     "url": "https://mountathletics.com/"
   },
   {
@@ -4524,7 +4524,7 @@
     "city": "Murray",
     "state": "Kentucky",
     "association": "NCAA DI",
-    "conference": "Ohio Valley Conference",
+    "conference": "Missouri Valley Conference",
     "url": "https://goracers.com/"
   },
   {
@@ -4532,7 +4532,7 @@
     "city": "Newark",
     "state": "New Jersey",
     "association": "NCAA DI",
-    "conference": "Atlantic Sun Conference",
+    "conference": "America East Conference",
     "url": "https://njithighlanders.com/"
   },
   {
@@ -4540,7 +4540,7 @@
     "city": "Las Cruces",
     "state": "New Mexico",
     "association": "NCAA DI",
-    "conference": "Western Athletic Conference",
+    "conference": "Conference USA",
     "url": "https://nmstatesports.com/"
   },
   {
@@ -4564,7 +4564,7 @@
     "city": "Norfolk",
     "state": "Virginia",
     "association": "NCAA DI",
-    "conference": "Mid-Eastern Athletic Conference",
+    "conference": "Mid-Eastern Athletic Conf.",
     "url": "https://nsuspartans.com/"
   },
   {
@@ -4580,7 +4580,7 @@
     "city": "Durham",
     "state": "North Carolina",
     "association": "NCAA DI",
-    "conference": "Mid-Eastern Athletic Conference",
+    "conference": "Mid-Eastern Athletic Conf.",
     "url": "https://nccueaglepride.com/"
   },
   {
@@ -4596,7 +4596,7 @@
     "city": "Fargo",
     "state": "North Dakota",
     "association": "NCAA DI",
-    "conference": "Summit League",
+    "conference": "The Summit League",
     "url": "https://gobison.com/"
   },
   {
@@ -4604,7 +4604,7 @@
     "city": "Boston",
     "state": "Massachusetts",
     "association": "NCAA DI",
-    "conference": "Colonial Athletic Association",
+    "conference": "Coastal Athletic Association",
     "url": "https://gonu.com/"
   },
   {
@@ -4692,7 +4692,7 @@
     "city": "Tulsa",
     "state": "Oklahoma",
     "association": "NCAA DI",
-    "conference": "Summit League",
+    "conference": "The Summit League",
     "url": "https://oruathletics.com/"
   },
   {
@@ -4732,7 +4732,7 @@
     "city": "Prairie View",
     "state": "Texas",
     "association": "NCAA DI",
-    "conference": "Southwestern Athletic Conference",
+    "conference": "Southwestern Athletic Conf.",
     "url": "https://pvpanthers.com/"
   },
   {
@@ -4748,7 +4748,7 @@
     "city": "Princeton",
     "state": "New Jersey",
     "association": "NCAA DI",
-    "conference": "Ivy League",
+    "conference": "The Ivy League",
     "url": "https://goprincetontigers.com/"
   },
   {
@@ -4773,7 +4773,7 @@
     "state": "Connecticut",
     "association": "NCAA DI",
     "conference": "Metro Atlantic Athletic Conference",
-    "url": "https://quinnipiacbobcats.com/"
+    "url": "https://gobobcats.com"
   },
   {
     "name": "Radford University",
@@ -4788,7 +4788,7 @@
     "city": "Houston",
     "state": "Texas",
     "association": "NCAA DI",
-    "conference": "Conference USA",
+    "conference": "American Conference",
     "url": "https://riceowls.com/"
   },
   {
@@ -4804,7 +4804,7 @@
     "city": "Moon Township",
     "state": "Pennsylvania",
     "association": "NCAA DI",
-    "conference": "Northeast Conference",
+    "conference": "Horizon League",
     "url": "https://rmucolonials.com/"
   },
   {
@@ -4820,7 +4820,7 @@
     "city": "Fairfield",
     "state": "Connecticut",
     "association": "NCAA DI",
-    "conference": "Northeast Conference",
+    "conference": "Metro Atlantic Athletic Conference",
     "url": "https://sacredheartpioneers.com/"
   },
   {
@@ -4868,7 +4868,7 @@
     "city": "Huntsville",
     "state": "Texas",
     "association": "NCAA DI",
-    "conference": "Southland Conference",
+    "conference": "Conference USA",
     "url": "https://gobearkats.com/"
   },
   {
@@ -4908,7 +4908,7 @@
     "city": "Savannah",
     "state": "Georgia",
     "association": "NCAA DI",
-    "conference": "Mid-Eastern Athletic Conference",
+    "conference": "Southern Intercol. Ath. Conf.",
     "url": "https://ssuathletics.com/"
   },
   {
@@ -4916,7 +4916,7 @@
     "city": "Seattle",
     "state": "Washington",
     "association": "NCAA DI",
-    "conference": "Western Athletic Conference",
+    "conference": "West Coast Conference",
     "url": "https://goseattleu.com/"
   },
   {
@@ -4940,7 +4940,7 @@
     "city": "Orangeburg",
     "state": "South Carolina",
     "association": "NCAA DI",
-    "conference": "Mid-Eastern Athletic Conference",
+    "conference": "Mid-Eastern Athletic Conf.",
     "url": "https://scsuathletics.com/"
   },
   {
@@ -4948,7 +4948,7 @@
     "city": "Brookings",
     "state": "South Dakota",
     "association": "NCAA DI",
-    "conference": "Summit League",
+    "conference": "The Summit League",
     "url": "https://gojacks.com/"
   },
   {
@@ -4988,7 +4988,7 @@
     "city": "Dallas",
     "state": "Texas",
     "association": "NCAA DI",
-    "conference": "American Athletic Conference",
+    "conference": "Atlantic Coast Conference",
     "url": "https://smumustangs.com/"
   },
   {
@@ -5004,7 +5004,7 @@
     "city": "Cedar City",
     "state": "Utah",
     "association": "NCAA DI",
-    "conference": "Big Sky Conference",
+    "conference": "Western Athletic Conference",
     "url": "https://suutbirds.com/"
   },
   {
@@ -5013,7 +5013,7 @@
     "state": "New York",
     "association": "NCAA DI",
     "conference": "Atlantic 10 Conference",
-    "url": "https://gobonnies.sbu.edu/"
+    "url": "https://gobonnies.com"
   },
   {
     "name": "St. Francis College",
@@ -5036,7 +5036,7 @@
     "city": "Stanford",
     "state": "California",
     "association": "NCAA DI",
-    "conference": "PAC-12 Conference",
+    "conference": "Atlantic Coast Conference",
     "url": "https://gostanford.com/"
   },
   {
@@ -5068,7 +5068,7 @@
     "city": "Stony Brook",
     "state": "New York",
     "association": "NCAA DI",
-    "conference": "America East Conference",
+    "conference": "Coastal Athletic Association",
     "url": "https://stonybrookathletics.com/"
   },
   {
@@ -5084,7 +5084,7 @@
     "city": "Philadelphia",
     "state": "Pennsylvania",
     "association": "NCAA DI",
-    "conference": "American Athletic Conference",
+    "conference": "American Conference",
     "url": "https://owlsports.com/"
   },
   {
@@ -5132,7 +5132,7 @@
     "city": "Houston",
     "state": "Texas",
     "association": "NCAA DI",
-    "conference": "Southwestern Athletic Conference",
+    "conference": "Southwestern Athletic Conf.",
     "url": "https://tsusports.com/"
   },
   {
@@ -5164,7 +5164,7 @@
     "city": "Towson",
     "state": "Maryland",
     "association": "NCAA DI",
-    "conference": "Colonial Athletic Association",
+    "conference": "Coastal Athletic Association",
     "url": "https://towsontigers.com/"
   },
   {
@@ -5180,7 +5180,7 @@
     "city": "New Orleans",
     "state": "Louisiana",
     "association": "NCAA DI",
-    "conference": "American Athletic Conference",
+    "conference": "American Conference",
     "url": "https://tulanegreenwave.com/"
   },
   {
@@ -5244,7 +5244,7 @@
     "city": "Birmingham",
     "state": "Alabama",
     "association": "NCAA DI",
-    "conference": "Conference USA",
+    "conference": "American Conference",
     "url": "https://uabsports.com/"
   },
   {
@@ -5252,7 +5252,7 @@
     "city": "Tucson",
     "state": "Arizona",
     "association": "NCAA DI",
-    "conference": "PAC-12 Conference",
+    "conference": "Big 12 Conference",
     "url": "https://arizonawildcats.com/"
   },
   {
@@ -5268,7 +5268,7 @@
     "city": "Little Rock",
     "state": "Arkansas",
     "association": "NCAA DI",
-    "conference": "Sun Belt Conference",
+    "conference": "Ohio Valley Conference",
     "url": "https://lrtrojans.com/"
   },
   {
@@ -5284,7 +5284,7 @@
     "city": "Berkeley",
     "state": "California",
     "association": "NCAA DI",
-    "conference": "PAC-12 Conference",
+    "conference": "Atlantic Coast Conference",
     "url": "https://calbears.com/"
   },
   {
@@ -5308,7 +5308,7 @@
     "city": "Los Angeles",
     "state": "California",
     "association": "NCAA DI",
-    "conference": "PAC-12 Conference",
+    "conference": "Big Ten Conference",
     "url": "https://uclabruins.com/"
   },
   {
@@ -5332,7 +5332,7 @@
     "city": "Conway",
     "state": "Arkansas",
     "association": "NCAA DI",
-    "conference": "Southland Conference",
+    "conference": "Atlantic Sun Conference",
     "url": "https://ucasports.com/"
   },
   {
@@ -5340,7 +5340,7 @@
     "city": "Orlando",
     "state": "Florida",
     "association": "NCAA DI",
-    "conference": "American Athletic Conference",
+    "conference": "Big 12 Conference",
     "url": "https://ucfknights.com/"
   },
   {
@@ -5348,7 +5348,7 @@
     "city": "Cincinnati",
     "state": "Ohio",
     "association": "NCAA DI",
-    "conference": "American Athletic Conference",
+    "conference": "Big 12 Conference",
     "url": "https://gobearcats.com/"
   },
   {
@@ -5356,7 +5356,7 @@
     "city": "Boulder",
     "state": "Colorado",
     "association": "NCAA DI",
-    "conference": "PAC-12 Conference",
+    "conference": "Big 12 Conference",
     "url": "https://cubuffs.com/"
   },
   {
@@ -5364,7 +5364,7 @@
     "city": "Storrs",
     "state": "Connecticut",
     "association": "NCAA DI",
-    "conference": "American Athletic Conference",
+    "conference": "BIG EAST Conference",
     "url": "https://uconnhuskies.com/"
   },
   {
@@ -5380,7 +5380,7 @@
     "city": "Newark",
     "state": "Delaware",
     "association": "NCAA DI",
-    "conference": "Colonial Athletic Association",
+    "conference": "Conference USA",
     "url": "https://bluehens.com/"
   },
   {
@@ -5388,7 +5388,7 @@
     "city": "Denver",
     "state": "Colorado",
     "association": "NCAA DI",
-    "conference": "Summit League",
+    "conference": "The Summit League",
     "url": "https://denverpioneers.com/"
   },
   {
@@ -5428,7 +5428,7 @@
     "city": "West Hartford",
     "state": "Connecticut",
     "association": "NCAA DI",
-    "conference": "America East Conference",
+    "conference": "Conference of New England",
     "url": "https://hartfordhawks.com/"
   },
   {
@@ -5444,7 +5444,7 @@
     "city": "Houston",
     "state": "Texas",
     "association": "NCAA DI",
-    "conference": "American Athletic Conference",
+    "conference": "Big 12 Conference",
     "url": "https://uhcougars.com/"
   },
   {
@@ -5540,7 +5540,7 @@
     "city": "Princess Anne",
     "state": "Maryland",
     "association": "NCAA DI",
-    "conference": "Mid-Eastern Athletic Conference",
+    "conference": "Mid-Eastern Athletic Conf.",
     "url": "https://easternshorehawks.com/"
   },
   {
@@ -5572,7 +5572,7 @@
     "city": "Memphis",
     "state": "Tennessee",
     "association": "NCAA DI",
-    "conference": "American Athletic Conference",
+    "conference": "American Conference",
     "url": "https://gotigersgo.com/"
   },
   {
@@ -5620,8 +5620,8 @@
     "city": "Kansas City",
     "state": "Missouri",
     "association": "NCAA DI",
-    "conference": "Western Athletic Conference",
-    "url": "https://umkckangaroos.com/"
+    "conference": "The Summit League",
+    "url": "https://kcroos.com"
   },
   {
     "name": "University of Montana",
@@ -5708,7 +5708,7 @@
     "city": "Charlotte",
     "state": "North Carolina",
     "association": "NCAA DI",
-    "conference": "Conference USA",
+    "conference": "American Conference",
     "url": "https://charlotte49ers.com/"
   },
   {
@@ -5724,8 +5724,8 @@
     "city": "Grand Forks",
     "state": "North Dakota",
     "association": "NCAA DI",
-    "conference": "Big Sky Conference",
-    "url": "https://undsports.com/"
+    "conference": "The Summit League",
+    "url": "https://fightinghawks.com"
   },
   {
     "name": "University of North Florida",
@@ -5740,7 +5740,7 @@
     "city": "Denton",
     "state": "Texas",
     "association": "NCAA DI",
-    "conference": "Conference USA",
+    "conference": "American Conference",
     "url": "https://meangreensports.com/"
   },
   {
@@ -5772,7 +5772,7 @@
     "city": "Norman",
     "state": "Oklahoma",
     "association": "NCAA DI",
-    "conference": "Big 12 Conference",
+    "conference": "Southeastern Conference",
     "url": "https://soonersports.com/"
   },
   {
@@ -5780,7 +5780,7 @@
     "city": "Eugene",
     "state": "Oregon",
     "association": "NCAA DI",
-    "conference": "PAC-12 Conference",
+    "conference": "Big Ten Conference",
     "url": "https://goducks.com/"
   },
   {
@@ -5788,7 +5788,7 @@
     "city": "Philadelphia",
     "state": "Pennsylvania",
     "association": "NCAA DI",
-    "conference": "Ivy League",
+    "conference": "The Ivy League",
     "url": "https://pennathletics.com/"
   },
   {
@@ -5860,7 +5860,7 @@
     "city": "Spartanburg",
     "state": "South Carolina",
     "association": "NCAA DI",
-    "conference": "Atlantic Sun Conference",
+    "conference": "Big South Conference",
     "url": "https://upstatespartans.com/"
   },
   {
@@ -5868,7 +5868,7 @@
     "city": "Vermillion",
     "state": "South Dakota",
     "association": "NCAA DI",
-    "conference": "Summit League",
+    "conference": "The Summit League",
     "url": "https://goyotes.com/"
   },
   {
@@ -5876,7 +5876,7 @@
     "city": "Tampa",
     "state": "Florida",
     "association": "NCAA DI",
-    "conference": "American Athletic Conference",
+    "conference": "American Conference",
     "url": "https://gousfbulls.com/"
   },
   {
@@ -5884,7 +5884,7 @@
     "city": "Los Angeles",
     "state": "California",
     "association": "NCAA DI",
-    "conference": "PAC-12 Conference",
+    "conference": "Big Ten Conference",
     "url": "https://usctrojans.com/"
   },
   {
@@ -5892,7 +5892,7 @@
     "city": "Hattiesburg",
     "state": "Mississippi",
     "association": "NCAA DI",
-    "conference": "Conference USA",
+    "conference": "Sun Belt Conference",
     "url": "https://southernmiss.com/"
   },
   {
@@ -5924,7 +5924,7 @@
     "city": "Arlington",
     "state": "Texas",
     "association": "NCAA DI",
-    "conference": "Sun Belt Conference",
+    "conference": "Western Athletic Conference",
     "url": "https://utamavs.com/"
   },
   {
@@ -5932,7 +5932,7 @@
     "city": "Austin",
     "state": "Texas",
     "association": "NCAA DI",
-    "conference": "Big 12 Conference",
+    "conference": "Southeastern Conference",
     "url": "https://texassports.com/"
   },
   {
@@ -5948,7 +5948,7 @@
     "city": "San Antonio",
     "state": "Texas",
     "association": "NCAA DI",
-    "conference": "Conference USA",
+    "conference": "American Conference",
     "url": "https://goutsa.com/"
   },
   {
@@ -5956,7 +5956,7 @@
     "city": "Edinburg",
     "state": "Texas",
     "association": "NCAA DI",
-    "conference": "Western Athletic Conference",
+    "conference": "Southland Conference",
     "url": "https://goutrgv.com/"
   },
   {
@@ -5988,7 +5988,7 @@
     "city": "Tulsa",
     "state": "Oklahoma",
     "association": "NCAA DI",
-    "conference": "American Athletic Conference",
+    "conference": "American Conference",
     "url": "https://tulsahurricane.com/"
   },
   {
@@ -5996,7 +5996,7 @@
     "city": "Salt Lake City",
     "state": "Utah",
     "association": "NCAA DI",
-    "conference": "PAC-12 Conference",
+    "conference": "Big 12 Conference",
     "url": "https://utahutes.com/"
   },
   {
@@ -6020,7 +6020,7 @@
     "city": "Seattle",
     "state": "Washington",
     "association": "NCAA DI",
-    "conference": "PAC-12 Conference",
+    "conference": "Big Ten Conference",
     "url": "https://gohuskies.com/"
   },
   {
@@ -6133,7 +6133,7 @@
     "state": "North Carolina",
     "association": "NCAA DI",
     "conference": "Atlantic Coast Conference",
-    "url": "https://wakeforestsports.com/"
+    "url": "https://godeacs.com"
   },
   {
     "name": "Washington State University",
@@ -6172,7 +6172,7 @@
     "city": "Macomb",
     "state": "Illinois",
     "association": "NCAA DI",
-    "conference": "Summit League",
+    "conference": "Ohio Valley Conference",
     "url": "https://goleathernecks.com/"
   },
   {
@@ -6196,7 +6196,7 @@
     "city": "Wichita",
     "state": "Kansas",
     "association": "NCAA DI",
-    "conference": "American Athletic Conference",
+    "conference": "American Conference",
     "url": "https://goshockers.com/"
   },
   {
@@ -6236,7 +6236,7 @@
     "city": "New Haven",
     "state": "Connecticut",
     "association": "NCAA DI",
-    "conference": "Ivy League",
+    "conference": "The Ivy League",
     "url": "https://yalebulldogs.com/"
   },
   {
@@ -6268,7 +6268,7 @@
     "city": "Garden City",
     "state": "New York",
     "association": "NCAA DII",
-    "conference": "Northeast-10 Conference",
+    "conference": "Northeast 10 Conference",
     "url": "https://aupanthers.com/"
   },
   {
@@ -6284,7 +6284,7 @@
     "city": "Springfield",
     "state": "Massachusetts",
     "association": "NCAA DII",
-    "conference": "Northeast-10 Conference",
+    "conference": "Northeast 10 Conference",
     "url": "https://aicyellowjackets.com/"
   },
   {
@@ -6316,7 +6316,7 @@
     "city": "Ashland",
     "state": "Ohio",
     "association": "NCAA DII",
-    "conference": "Great Lakes Intercollegiate Athletic Conference",
+    "conference": "Great Midwest Athletic Conference",
     "url": "https://goashlandeagles.com/"
   },
   {
@@ -6324,7 +6324,7 @@
     "city": "Worcester",
     "state": "Massachusetts",
     "association": "NCAA DII",
-    "conference": "Northeast-10 Conference",
+    "conference": "Northeast 10 Conference",
     "url": "https://assumptiongreyhounds.com/"
   },
   {
@@ -6341,7 +6341,7 @@
     "state": "Georgia",
     "association": "NCAA DII",
     "conference": "Peach Belt Conference",
-    "url": "https://jaguarsroar.com/"
+    "url": "https://augustajags.com"
   },
   {
     "name": "Augustana University",
@@ -6380,7 +6380,7 @@
     "city": "Louisville",
     "state": "Kentucky",
     "association": "NCAA DII",
-    "conference": "Great Lakes Valley Conference",
+    "conference": "Atlantic Sun Conference",
     "url": "https://athletics.bellarmine.edu/"
   },
   {
@@ -6404,7 +6404,7 @@
     "city": "Columbia",
     "state": "South Carolina",
     "association": "NCAA DII",
-    "conference": "Southern Intercollegiate Athletics Conference",
+    "conference": "Southern Intercol. Ath. Conf.",
     "url": "https://benedicttigers.com/"
   },
   {
@@ -6412,7 +6412,7 @@
     "city": "Waltham",
     "state": "Massachusetts",
     "association": "NCAA DII",
-    "conference": "Northeast-10 Conference",
+    "conference": "Northeast 10 Conference",
     "url": "https://bentleyfalcons.com/"
   },
   {
@@ -6452,7 +6452,7 @@
     "city": "Brevard",
     "state": "North Carolina",
     "association": "NCAA DII",
-    "conference": "South Atlantic Conference",
+    "conference": "USA South Athletic Conference",
     "url": "https://bctornados.com/"
   },
   {
@@ -6476,7 +6476,7 @@
     "city": "Riverside",
     "state": "California",
     "association": "NCAA DII",
-    "conference": "Pacific West Conference",
+    "conference": "Western Athletic Conference",
     "url": "https://cbulancers.com/"
   },
   {
@@ -6588,7 +6588,7 @@
     "city": "Wilberforce",
     "state": "Ohio",
     "association": "NCAA DII",
-    "conference": "Southern Intercollegiate Athletics Conference",
+    "conference": "Southern Intercol. Ath. Conf.",
     "url": "https://wilberforcebulldogs.com/"
   },
   {
@@ -6652,7 +6652,7 @@
     "city": "Orangeburg",
     "state": "South Carolina",
     "association": "NCAA DII",
-    "conference": "Southern Intercollegiate Athletics Conference",
+    "conference": "Central Intercollegiate Athletic Association",
     "url": "https://athletics.claflin.edu/"
   },
   {
@@ -6668,7 +6668,7 @@
     "city": "Atlanta",
     "state": "Georgia",
     "association": "NCAA DII",
-    "conference": "Southern Intercollegiate Athletics Conference",
+    "conference": "Southern Intercol. Ath. Conf.",
     "url": "https://clarkatlantasports.com/"
   },
   {
@@ -6780,7 +6780,7 @@
     "city": "Dallas",
     "state": "Texas",
     "association": "NCAA DII",
-    "conference": "Heartland Conference",
+    "conference": "Lone Star Conference",
     "url": "https://dbupatriots.com/"
   },
   {
@@ -6804,7 +6804,7 @@
     "city": "St. George",
     "state": "Utah",
     "association": "NCAA DII",
-    "conference": "Pacific West Conference",
+    "conference": "Western Athletic Conference",
     "url": "https://utahtechtrailblazers.com/"
   },
   {
@@ -6988,7 +6988,7 @@
     "city": "Fort Valley",
     "state": "Georgia",
     "association": "NCAA DII",
-    "conference": "Southern Intercollegiate Athletics Conference",
+    "conference": "Southern Intercol. Ath. Conf.",
     "url": "https://fvsusports.com/"
   },
   {
@@ -6996,7 +6996,7 @@
     "city": "Florence",
     "state": "South Carolina",
     "association": "NCAA DII",
-    "conference": "Peach Belt Conference",
+    "conference": "Conference Carolinas",
     "url": "https://www.fmupatriots.com/"
   },
   {
@@ -7004,7 +7004,7 @@
     "city": "Rindge",
     "state": "New Hampshire",
     "association": "NCAA DII",
-    "conference": "Northeast-10 Conference",
+    "conference": "Northeast 10 Conference",
     "url": "https://fpuravens.com/"
   },
   {
@@ -7100,7 +7100,7 @@
     "city": "Hillsdale",
     "state": "Michigan",
     "association": "NCAA DII",
-    "conference": "Great Lakes Intercollegiate Athletic Conference",
+    "conference": "Great Midwest Athletic Conference",
     "url": "https://hillsdalechargers.com/"
   },
   {
@@ -7148,7 +7148,7 @@
     "city": "Frankfort",
     "state": "Kentucky",
     "association": "NCAA DII",
-    "conference": "Southern Intercollegiate Athletics Conference",
+    "conference": "Southern Intercol. Ath. Conf.",
     "url": "https://ksuthorobreds.com/"
   },
   {
@@ -7180,7 +7180,7 @@
     "city": "Painesville",
     "state": "Ohio",
     "association": "NCAA DII",
-    "conference": "Great Lakes Intercollegiate Athletic Conference",
+    "conference": "Great Midwest Athletic Conference",
     "url": "https://lakeeriestorm.com/"
   },
   {
@@ -7204,7 +7204,7 @@
     "city": "Jackson",
     "state": "Tennessee",
     "association": "NCAA DII",
-    "conference": "Southern Intercollegiate Athletics Conference",
+    "conference": "Southern Intercol. Ath. Conf.",
     "url": "https://golcdragons.com/"
   },
   {
@@ -7212,7 +7212,7 @@
     "city": "Syracuse",
     "state": "New York",
     "association": "NCAA DII",
-    "conference": "Northeast-10 Conference",
+    "conference": "Northeast Conference",
     "url": "https://lemoynedolphins.com/"
   },
   {
@@ -7236,7 +7236,7 @@
     "city": "Memphis",
     "state": "Tennessee",
     "association": "NCAA DII",
-    "conference": "Southern Intercollegiate Athletics Conference",
+    "conference": "Southern Intercol. Ath. Conf.",
     "url": "https://athletics.loc.edu/"
   },
   {
@@ -7284,7 +7284,7 @@
     "city": "Saint Charles",
     "state": "Missouri",
     "association": "NCAA DII",
-    "conference": "Mid-America Intercollegiate Athletics Association",
+    "conference": "Ohio Valley Conference",
     "url": "https://www.lindenwoodlions.com/"
   },
   {
@@ -7316,7 +7316,7 @@
     "city": "Lubbock",
     "state": "Texas",
     "association": "NCAA DII",
-    "conference": "Heartland Conference",
+    "conference": "Lone Star Conference",
     "url": "https://lcuchaps.com/"
   },
   {
@@ -7332,7 +7332,7 @@
     "city": "Canton",
     "state": "Ohio",
     "association": "NCAA DII",
-    "conference": "Great Lakes Intercollegiate Athletic Conference",
+    "conference": "Great Midwest Athletic Conference",
     "url": "https://malonepioneers.com/"
   },
   {
@@ -7380,7 +7380,7 @@
     "city": "Erie",
     "state": "Pennsylvania",
     "association": "NCAA DII",
-    "conference": "Pennsylvania State Athletic Conference",
+    "conference": "Northeast Conference",
     "url": "https://www.hurstathletics.com/"
   },
   {
@@ -7388,7 +7388,7 @@
     "city": "North Andover",
     "state": "Massachusetts",
     "association": "NCAA DII",
-    "conference": "Northeast-10 Conference",
+    "conference": "Metro Atlantic Athletic Conference",
     "url": "https://www.merrimackathletics.com/"
   },
   {
@@ -7420,7 +7420,7 @@
     "city": "Fairfield",
     "state": "Alabama",
     "association": "NCAA DII",
-    "conference": "Southern Intercollegiate Athletics Conference",
+    "conference": "Southern Intercol. Ath. Conf.",
     "url": "https://milesgoldenbears.com/"
   },
   {
@@ -7508,7 +7508,7 @@
     "city": "Atlanta",
     "state": "Georgia",
     "association": "NCAA DII",
-    "conference": "Southern Intercollegiate Athletics Conference",
+    "conference": "Southern Intercol. Ath. Conf.",
     "url": "https://athletics.morehouse.edu/"
   },
   {
@@ -7540,7 +7540,7 @@
     "city": "Wichita",
     "state": "Kansas",
     "association": "NCAA DII",
-    "conference": "Heartland Conference",
+    "conference": "Mid-America Intercollegiate Athletics Association",
     "url": "https://newmanjets.com/"
   },
   {
@@ -7549,7 +7549,7 @@
     "state": "South Carolina",
     "association": "NCAA DII",
     "conference": "Conference Carolinas",
-    "url": "https://ngcrusaders.com/"
+    "url": "https://nguathletics.com"
   },
   {
     "name": "Northeastern State University",
@@ -7604,7 +7604,7 @@
     "city": "West Palm Beach",
     "state": "Florida",
     "association": "NCAA DII",
-    "conference": "Great Lakes Intercollegiate Athletic Conference",
+    "conference": "Great Midwest Athletic Conference",
     "url": "https://timberwolves.gonorthwood.com/"
   },
   {
@@ -7636,7 +7636,7 @@
     "city": "Columbus",
     "state": "Ohio",
     "association": "NCAA DII",
-    "conference": "Great Lakes Intercollegiate Athletic Conference",
+    "conference": "Great Midwest Athletic Conference",
     "url": "https://ohiodominicanpanthers.com/"
   },
   {
@@ -7652,7 +7652,7 @@
     "city": "Edmond",
     "state": "Oklahoma",
     "association": "NCAA DII",
-    "conference": "Heartland Conference",
+    "conference": "Lone Star Conference",
     "url": "https://oceagles.com/"
   },
   {
@@ -7676,7 +7676,7 @@
     "city": "Pleasantville",
     "state": "New York",
     "association": "NCAA DII",
-    "conference": "Northeast-10 Conference",
+    "conference": "Northeast 10 Conference",
     "url": "https://paceuathletics.com/"
   },
   {
@@ -7732,7 +7732,7 @@
     "city": "Charlotte",
     "state": "North Carolina",
     "association": "NCAA DII",
-    "conference": "South Atlantic Conference",
+    "conference": "Atlantic Sun Conference",
     "url": "https://www.queensathletics.com/"
   },
   {
@@ -7772,7 +7772,7 @@
     "city": "Claremore",
     "state": "Oklahoma",
     "association": "NCAA DII",
-    "conference": "Heartland Conference",
+    "conference": "Mid-America Intercollegiate Athletics Association",
     "url": "https://rsuhillcats.com/"
   },
   {
@@ -7796,7 +7796,7 @@
     "city": "Manchester",
     "state": "New Hampshire",
     "association": "NCAA DII",
-    "conference": "Northeast-10 Conference",
+    "conference": "Northeast 10 Conference",
     "url": "https://www.saintanselmhawks.com/"
   },
   {
@@ -7884,7 +7884,7 @@
     "city": "Shepherdstown",
     "state": "West Virginia",
     "association": "NCAA DII",
-    "conference": "Mountain East Conference",
+    "conference": "Pennsylvania State Athletic Conference",
     "url": "https://shepherdrams.com/"
   },
   {
@@ -7900,7 +7900,7 @@
     "city": "Rome",
     "state": "Georgia",
     "association": "NCAA DII",
-    "conference": "Gulf South Conference",
+    "conference": "Conference Carolinas",
     "url": "https://goshorterhawks.com/"
   },
   {
@@ -7956,7 +7956,7 @@
     "city": "New Haven",
     "state": "Connecticut",
     "association": "NCAA DII",
-    "conference": "Northeast-10 Conference",
+    "conference": "Northeast 10 Conference",
     "url": "https://www.southernctowls.com/"
   },
   {
@@ -7972,7 +7972,7 @@
     "city": "Manchester",
     "state": "New Hampshire",
     "association": "NCAA DII",
-    "conference": "Northeast-10 Conference",
+    "conference": "Northeast 10 Conference",
     "url": "https://www.snhupenmen.com/"
   },
   {
@@ -7988,7 +7988,7 @@
     "city": "Bolivar",
     "state": "Missouri",
     "association": "NCAA DII",
-    "conference": "Mid-America Intercollegiate Athletics Association",
+    "conference": "Great Lakes Valley Conference",
     "url": "https://www.sbubearcats.com/"
   },
   {
@@ -8012,7 +8012,7 @@
     "city": "Mobile",
     "state": "Alabama",
     "association": "NCAA DII",
-    "conference": "Southern Intercollegiate Athletics Conference",
+    "conference": "Southern Intercol. Ath. Conf.",
     "url": "https://shcbadgers.com/"
   },
   {
@@ -8052,7 +8052,7 @@
     "city": "Easton",
     "state": "Massachusetts",
     "association": "NCAA DII",
-    "conference": "Northeast-10 Conference",
+    "conference": "Northeast Conference",
     "url": "https://www.stonehillskyhawks.com/"
   },
   {
@@ -8060,7 +8060,7 @@
     "city": "Stephenville",
     "state": "Texas",
     "association": "NCAA DII",
-    "conference": "Lone Star Conference",
+    "conference": "Western Athletic Conference",
     "url": "https://tarletonsports.com/"
   },
   {
@@ -8076,7 +8076,7 @@
     "city": "Laredo",
     "state": "Texas",
     "association": "NCAA DII",
-    "conference": "Heartland Conference",
+    "conference": "Lone Star Conference",
     "url": "https://godustdevils.com/"
   },
   {
@@ -8100,7 +8100,7 @@
     "city": "Wise",
     "state": "Virginia",
     "association": "NCAA DII",
-    "conference": "Mountain East Conference",
+    "conference": "South Atlantic Conference",
     "url": "https://www.uvawisecavs.com/"
   },
   {
@@ -8116,7 +8116,7 @@
     "city": "Tiffin",
     "state": "Ohio",
     "association": "NCAA DII",
-    "conference": "Great Lakes Intercollegiate Athletic Conference",
+    "conference": "Great Midwest Athletic Conference",
     "url": "https://gotiffindragons.com/"
   },
   {
@@ -8124,7 +8124,7 @@
     "city": "Nashville",
     "state": "Tennessee",
     "association": "NCAA DII",
-    "conference": "Great Midwest Athletic Conference",
+    "conference": "Gulf South Conference",
     "url": "https://tnutrojans.com/"
   },
   {
@@ -8148,7 +8148,7 @@
     "city": "Tuskegee",
     "state": "Alabama",
     "association": "NCAA DII",
-    "conference": "Southern Intercollegiate Athletics Conference",
+    "conference": "Southern Intercol. Ath. Conf.",
     "url": "https://goldentigersports.com/"
   },
   {
@@ -8196,7 +8196,7 @@
     "city": "Fort Smith",
     "state": "Arkansas",
     "association": "NCAA DII",
-    "conference": "Heartland Conference",
+    "conference": "Mid-America Intercollegiate Athletics Association",
     "url": "https://uafortsmithlions.com/"
   },
   {
@@ -8212,7 +8212,7 @@
     "city": "Bridgeport",
     "state": "Connecticut",
     "association": "NCAA DII",
-    "conference": "East Coast Conference",
+    "conference": "Central Atlantic Collegiate Conference",
     "url": "https://ubknights.com/"
   },
   {
@@ -8316,7 +8316,7 @@
     "city": "Montevallo",
     "state": "Alabama",
     "association": "NCAA DII",
-    "conference": "Peach Belt Conference",
+    "conference": "Gulf South Conference",
     "url": "https://www.montevallofalcons.com/"
   },
   {
@@ -8340,7 +8340,7 @@
     "city": "West Haven",
     "state": "Connecticut",
     "association": "NCAA DII",
-    "conference": "Northeast-10 Conference",
+    "conference": "Northeast Conference",
     "url": "https://www.newhavenchargers.com/"
   },
   {
@@ -8348,7 +8348,7 @@
     "city": "Florence",
     "state": "Alabama",
     "association": "NCAA DII",
-    "conference": "Gulf South Conference",
+    "conference": "Atlantic Sun Conference",
     "url": "https://roarlions.com/"
   },
   {
@@ -8356,7 +8356,7 @@
     "city": "Pembroke",
     "state": "North Carolina",
     "association": "NCAA DII",
-    "conference": "Peach Belt Conference",
+    "conference": "Conference Carolinas",
     "url": "https://uncpbraves.com/"
   },
   {
@@ -8396,7 +8396,7 @@
     "city": "Evansville",
     "state": "Indiana",
     "association": "NCAA DII",
-    "conference": "Great Lakes Valley Conference",
+    "conference": "Ohio Valley Conference",
     "url": "https://www.gousieagles.com/"
   },
   {
@@ -8460,7 +8460,7 @@
     "city": "Kenosha",
     "state": "Wisconsin",
     "association": "NCAA DII",
-    "conference": "Great Lakes Valley Conference",
+    "conference": "Great Lakes Intercollegiate Athletic Conference",
     "url": "https://www.parksiderangers.com/"
   },
   {
@@ -8468,7 +8468,7 @@
     "city": "Fayette",
     "state": "Iowa",
     "association": "NCAA DII",
-    "conference": "Northern Sun Intercollegiate Conference",
+    "conference": "Great Lakes Valley Conference",
     "url": "https://upperiowaathletics.com/"
   },
   {
@@ -8516,8 +8516,8 @@
     "city": "North Canton",
     "state": "Ohio",
     "association": "NCAA DII",
-    "conference": "Great Lakes Intercollegiate Athletic Conference",
-    "url": "https://walsh.edu/walsh-athletics"
+    "conference": "Great Midwest Athletic Conference",
+    "url": "https://athletics.walsh.edu/"
   },
   {
     "name": "Washburn University",
@@ -8588,7 +8588,7 @@
     "city": "Silver City",
     "state": "New Mexico",
     "association": "NCAA DII",
-    "conference": "Rocky Mountain Athletic Conference",
+    "conference": "Lone Star Conference",
     "url": "https://www.wnmumustangs.com/"
   },
   {
@@ -8668,7 +8668,7 @@
     "city": "Young Harris",
     "state": "Georgia",
     "association": "NCAA DII",
-    "conference": "Peach Belt Conference",
+    "conference": "Conference Carolinas",
     "url": "https://www.yhcathletics.com/"
   },
   {
@@ -8684,7 +8684,7 @@
     "city": "Columbia",
     "state": "South Carolina",
     "association": "NAIA",
-    "conference": "Independent",
+    "conference": "Southern Intercol. Ath. Conf.",
     "url": "https://auyellowjackets.com/"
   },
   {
@@ -9500,7 +9500,7 @@
     "city": "Batesville",
     "state": "Arkansas",
     "association": "NAIA",
-    "conference": "American Midwest Conference",
+    "conference": "St. Louis Intercollegiate Athletic Conference",
     "url": "https://lyonscots.com/"
   },
   {
@@ -9868,7 +9868,7 @@
     "city": "Chicago",
     "state": "Illinois",
     "association": "NAIA",
-    "conference": "Chicagoland Collegiate Athletic Conference",
+    "conference": "Horizon League",
     "url": "https://rmueagles.com/"
   },
   {
@@ -10220,7 +10220,7 @@
     "city": "Merced",
     "state": "California",
     "association": "NAIA",
-    "conference": "California Pacific Conference",
+    "conference": "California Collegiate Athletic Association",
     "url": "https://ucmercedbobcats.com/"
   },
   {
@@ -10236,7 +10236,7 @@
     "city": "Jamestown",
     "state": "North Dakota",
     "association": "NAIA",
-    "conference": "North Star Athletic Association",
+    "conference": "Northern Sun Intercollegiate Conference",
     "url": "https://jimmiepride.com/"
   },
   {
@@ -10324,7 +10324,7 @@
     "city": "Beaufort",
     "state": "South Carolina",
     "association": "NAIA",
-    "conference": "The Sun Conference",
+    "conference": "Peach Belt Conference",
     "url": "https://uscbathletics.com/"
   },
   {
@@ -10380,7 +10380,7 @@
     "city": "Costa Mesa",
     "state": "California",
     "association": "NAIA",
-    "conference": "Golden State Athletic Conference",
+    "conference": "Pacific West Conference",
     "url": "https://vanguardlions.com/"
   },
   {
@@ -10468,7 +10468,7 @@
     "city": "Santa Barbara",
     "state": "California",
     "association": "NAIA",
-    "conference": "Golden State Athletic Conference",
+    "conference": "Pacific West Conference",
     "url": "https://blogs.westmont.edu/athletics/"
   },
   {
