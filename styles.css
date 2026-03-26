@@ -754,6 +754,12 @@ body {
 /* ── Modal School Autocomplete ───────────────────────────────────────────── */
 .modal-ac-wrapper {
   position: relative;
+  width: 100%;
+}
+
+.modal-ac-wrapper input {
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .modal-ac-list {
