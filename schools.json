@@ -1,6 +1,6 @@
 [
   {
-    "name": "Adrian",
+    "name": "Adrian College",
     "state": "Michigan",
     "association": "NCAA DIII",
     "conference": "Michigan Intercollegiate Athletic Association",
@@ -586,7 +586,7 @@
   {
     "name": "College of Staten Island",
     "state": "New York",
-    "association": "NCAA DIII",
+    "association": "NCAA DII",
     "conference": "East Coast Conference",
     "url": "https://csidolphins.com/",
     "city": "New York City"
@@ -898,7 +898,7 @@
   {
     "name": "Ferrum College",
     "state": "Virginia",
-    "association": "NCAA DIII",
+    "association": "NCAA DII",
     "conference": "Conference Carolinas",
     "url": "https://ferrumpanthers.com/",
     "city": "Ferrum"
@@ -952,7 +952,7 @@
     "city": "Franklin"
   },
   {
-    "name": "Fredonia",
+    "name": "SUNY Fredonia",
     "state": "New York",
     "association": "NCAA DIII",
     "conference": "State University of New York Athletic Conference",
@@ -1603,7 +1603,7 @@
     "name": "Marymount University",
     "state": "Virginia",
     "association": "NCAA DIII",
-    "conference": "Capital Athletic Conference",
+    "conference": "Atlantic East Conference",
     "url": "https://marymountsaints.com/",
     "city": "Arlington"
   },
@@ -1772,7 +1772,7 @@
     "state": "New York",
     "association": "NCAA DIII",
     "conference": "North Eastern Athletic Conference",
-    "url": "https://morrisvillestateathletics.com/",
+    "url": "https://morrisvillemustangs.com/",
     "city": "Morrisville"
   },
   {
@@ -1794,8 +1794,8 @@
   {
     "name": "Mount Mary University",
     "state": "Wisconsin",
-    "association": "NCAA DIII",
-    "conference": "Association of DIII Independents",
+    "association": "NAIA",
+    "conference": "Chicagoland Collegiate Athletic Conference",
     "url": "https://mtmaryathletics.com/",
     "city": "Milwaukee"
   },
@@ -1984,7 +1984,7 @@
     "city": "Delaware"
   },
   {
-    "name": "University of Olivet",
+    "name": "The University of Olivet",
     "state": "Michigan",
     "association": "NCAA DIII",
     "conference": "Michigan Intercollegiate Athletic Association",
@@ -2048,7 +2048,7 @@
     "city": "Altoona"
   },
   {
-    "name": "Penn State Erie The Behrend College",
+    "name": "Penn State Erie, The Behrend College",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
     "conference": "Allegheny Mountain Collegiate Conference",
@@ -2232,7 +2232,7 @@
     "city": "Bristol"
   },
   {
-    "name": "Rose-hulman Institute Of Technology",
+    "name": "Rose-Hulman Institute Of Technology",
     "state": "Indiana",
     "association": "NCAA DIII",
     "conference": "Heartland Collegiate Athletic Conference",
@@ -2536,7 +2536,7 @@
     "city": "Alpine"
   },
   {
-    "name": "Suny Canton",
+    "name": "SUNY Canton",
     "state": "New York",
     "association": "NCAA DIII",
     "conference": "American Collegiate Athletic Association",
@@ -2672,7 +2672,7 @@
     "city": "New York City"
   },
   {
-    "name": "The College at Brockport",
+    "name": "SUNY Brockport",
     "state": "New York",
     "association": "NCAA DIII",
     "conference": "State University of New York Athletic Conference",
@@ -2686,14 +2686,6 @@
     "conference": "New Jersey Athletic Conference",
     "url": "https://tcnjathletics.com/",
     "city": "Ewing"
-  },
-  {
-    "name": "The College Of New Rochelle",
-    "state": "New York",
-    "association": "NCAA DIII",
-    "conference": "Association of DIII Independents",
-    "url": "https://cnrathletics.com/",
-    "city": "New Rochelle"
   },
   {
     "name": "The College of St. Scholastica",
@@ -2772,7 +2764,7 @@
     "state": "District of Columbia",
     "association": "NCAA DIII",
     "conference": "Independent",
-    "url": "https://athletics.trinitydc.edu/",
+    "url": "https://discover.trinitydc.edu/athletics/",
     "city": "Washington"
   },
   {
@@ -3206,14 +3198,6 @@
     "conference": "New England Women's and Men's Athletic Conference",
     "url": "https://wellesleyblue.com/",
     "city": "Wellesley"
-  },
-  {
-    "name": "Wells College",
-    "state": "New York",
-    "association": "NCAA DIII",
-    "conference": "North Eastern Athletic Conference",
-    "url": "https://wells-express.com/",
-    "city": "Aurora"
   },
   {
     "name": "Wentworth Institute of Technology",
@@ -3792,7 +3776,7 @@
     "url": "https://goholycross.com/"
   },
   {
-    "name": "College of William &amp; Mary",
+    "name": "College of William & Mary",
     "city": "Williamsburg",
     "state": "Virginia",
     "association": "NCAA DI",
@@ -3976,7 +3960,7 @@
     "url": "https://fduknights.com/"
   },
   {
-    "name": "Florida A&M; University",
+    "name": "Florida A&M University",
     "city": "Tallahassee",
     "state": "Florida",
     "association": "NCAA DI",
@@ -4728,7 +4712,7 @@
     "url": "https://goviks.com/"
   },
   {
-    "name": "Prairie View A&M; University",
+    "name": "Prairie View A&M University",
     "city": "Prairie View",
     "state": "Texas",
     "association": "NCAA DI",
@@ -4992,7 +4976,7 @@
     "url": "https://smumustangs.com/"
   },
   {
-    "name": "Southern University and A&M; College",
+    "name": "Southern University and A&M College",
     "city": "Baton Rouge",
     "state": "Louisiana",
     "association": "NCAA DI",
@@ -5096,7 +5080,7 @@
     "url": "https://ttusports.com/"
   },
   {
-    "name": "Texas A&M; University",
+    "name": "Texas A&M University",
     "city": "College Station",
     "state": "Texas",
     "association": "NCAA DI",
@@ -5104,7 +5088,7 @@
     "url": "https://12thman.com/"
   },
   {
-    "name": "Texas A&M; University-Corpus Christi",
+    "name": "Texas A&M University-Corpus Christi",
     "city": "Corpus Christi",
     "state": "Texas",
     "association": "NCAA DI",
@@ -6448,14 +6432,6 @@
     "url": "https://bctornados.com/"
   },
   {
-    "name": "Brigham Young University - Hawaii",
-    "city": "Laie",
-    "state": "Hawaii",
-    "association": "NCAA DII",
-    "conference": "Pacific West Conference",
-    "url": "https://byuhawaiisports.com/"
-  },
-  {
     "name": "Caldwell University",
     "city": "Caldwell",
     "state": "New Jersey",
@@ -6621,7 +6597,7 @@
     "state": "Pennsylvania",
     "association": "NCAA DII",
     "conference": "Pennsylvania State Athletic Conference",
-    "url": "https://cheyneywolves.com/"
+    "url": "https://cheyneyathletics.com/"
   },
   {
     "name": "Chowan University",
@@ -6776,7 +6752,7 @@
     "url": "https://dbupatriots.com/"
   },
   {
-    "name": "Davis &amp; Elkins College",
+    "name": "Davis & Elkins College",
     "city": "Elkins",
     "state": "West Virginia",
     "association": "NCAA DII",
@@ -7016,7 +6992,7 @@
     "url": "https://www.gannonsports.com/"
   },
   {
-    "name": "Georgia College &amp; State University",
+    "name": "Georgia College & State University",
     "city": "Milledgeville",
     "state": "Georgia",
     "association": "NCAA DII",
@@ -8040,7 +8016,7 @@
     "url": "https://tarletonsports.com/"
   },
   {
-    "name": "Texas A&M; Commerce",
+    "name": "Texas A&M Commerce",
     "city": "Commerce",
     "state": "Texas",
     "association": "NCAA DII",
@@ -8048,7 +8024,7 @@
     "url": "https://lionathletics.com/"
   },
   {
-    "name": "Texas A&M; International University",
+    "name": "Texas A&M International University",
     "city": "Laredo",
     "state": "Texas",
     "association": "NCAA DII",
@@ -8056,7 +8032,7 @@
     "url": "https://godustdevils.com/"
   },
   {
-    "name": "Texas A&M; Kingsville",
+    "name": "Texas A&M Kingsville",
     "city": "Kingsville",
     "state": "Texas",
     "association": "NCAA DII",
@@ -8072,7 +8048,7 @@
     "url": "https://twuathletics.com/"
   },
   {
-    "name": "The University of Virginia\\'s College at Wise",
+    "name": "The University of Virginia's College at Wise",
     "city": "Wise",
     "state": "Virginia",
     "association": "NCAA DII",
@@ -8085,7 +8061,7 @@
     "state": "Pennsylvania",
     "association": "NCAA DII",
     "conference": "Central Atlantic Collegiate Conference",
-    "url": "https://philaurams.com/"
+    "url": "https://jeffersonrams.com/"
   },
   {
     "name": "Tiffin University",
@@ -8400,14 +8376,6 @@
     "url": "https://www.udcfirebirds.com/"
   },
   {
-    "name": "University of The Sciences",
-    "city": "Philadelphia",
-    "state": "Pennsylvania",
-    "association": "NCAA DII",
-    "conference": "Central Atlantic Collegiate Conference",
-    "url": "https://devilsathletics.com/"
-  },
-  {
     "name": "University Of West Alabama",
     "city": "Livingston",
     "state": "Alabama",
@@ -8536,7 +8504,7 @@
     "url": "https://www.hilltoppersports.com/"
   },
   {
-    "name": "West Texas A&M; University",
+    "name": "West Texas A&M University",
     "city": "Canyon",
     "state": "Texas",
     "association": "NCAA DII",
@@ -8952,14 +8920,6 @@
     "url": "https://gokoalas.com/"
   },
   {
-    "name": "Concordia University - Michigan",
-    "city": "Ann Arbor",
-    "state": "Michigan",
-    "association": "NAIA",
-    "conference": "Wolverine-Hoosier Athletic Conference",
-    "url": "https://concordiacardinals.com/"
-  },
-  {
     "name": "Concordia University - Nebraska",
     "city": "Seward",
     "state": "Nebraska",
@@ -8984,7 +8944,7 @@
     "url": "https://cugoldeneagles.com/"
   },
   {
-    "name": "Crowley\\'s Ridge College",
+    "name": "Crowley's Ridge College",
     "city": "Paragould",
     "state": "Arkansas",
     "association": "NAIA",
@@ -9108,7 +9068,7 @@
     "city": "Boston",
     "state": "Massachusetts",
     "association": "NAIA",
-    "conference": "Independent",
+    "conference": "Continental Athletic Conference",
     "url": "https://fisherfalcons.com/"
   },
   {
@@ -9124,8 +9084,8 @@
     "city": "Temple Terrace",
     "state": "Florida",
     "association": "NAIA",
-    "conference": "Southern States Athletic Conference",
-    "url": "https://www.wearefc.com/"
+    "conference": "Continental Athletic Conference",
+    "url": "https://wearefc.com/"
   },
   {
     "name": "Florida Memorial University",
@@ -9228,7 +9188,7 @@
     "city": "Lawrence",
     "state": "Kansas",
     "association": "NAIA",
-    "conference": "Independent",
+    "conference": "Continental Athletic Conference",
     "url": "https://haskellathletics.com/"
   },
   {
@@ -9488,7 +9448,7 @@
     "url": "https://muknights.com/"
   },
   {
-    "name": "Martin Methodist",
+    "name": "University of Tennessee Southern",
     "city": "Pulaski",
     "state": "Tennessee",
     "association": "NAIA",
@@ -9547,8 +9507,8 @@
     "name": "Middle Georgia State University",
     "city": "Cochran",
     "state": "Georgia",
-    "association": "NAIA",
-    "conference": "Southern States Athletic Conference",
+    "association": "NCAA DII",
+    "conference": "Peach Belt Conference",
     "url": "https://mgaknights.com/"
   },
   {
@@ -9628,8 +9588,8 @@
     "city": "Sumter",
     "state": "South Carolina",
     "association": "NAIA",
-    "conference": "Independent",
-    "url": "https://morris.edu/athletics"
+    "conference": "Continental Athletic Conference",
+    "url": "https://mchornetsathletics.com"
   },
   {
     "name": "Mount Marty University",
@@ -10004,7 +9964,7 @@
     "city": "Winston-Salem",
     "state": "North Carolina",
     "association": "NAIA",
-    "conference": "Appalachian Athletic Conference",
+    "conference": "Continental Athletic Conference",
     "url": "https://cubruins.com/"
   },
   {
@@ -10048,7 +10008,7 @@
     "url": "https://gostillman.com/"
   },
   {
-    "name": "SUNY - Delhi",
+    "name": "SUNY Delhi",
     "city": "Delhi",
     "state": "New York",
     "association": "NAIA",
@@ -10088,7 +10048,7 @@
     "url": "https://twbulldogs.com/"
   },
   {
-    "name": "Texas A&M; University-Texarkana",
+    "name": "Texas A&M University-Texarkana",
     "city": "Texarkana",
     "state": "Texas",
     "association": "NAIA",
@@ -10120,7 +10080,7 @@
     "url": "https://gogeoducks.com/"
   },
   {
-    "name": "The Master\\\\\\'s University",
+    "name": "The Master's University",
     "city": "Santa Clarita",
     "state": "California",
     "association": "NAIA",
@@ -10132,7 +10092,7 @@
     "city": "Thomasville",
     "state": "Georgia",
     "association": "NAIA",
-    "conference": "The Sun Conference",
+    "conference": " Southern States Athletic Conference",
     "url": "https://tunighthawks.com/"
   },
   {
@@ -10165,7 +10125,7 @@
     "state": "Georgia",
     "association": "NAIA",
     "conference": "Appalachian Athletic Conference",
-    "url": "https://tmcbears.com/"
+    "url": "https://truett.edu/athletics/"
   },
   {
     "name": "Union Commonwealth University",
@@ -10332,7 +10292,7 @@
     "city": "Victoria",
     "state": "British Columbia",
     "association": "NAIA",
-    "conference": "Independent",
+    "conference": "Continental Athletic Conference",
     "url": "https://govikesgo.com/"
   },
   {
@@ -10404,7 +10364,7 @@
     "city": "Takoma Park",
     "state": "Maryland",
     "association": "NAIA",
-    "conference": "Independent",
+    "conference": "Continental Athletic Conference",
     "url": "https://wauathletics.com/"
   },
   {
