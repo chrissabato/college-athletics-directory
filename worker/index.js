@@ -41,7 +41,7 @@ export default {
         "Accept": "application/vnd.github+json",
       },
       body: JSON.stringify({
-        title: `Correction: ${school}`,
+        title: `${issue_type}: ${school}`,
         body,
         labels: ["correction"],
       }),
