@@ -548,7 +548,7 @@
     "state": "Maine",
     "association": "NCAA DIII",
     "conference": "New England Small College Athletic Conference",
-    "url": "https://colby.edu/athletics_cs/",
+    "url": "https://colbyathletics.com/",
     "city": "Waterville"
   },
   {
@@ -684,7 +684,7 @@
     "state": "New York",
     "association": "NCAA DIII",
     "conference": "East Coast Conference",
-    "url": "https://athletics.dyc.edu/",
+    "url": "https://dyusaints.com/",
     "city": "Buffalo"
   },
   {
@@ -2460,7 +2460,7 @@
     "state": "New York",
     "association": "NCAA DIII",
     "conference": "Skyline Conference",
-    "url": "hhttps://sjbkathletics.com/",
+    "url": "https://sjbkathletics.com/",
     "city": "Brooklyn"
   },
   {
@@ -2628,7 +2628,7 @@
     "state": "Pennsylvania",
     "association": "NCAA DIII",
     "conference": "Landmark Conference",
-    "url": "https://gosusqu.com/",
+    "url": "https://suriverhawks.com/",
     "city": "Selinsgrove"
   },
   {
@@ -3276,7 +3276,7 @@
     "state": "Missouri",
     "association": "NCAA DIII",
     "conference": "St Louis Intercollegiate Athletic Conference",
-    "url": "https://www.westminster-mo.edu/athletics/pages/default.aspx",
+    "url": "https://athletics.westminster.edu/",
     "city": "Fulton"
   },
   {
@@ -5014,14 +5014,6 @@
     "association": "NCAA DI",
     "conference": "Atlantic 10 Conference",
     "url": "https://gobonnies.com"
-  },
-  {
-    "name": "St. Francis College",
-    "city": "Brooklyn",
-    "state": "New York",
-    "association": "NCAA DI",
-    "conference": "Northeast Conference",
-    "url": "https://sfcathletics.com/"
   },
   {
     "name": "St. John's University",
@@ -7520,14 +7512,6 @@
     "url": "https://www.nmhucowboys.com/"
   },
   {
-    "name": "New York Institute of Technology",
-    "city": "Old Westbury",
-    "state": "New York",
-    "association": "NCAA DII",
-    "conference": "East Coast Conference",
-    "url": "https://nyitbears.com/"
-  },
-  {
     "name": "Newberry College",
     "city": "Newberry",
     "state": "South Carolina",
@@ -7614,14 +7598,6 @@
     "association": "NCAA DII",
     "conference": "Sunshine State Conference",
     "url": "https://www.nsusharks.com/"
-  },
-  {
-    "name": "Nyack College",
-    "city": "Nyack",
-    "state": "New York",
-    "association": "NCAA DII",
-    "conference": "Central Atlantic Collegiate Conference",
-    "url": "https://athletics.nyack.edu/"
   },
   {
     "name": "Oakland City University",
@@ -8861,7 +8837,7 @@
     "state": "Indiana",
     "association": "NAIA",
     "conference": "Chicagoland Collegiate Athletic Conference",
-    "url": "https://ccsj.edu/athletics"
+    "url": "https://www.ccsjathletics.com/"
   },
   {
     "name": "Campbellsville University",
@@ -9101,7 +9077,7 @@
     "state": "Florida",
     "association": "NAIA",
     "conference": "Gulf Coast Athletic Conference",
-    "url": "https://ewc.edu/index.php/athletics/"
+    "url": "https://ewutigerpride.com/"
   },
   {
     "name": "Embry-Riddle Aeronautical University Prescott",
@@ -9109,7 +9085,7 @@
     "state": "Arizona",
     "association": "NAIA",
     "conference": "California Pacific Conference",
-    "url": "https://prescott.embryriddlesports.com/"
+    "url": "https://eraueagles.com/"
   },
   {
     "name": "Evangel University",
@@ -9141,7 +9117,7 @@
     "state": "Tennessee",
     "association": "NAIA",
     "conference": "Independent",
-    "url": "https://fisk.edu/athletics/"
+    "url": "https://www.fiskathletics.com/"
   },
   {
     "name": "Florida College",
@@ -9285,7 +9261,7 @@
     "state": "Indiana",
     "association": "NAIA",
     "conference": "Collegiate Conference of the South",
-    "url": "https://huntington.edu/athletics/"
+    "url": "https://www.huathletics.com/"
   },
   {
     "name": "Huston-Tillotson University",
@@ -9293,7 +9269,7 @@
     "state": "Texas",
     "association": "NAIA",
     "conference": "Red River Athletic Conference",
-    "url": "https://htu.edu/athletics"
+    "url": "https://htramsathletics.com/"
   },
   {
     "name": "Indiana Tech",
@@ -9357,7 +9333,7 @@
     "state": "Texas",
     "association": "NAIA",
     "conference": "Red River Athletic Conference",
-    "url": "https://jccbulldogs.com/"
+    "url": "https://jcubulldogs.com/"
   },
   {
     "name": "John Brown University",
@@ -9446,14 +9422,6 @@
     "association": "NAIA",
     "conference": "Mid-South Conference",
     "url": "https://liferunningeagles.com/"
-  },
-  {
-    "name": "Lincoln Christian University",
-    "city": "Lincoln",
-    "state": "Illinois",
-    "association": "NAIA",
-    "conference": "Independent",
-    "url": "https://lcuredlions.com/"
   },
   {
     "name": "Lindsey Wilson College",
@@ -9621,7 +9589,7 @@
     "state": "Missouri",
     "association": "NAIA",
     "conference": "Heart of America Athletic Conference",
-    "url": "https://moval.edu/athletics/"
+    "url": "https://valleywillroll.com/"
   },
   {
     "name": "Montana State University - Northern",
@@ -9853,7 +9821,7 @@
     "state": "California",
     "association": "NAIA",
     "conference": "California Pacific Conference",
-    "url": "https://providencecc.edu/athletics/"
+    "url": "https://www.seabeggars.com/"
   },
   {
     "name": "Reinhardt University",
@@ -9949,7 +9917,7 @@
     "state": "Nevada",
     "association": "NAIA",
     "conference": "California Pacific Conference",
-    "url": "https://snctahoeeagles.com/"
+    "url": "https://athletics.sierracollege.edu/"
   },
   {
     "name": "Simpson University",
@@ -9973,7 +9941,7 @@
     "state": "Florida",
     "association": "NAIA",
     "conference": "The Sun Conference",
-    "url": "https://fire.seu.edu/ "
+    "url": "https://fire.seu.edu/"
   },
   {
     "name": "Southern Oregon University",
@@ -10317,7 +10285,7 @@
     "state": "Oklahoma",
     "association": "NAIA",
     "conference": "Sooner Athletic Conference",
-    "url": "https://usao.edu/sports"
+    "url": "https://www.usaoathletics.com/"
   },
   {
     "name": "University of South Carolina Beaufort",
