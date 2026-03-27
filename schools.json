@@ -356,14 +356,6 @@
     "ncaa_id": 79
   },
   {
-    "name": "Bryn Athyn College",
-    "state": "Pennsylvania",
-    "association": "NCAA DIII",
-    "conference": "North Eastern Athletic Conference",
-    "url": "https://brynathynathletics.com/",
-    "city": "Bryn Athyn"
-  },
-  {
     "name": "Bryn Mawr College",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
@@ -389,14 +381,6 @@
     "url": "https://buffalostateathletics.com/",
     "city": "Buffalo",
     "ncaa_id": 85
-  },
-  {
-    "name": "Cabrini College",
-    "state": "Pennsylvania",
-    "association": "NCAA DIII",
-    "conference": "Colonial States Athletic Conference",
-    "url": "https://cabriniathletics.com/",
-    "city": "Philadelphia"
   },
   {
     "name": "Cairn University",
@@ -2170,14 +2154,6 @@
     "ncaa_id": 496
   },
   {
-    "name": "Northland College",
-    "state": "Wisconsin",
-    "association": "NCAA DIII",
-    "conference": "Upper Midwest Athletic Conference",
-    "url": "https://northlandcollegesports.com/",
-    "city": "Ashland"
-  },
-  {
     "name": "Norwich University",
     "state": "Vermont",
     "association": "NCAA DIII",
@@ -3547,7 +3523,8 @@
     "state": "North Carolina",
     "association": "NCAA DIII",
     "conference": "Coast to Coast Athletic Conference",
-    "url": "https://athletics.warren-wilson.edu/"
+    "url": "https://athletics.warren-wilson.edu/",
+    "ncaa_id": 30236
   },
   {
     "name": "Wartburg College",
@@ -7027,14 +7004,6 @@
     "ncaa_id": 817
   },
   {
-    "name": "Academy of Art University",
-    "city": "San Francisco",
-    "state": "California",
-    "association": "NCAA DII",
-    "conference": "Pacific West Conference",
-    "url": "https://artuathletics.com/"
-  },
-  {
     "name": "Adams State University",
     "city": "Alamosa",
     "state": "Colorado",
@@ -7988,14 +7957,6 @@
     "conference": "Central Atlantic Collegiate Conference",
     "url": "https://athletics.holyfamily.edu/",
     "ncaa_id": 1126
-  },
-  {
-    "name": "Holy Names University",
-    "city": "Oakland",
-    "state": "California",
-    "association": "NCAA DII",
-    "conference": "Pacific West Conference",
-    "url": "https://www.hnuhawks.com/"
   },
   {
     "name": "Humboldt State University",
@@ -9495,14 +9456,6 @@
     "conference": "Great Lakes Valley Conference",
     "url": "https://upperiowaathletics.com/",
     "ncaa_id": 728
-  },
-  {
-    "name": "Urbana University",
-    "city": "Urbana",
-    "state": "Ohio",
-    "association": "NCAA DII",
-    "conference": "Mountain East Conference",
-    "url": "https://uublueknights.com/"
   },
   {
     "name": "Ursuline College",
