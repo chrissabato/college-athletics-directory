@@ -3880,7 +3880,8 @@
     "state": "Texas",
     "association": "NCAA DI",
     "conference": "Western Athletic Conference",
-    "url": "https://acusports.com/"
+    "url": "https://acusports.com/",
+    "ncaa_id": 2
   },
   {
     "name": "Alabama Agricultural and Mechanical University",
