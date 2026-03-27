@@ -115,7 +115,9 @@ function updateAutocomplete(rawQuery) {
   autocompleteList.innerHTML = matches
     .map((school, i) => {
       const location = [school.city, school.state].filter(Boolean).join(', ');
-      const meta = [school.association, school.conference, location].filter(Boolean).join(' &mdash; ');
+      const metaParts = [school.association, school.conference, location].filter(Boolean);
+      if (school.ncaa_id) metaParts.push(`ID: ${school.ncaa_id}`);
+      const meta = metaParts.join(' &mdash; ');
       const favicon = school.url ? `<img class="ac-favicon" src="${escapeHtml(getFaviconUrl(school.url, school.favicon_url))}" alt="" aria-hidden="true">` : '';
       return `<li role="option" data-value="${escapeHtml(school.name)}" data-url="${escapeHtml(school.url)}" data-index="${i}">` +
         favicon +
@@ -242,6 +244,7 @@ function renderResults(schools) {
           </p>
           <span class="card-association">${escapeHtml(school.association)}</span>
         </div>
+        ${school.ncaa_id ? `<p class="card-ncaa-id">NCAA ID: ${school.ncaa_id}</p>` : ''}
       </article>
     `)
     .join("");

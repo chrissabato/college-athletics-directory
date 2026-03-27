@@ -433,6 +433,12 @@ body {
   white-space: nowrap;
 }
 
+.card-ncaa-id {
+  font-size: 0.72rem;
+  color: var(--color-text-muted);
+  margin-top: 0.25rem;
+}
+
 
 /* ── Empty State ─────────────────────────────────────────────────────────── */
 .empty-state[hidden] { display: none; }
