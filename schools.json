@@ -176,7 +176,7 @@
     "name": "Averett University",
     "state": "Virginia",
     "association": "NCAA DIII",
-    "conference": "Old Dominion Athletic Conf.",
+    "conference": "Old Dominion Athletic Conference",
     "url": "https://averettcougars.com/",
     "city": "Danville",
     "ncaa_id": 44
@@ -2208,7 +2208,7 @@
     "name": "Occidental College",
     "state": "California",
     "association": "NCAA DIII",
-    "conference": "Southern California Intercollegiate Athletic Conf.",
+    "conference": "Southern California Intercollegiate Athletic Conference",
     "url": "https://oxyathletics.com/",
     "city": "Los Angeles",
     "ncaa_id": 516
@@ -2867,7 +2867,7 @@
     "name": "SUNY Canton",
     "state": "New York",
     "association": "NCAA DIII",
-    "conference": "American Collegiate Athletic Association",
+    "conference": "State University of New York Athletic Conference",
     "url": "https://rooathletics.com/",
     "city": "Canton",
     "ncaa_id": 30165
@@ -3211,7 +3211,7 @@
     "name": "University of Maine - Presque Isle",
     "state": "Maine",
     "association": "NCAA DIII",
-    "conference": "American Collegiate Athletic Association",
+    "conference": "North Atlantic Conference",
     "url": "https://owls.umpi.edu/",
     "city": "Presque Isle",
     "ncaa_id": 30040
@@ -3506,10 +3506,10 @@
     "ncaa_id": 733
   },
   {
-    "name": "Valley Forge Christian College",
+    "name": "University of Valley Forge",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "American Collegiate Athletic Association",
+    "conference": "United East Conference",
     "url": "https://vfccpatriots.com/",
     "city": "Phoenixville",
     "ncaa_id": 30166
@@ -3540,6 +3540,14 @@
     "url": "https://sports.wabash.edu/",
     "city": "Crawfordsville",
     "ncaa_id": 747
+  },
+  {
+    "name": "Warren Wilson College",
+    "city": "Swannanoa",
+    "state": "North Carolina",
+    "association": "NCAA DIII",
+    "conference": "Coast to Coast Athletic Conference",
+    "url": "https://athletics.warren-wilson.edu/"
   },
   {
     "name": "Wartburg College",
@@ -3888,7 +3896,7 @@
     "city": "Montgomery",
     "state": "Alabama",
     "association": "NCAA DI",
-    "conference": "Southwestern Athletic Conf.",
+    "conference": "Southwestern Athletic Conference",
     "url": "https://bamastatesports.com/",
     "ncaa_id": 7
   },
@@ -4293,7 +4301,7 @@
     "city": "Baltimore",
     "state": "Maryland",
     "association": "NCAA DI",
-    "conference": "Mid-Eastern Athletic Conf.",
+    "conference": "Mid-Eastern Athletic Conference",
     "url": "https://coppinstatesports.com/",
     "ncaa_id": 165
   },
@@ -6021,7 +6029,7 @@
     "city": "Storrs",
     "state": "Connecticut",
     "association": "NCAA DI",
-    "conference": "BIG EAST Conference",
+    "conference": "Big East Conference",
     "url": "https://uconnhuskies.com/",
     "ncaa_id": 164
   },
@@ -9726,7 +9734,7 @@
     "city": "Columbia",
     "state": "South Carolina",
     "association": "NAIA",
-    "conference": "Southern Intercol. Ath. Conf.",
+    "conference": "Southern Intercollegiate Athletic Conference",
     "url": "https://auyellowjackets.com/",
     "ncaa_id": 30240
   },
@@ -9945,7 +9953,7 @@
     "city": "Pittsburgh",
     "state": "Pennsylvania",
     "association": "NAIA",
-    "conference": "Kentucky Intercollegiate Athletic Conference",
+    "conference": "Allegheny Mountain Collegiate Conference",
     "url": "https://athletics.carlow.edu/",
     "ncaa_id": 30253
   },
@@ -10154,7 +10162,7 @@
     "city": "New Orleans",
     "state": "Louisiana",
     "association": "NAIA",
-    "conference": "Gulf Coast Athletic Conference",
+    "conference": "HBCU Athletic Conference",
     "url": "https://dillardbleudevils.com/",
     "ncaa_id": 501365
   },
@@ -11393,7 +11401,7 @@
     "city": "Thomasville",
     "state": "Georgia",
     "association": "NAIA",
-    "conference": " Southern States Athletic Conference",
+    "conference": "Southern States Athletic Conference",
     "url": "https://tunighthawks.com/",
     "ncaa_id": 506315
   },
@@ -11826,7 +11834,7 @@
     "state": "Nebraska",
     "association": "NAIA",
     "conference": "Independent",
-    "url": "https://ycpanthers.com/",
+    "url": "https://yorkpanthers.com/",
     "ncaa_id": 815
   },
   {
