@@ -73,7 +73,10 @@ function renderResults(matches, query) {
       <li role="option" data-url="${escapeHtml(school.url)}" data-index="${i}">
         ${school.url ? `<img class="favicon" src="${school.favicon_url || `https://www.google.com/s2/favicons?domain=${new URL(school.url).hostname}&sz=64`}" alt="">` : ''}
         <div class="info">
-          <span class="name">${highlightMatch(school.name, query)}</span>
+          <span class="name-row">
+            <span class="name">${highlightMatch(school.name, query)}</span>
+            ${school.ncaa_id ? `<span class="ncaa-id">${school.ncaa_id}</span>` : ''}
+          </span>
           <span class="meta">${escapeHtml(meta)}</span>
         </div>
       </li>`;

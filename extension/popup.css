@@ -149,12 +149,27 @@ body {
   min-width: 0;
 }
 
+.name-row {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  min-width: 0;
+}
+
 .name {
   font-size: 0.9rem;
   font-weight: 600;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  flex: 1;
+}
+
+.ncaa-id {
+  font-size: 0.72rem;
+  color: var(--color-muted);
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 
 .name mark {
