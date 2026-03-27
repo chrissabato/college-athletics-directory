@@ -168,7 +168,7 @@ body {
 
 .ncaa-id {
   font-size: 0.72rem;
-  color: var(--color-muted);
+  color: #b0b5c0;
   white-space: nowrap;
   flex-shrink: 0;
 }
