@@ -40,7 +40,7 @@
     "name": "Albright College",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conferences",
+    "conference": "Middle Atlantic Conference",
     "url": "https://albrightathletics.com/",
     "city": "Reading",
     "ncaa_id": 16
@@ -85,7 +85,7 @@
     "name": "Alvernia University",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conferences",
+    "conference": "Middle Atlantic Conference",
     "url": "https://athletics.alvernia.edu/",
     "city": "Reading",
     "ncaa_id": 938
@@ -130,7 +130,7 @@
     "name": "Arcadia University",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conferences",
+    "conference": "Middle Atlantic Conference",
     "url": "https://athletics.arcadia.edu/",
     "city": "Glenside",
     "ncaa_id": 966
@@ -775,7 +775,7 @@
     "name": "Delaware Valley University",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conferences",
+    "conference": "Middle Atlantic Conference",
     "url": "https://athletics.delval.edu/",
     "city": "Doylestown",
     "ncaa_id": 179
@@ -802,7 +802,7 @@
     "name": "DeSales University",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conferences",
+    "conference": "Middle Atlantic Conference",
     "url": "https://athletics.desales.edu/",
     "city": "Center Valley",
     "ncaa_id": 20
@@ -874,7 +874,7 @@
     "name": "Eastern University",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conferences",
+    "conference": "Middle Atlantic Conference",
     "url": "https://goeasterneagles.com/",
     "city": "King of Prussia",
     "ncaa_id": 8968
@@ -984,7 +984,7 @@
     "name": "Fairleigh Dickinson University-Florham",
     "state": "New Jersey",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conferences",
+    "conference": "Middle Atlantic Conference",
     "url": "https://fdudevils.com/",
     "city": "Madison",
     "ncaa_id": 221
@@ -1319,7 +1319,7 @@
     "name": "Hood College",
     "state": "Maryland",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conferences",
+    "conference": "Middle Atlantic Conference",
     "url": "https://hoodathletics.com/",
     "city": "Frederick",
     "ncaa_id": 8404
@@ -1887,7 +1887,7 @@
     "name": "Messiah University",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conferences",
+    "conference": "Middle Atlantic Conference",
     "url": "https://gomessiah.com/",
     "city": "Mechanicsburg",
     "ncaa_id": 411
@@ -1941,7 +1941,7 @@
     "name": "Misericordia University",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conferences",
+    "conference": "Middle Atlantic Conference",
     "url": "https://athletics.misericordia.edu/",
     "city": "Dallas",
     "ncaa_id": 16142
@@ -2806,7 +2806,7 @@
     "name": "Stevens Institute Of Technology",
     "state": "New Jersey",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conferences",
+    "conference": "Middle Atlantic Conference",
     "url": "https://stevensducks.com/",
     "city": "Hoboken",
     "ncaa_id": 679
@@ -2815,7 +2815,7 @@
     "name": "Stevenson University",
     "state": "Maryland",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conferences",
+    "conference": "Middle Atlantic Conference",
     "url": "https://gomustangsports.com/",
     "city": "Owings Mills",
     "ncaa_id": 21852
@@ -3720,7 +3720,7 @@
     "name": "Widener University",
     "state": "Pennsylvania",
     "association": "NCAA DIII",
-    "conference": "Middle Atlantic Conferences",
+    "conference": "Middle Atlantic Conference",
     "url": "https://widenerpride.com/",
     "city": "Chester",
     "ncaa_id": 783
