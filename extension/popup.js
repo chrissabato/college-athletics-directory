@@ -17,7 +17,7 @@ async function fetchSchools() {
   let lastError;
   for (const url of DATA_URLS) {
     try {
-      const res = await fetch(url);
+      const res = await fetch(url, { cache: 'no-store' });
       if (!res.ok) throw new Error(res.status);
       SCHOOLS = await res.json();
       chrome.storage.local.set({ schools: SCHOOLS });
@@ -155,7 +155,8 @@ refreshBtn.addEventListener("click", async () => {
     await fetchSchools();
     search(searchInput.value);
   } catch {
-    // silently fail — data stays as-is
+    initialState.textContent = "Refresh failed. Check your connection.";
+    initialState.hidden = false;
   } finally {
     refreshBtn.classList.remove("spinning");
     refreshBtn.disabled = false;
