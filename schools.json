@@ -636,10 +636,10 @@
     "ncaa_id": 595
   },
   {
-    "name": "College of Saint Elizabeth",
+    "name": "Saint Elizabeth University",
     "state": "New Jersey",
     "association": "NCAA DIII",
-    "conference": "North Eastern Athletic Conference",
+    "conference": "United East Conference",
     "url": "https://seueagles.com/",
     "city": "Morristown",
     "ncaa_id": 9684
@@ -6232,7 +6232,7 @@
     "city": "Amherst",
     "state": "Massachusetts",
     "association": "NCAA DI",
-    "conference": "Atlantic 10 Conference",
+    "conference": "Mid-American Conference",
     "url": "https://umassathletics.com/",
     "ncaa_id": 400
   },
@@ -11640,7 +11640,7 @@
     "city": "Forest City",
     "state": "Iowa",
     "association": "NAIA",
-    "conference": "North Star Athletic Association",
+    "conference": "Great Plains Athletic Conference",
     "url": "https://waldorfwarriors.com/",
     "favicon_url": "https://waldorfwarriors.com/assets/favicons/favicon-32x32.png",
     "ncaa_id": 506242
