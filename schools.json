@@ -4162,7 +4162,7 @@
     "city": "Buffalo",
     "state": "New York",
     "association": "NCAA DI",
-    "conference": "Metro Atlantic Athletic Conference",
+    "conference": "Metro Conference",
     "url": "https://gogriffs.com/",
     "ncaa_id": 116
   },
@@ -4450,7 +4450,7 @@
     "city": "Fairfield",
     "state": "Connecticut",
     "association": "NCAA DI",
-    "conference": "Metro Atlantic Athletic Conference",
+    "conference": "Metro Conference",
     "url": "https://fairfieldstags.com/",
     "ncaa_id": 220
   },
@@ -4729,7 +4729,7 @@
     "city": "New Rochelle",
     "state": "New York",
     "association": "NCAA DI",
-    "conference": "Metro Atlantic Athletic Conference",
+    "conference": "Metro Conference",
     "url": "https://ionagaels.com/",
     "ncaa_id": 310
   },
@@ -4927,7 +4927,7 @@
     "city": "Bronx",
     "state": "New York",
     "association": "NCAA DI",
-    "conference": "Metro Atlantic Athletic Conference",
+    "conference": "Metro Conference",
     "url": "https://gojaspers.com/",
     "ncaa_id": 381
   },
@@ -4936,7 +4936,7 @@
     "city": "Poughkeepsie",
     "state": "New York",
     "association": "NCAA DI",
-    "conference": "Metro Atlantic Athletic Conference",
+    "conference": "Metro Conference",
     "url": "https://goredfoxes.com/",
     "ncaa_id": 386
   },
@@ -5071,7 +5071,7 @@
     "city": "Emmitsburg",
     "state": "Maryland",
     "association": "NCAA DI",
-    "conference": "Metro Atlantic Athletic Conference",
+    "conference": "Metro Conference",
     "url": "https://mountathletics.com/",
     "ncaa_id": 450
   },
@@ -5107,7 +5107,7 @@
     "city": "Lewiston",
     "state": "New York",
     "association": "NCAA DI",
-    "conference": "Metro Atlantic Athletic Conference",
+    "conference": "Metro Conference",
     "url": "https://purpleeagles.com/",
     "ncaa_id": 482
   },
@@ -5359,7 +5359,7 @@
     "city": "Hamden",
     "state": "Connecticut",
     "association": "NCAA DI",
-    "conference": "Metro Atlantic Athletic Conference",
+    "conference": "Metro Conference",
     "url": "https://gobobcats.com",
     "ncaa_id": 562
   },
@@ -5386,7 +5386,7 @@
     "city": "Lawrenceville",
     "state": "New Jersey",
     "association": "NCAA DI",
-    "conference": "Metro Atlantic Athletic Conference",
+    "conference": "Metro Conference",
     "url": "https://gobroncs.com/",
     "ncaa_id": 576
   },
@@ -5413,7 +5413,7 @@
     "city": "Fairfield",
     "state": "Connecticut",
     "association": "NCAA DI",
-    "conference": "Metro Atlantic Athletic Conference",
+    "conference": "Metro Conference",
     "url": "https://sacredheartpioneers.com/",
     "ncaa_id": 590
   },
@@ -5458,7 +5458,7 @@
     "city": "Jersey City",
     "state": "New Jersey",
     "association": "NCAA DI",
-    "conference": "Metro Atlantic Athletic Conference",
+    "conference": "Metro Conference",
     "url": "https://saintpeterspeacocks.com/",
     "ncaa_id": 617
   },
@@ -5539,7 +5539,7 @@
     "city": "Loudonville",
     "state": "New York",
     "association": "NCAA DI",
-    "conference": "Metro Atlantic Athletic Conference",
+    "conference": "Metro Conference",
     "url": "https://sienasaints.com/",
     "ncaa_id": 639
   },
@@ -8271,7 +8271,7 @@
     "city": "North Andover",
     "state": "Massachusetts",
     "association": "NCAA DII",
-    "conference": "Metro Atlantic Athletic Conference",
+    "conference": "Metro Conference",
     "url": "https://www.merrimackathletics.com/",
     "ncaa_id": 410
   },
